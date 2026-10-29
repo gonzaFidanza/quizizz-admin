@@ -1,0 +1,20 @@
+{
+  "title": "Proceso de entrenamiento de RRHH",
+  "topic": "Recursos Humanos",
+  "width": 702,
+  "height": 352,
+  "blanks": [
+    { "id": "b1", "x": 30, "y": 44, "w": 128, "h": 48, "answer": "Inventario de necesidades de entrenamiento", "accept": ["Inventario de necesidades de capacitación"], "level": "clave" },
+    { "id": "b2", "x": 203, "y": 43, "w": 104, "h": 52, "answer": "Programación de entrenamiento", "accept": ["Programación del entrenamiento"], "level": "clave" },
+    { "id": "b3", "x": 372, "y": 43, "w": 118, "h": 53, "answer": "Ejecución del entrenamiento", "accept": ["Ejecución de entrenamiento"], "level": "clave" },
+    { "id": "b4", "x": 532, "y": 43, "w": 140, "h": 52, "answer": "Evaluación de los resultados del entrenamiento", "accept": ["Evaluación de resultados del entrenamiento"], "level": "clave" },
+    { "id": "b9", "x": 498, "y": 216, "w": 122, "h": 16, "answer": "Retroalimentación", "level": "clave" },
+    { "id": "b10", "x": 478, "y": 234, "w": 166, "h": 17, "answer": "Resultados satisfactorios", "level": "clave" },
+    { "id": "b11", "x": 328, "y": 306, "w": 118, "h": 16, "answer": "Retroalimentación", "level": "clave" },
+    { "id": "b12", "x": 303, "y": 324, "w": 176, "h": 17, "answer": "Resultados insatisfactorios", "level": "clave" },
+    { "id": "b5", "x": 50, "y": 7, "w": 94, "h": 36, "answer": "Diagnóstico de la situación", "level": "extra" },
+    { "id": "b6", "x": 202, "y": 7, "w": 134, "h": 36, "answer": "Decisión en cuanto a estrategia", "accept": ["Decisión en cuanto a la estrategia"], "level": "extra" },
+    { "id": "b7", "x": 378, "y": 7, "w": 104, "h": 36, "answer": "Implementación o acción", "level": "extra" },
+    { "id": "b8", "x": 560, "y": 7, "w": 84, "h": 36, "answer": "Evaluación y control", "level": "extra" }
+  ]
+}
