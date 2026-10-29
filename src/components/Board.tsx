@@ -29,6 +29,7 @@ export function Board(p: Props) {
   const H = config.height ?? natural?.h
   const minH = Math.min(...config.blanks.map((b) => b.h), 40)
   const fs = config.fontSize ?? Math.min(14, Math.max(9, minH * 0.72))
+  const size = W && H ? boardWidth(W, H, config.blanks, p.zoom) : `${p.zoom * 100}%`
 
   // Los huecos de la mitad derecha se anclan a la derecha, así al agrandarse con el foco no se salen de la imagen.
   const pos = (b: { x: number; y: number; w: number; h: number }) =>
@@ -47,7 +48,7 @@ export function Board(p: Props) {
     <div className="board-scroll">
       <div
         className={`board mode-${p.mode}`}
-        style={{ width: `${p.zoom * 100}%`, ['--fs' as string]: W ? `max(10px, ${(fs / W) * 100}cqw)` : '13px' }}
+        style={{ width: size, ['--fs' as string]: W ? `clamp(12px, ${(fs / W) * 100}cqw, 16px)` : '13px' }}
       >
         <img
           src={p.diagram.image}
@@ -131,4 +132,27 @@ export function Board(p: Props) {
       </div>
     </div>
   )
+}
+
+/** Alto en pantalla al que apunta un hueco típico: grande para leer, sin que el input quede gigante. */
+const TARGET_BLANK_PX = 44
+const MIN_SCALE = 0.6
+const MAX_SCALE = 2.5
+/** Lo que ocupan barra superior, título y herramientas, para que el gráfico entre en pantalla. */
+const CHROME_PX = 230
+/** Ningún gráfico se muestra más angosto que esto (salvo en pantallas chicas). */
+const MIN_PX = 440
+
+/**
+ * Ancho del gráfico en modo «Ajustar». Sirve para cualquier imagen, sea un recorte chico o un escaneo grande:
+ * se escala según el tamaño de sus textos (no según el ancho disponible), y nunca pasa del ancho del panel
+ * ni del alto de la pantalla. El zoom multiplica ese tamaño.
+ */
+function boardWidth(W: number, H: number, blanks: { h: number }[], zoom: number) {
+  const hs = blanks.map((b) => b.h).sort((a, b) => a - b)
+  const median = hs.length ? hs[Math.floor(hs.length / 2)] : 30
+  const scale = Math.min(MAX_SCALE, Math.max(MIN_SCALE, TARGET_BLANK_PX / median))
+  const byText = Math.round(W * scale)
+  const byHeight = `calc((100vh - ${CHROME_PX}px) * ${(W / H).toFixed(4)})`
+  return `calc(max(min(${MIN_PX}px, 100%), min(${byText}px, 100%, ${byHeight})) * ${zoom})`
 }
