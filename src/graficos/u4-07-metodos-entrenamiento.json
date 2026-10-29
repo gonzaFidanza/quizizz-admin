@@ -1,0 +1,22 @@
+{
+  "title": "Métodos de entrenamiento",
+  "topic": "U4 · Desarrollo y mantenimiento",
+  "order": 60,
+  "width": 1024,
+  "height": 463,
+  "blanks": [
+    {"id": "b1", "x": 61, "y": 181, "w": 67, "h": 60, "answer": "En el cargo", "level": "clave"},
+    {"id": "b2", "x": 183, "y": 191, "w": 107, "h": 29, "answer": "Vestibular", "level": "clave"},
+    {"id": "b3", "x": 319, "y": 166, "w": 112, "h": 82, "answer": "Demostraciones, ejemplos", "accept": ["Demostraciones", "Demostraciones y ejemplos"], "level": "clave"},
+    {"id": "b4", "x": 469, "y": 178, "w": 96, "h": 55, "answer": "Métodos de clase", "level": "clave"},
+    {"id": "b5", "x": 598, "y": 190, "w": 123, "h": 29, "answer": "Simulación", "level": "clave"},
+    {"id": "b6", "x": 732, "y": 189, "w": 129, "h": 32, "answer": "Aprendizaje", "level": "clave"},
+    {"id": "b7", "x": 173, "y": 337, "w": 128, "h": 27, "answer": "Conferencia", "level": "clave"},
+    {"id": "b8", "x": 328, "y": 322, "w": 99, "h": 55, "answer": "Estudio de casos", "level": "clave"},
+    {"id": "b9", "x": 475, "y": 335, "w": 86, "h": 33, "answer": "Lectura", "level": "clave"},
+    {"id": "b10", "x": 599, "y": 326, "w": 118, "h": 56, "answer": "Dramatización", "level": "clave"},
+    {"id": "b11", "x": 733, "y": 322, "w": 132, "h": 56, "answer": "Instrucción programada", "level": "clave"},
+    {"id": "b12", "x": 902, "y": 187, "w": 67, "h": 34, "answer": "Otros", "level": "extra"},
+    {"id": "b13", "x": 457, "y": 28, "w": 121, "h": 79, "answer": "Métodos de entrenamiento", "level": "extra"}
+  ]
+}

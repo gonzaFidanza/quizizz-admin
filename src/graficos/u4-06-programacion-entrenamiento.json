@@ -1,0 +1,25 @@
+{
+  "title": "Programación del entrenamiento",
+  "topic": "U4 · Desarrollo y mantenimiento",
+  "order": 50,
+  "width": 1015,
+  "height": 941,
+  "blanks": [
+    {"id": "b1", "x": 656, "y": 41, "w": 269, "h": 47, "answer": "Personal entrenado", "level": "clave"},
+    {"id": "b2", "x": 709, "y": 141, "w": 164, "h": 78, "answer": "Entrenador o instructor", "accept": ["Entrenador", "Instructor"], "level": "clave"},
+    {"id": "b3", "x": 665, "y": 254, "w": 251, "h": 81, "answer": "Tema o contenido del entrenamiento", "accept": ["Contenido del entrenamiento", "Tema del entrenamiento"], "level": "clave"},
+    {"id": "b4", "x": 629, "y": 368, "w": 323, "h": 80, "answer": "Lugar físico, organismo o entidad", "accept": ["Lugar físico"], "level": "clave"},
+    {"id": "b5", "x": 607, "y": 487, "w": 367, "h": 77, "answer": "Métodos de entrenamiento o recursos necesarios", "accept": ["Métodos de entrenamiento"], "level": "clave"},
+    {"id": "b6", "x": 623, "y": 598, "w": 337, "h": 87, "answer": "Época de entrenamiento y horario", "accept": ["Época y horario"], "level": "clave"},
+    {"id": "b7", "x": 660, "y": 717, "w": 260, "h": 78, "answer": "Volumen, duración o intensidad", "accept": ["Volumen duración e intensidad"], "level": "clave"},
+    {"id": "b8", "x": 638, "y": 831, "w": 308, "h": 84, "answer": "Objetivos o resultados esperados", "accept": ["Resultados esperados", "Objetivos"], "level": "clave"},
+    {"id": "b9", "x": 68, "y": 29, "w": 190, "h": 80, "answer": "A quién debe entrenarse", "accept": ["A quién entrenar"], "level": "extra"},
+    {"id": "b10", "x": 83, "y": 146, "w": 160, "h": 75, "answer": "Quién es el entrenador", "accept": ["Quién entrenará"], "level": "extra"},
+    {"id": "b11", "x": 50, "y": 258, "w": 224, "h": 84, "answer": "Acerca de qué entrenar", "accept": ["En qué entrenar"], "level": "extra"},
+    {"id": "b12", "x": 99, "y": 374, "w": 127, "h": 81, "answer": "Dónde entrenar", "level": "extra"},
+    {"id": "b13", "x": 99, "y": 487, "w": 127, "h": 83, "answer": "Cómo entrenar", "level": "extra"},
+    {"id": "b14", "x": 99, "y": 605, "w": 127, "h": 80, "answer": "Cuándo entrenar", "level": "extra"},
+    {"id": "b15", "x": 99, "y": 721, "w": 127, "h": 79, "answer": "Cuánto entrenar", "level": "extra"},
+    {"id": "b16", "x": 94, "y": 836, "w": 137, "h": 80, "answer": "Para qué entrenar", "level": "extra"}
+  ]
+}

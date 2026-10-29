@@ -1,0 +1,18 @@
+{
+  "title": "Etapas del proceso de control",
+  "topic": "U5 · Seguimiento y control",
+  "order": 220,
+  "width": 859,
+  "height": 322,
+  "blanks": [
+    {"id": "b1", "x": 242, "y": 46, "w": 115, "h": 32, "answer": "Establecimiento de estándares", "level": "clave"},
+    {"id": "b2", "x": 450, "y": 45, "w": 124, "h": 32, "answer": "Medición del desempeño real", "accept": ["Medición del desempeño"], "level": "clave"},
+    {"id": "b3", "x": 660, "y": 150, "w": 124, "h": 46, "answer": "Comparación del desempeño real contra el estándar", "accept": ["Comparación del desempeño con el estándar"], "level": "clave"},
+    {"id": "b4", "x": 388, "y": 232, "w": 110, "h": 32, "answer": "Toma de acciones correctivas", "accept": ["Acciones correctivas"], "level": "clave"},
+    {"id": "b5", "x": 530, "y": 124, "w": 85, "h": 32, "answer": "Metas y objetivos", "level": "extra"},
+    {"id": "b6", "x": 516, "y": 167, "w": 108, "h": 18, "answer": "Organizacionales", "level": "extra"},
+    {"id": "b7", "x": 532, "y": 182, "w": 78, "h": 17, "answer": "Divisionales", "level": "extra"},
+    {"id": "b8", "x": 516, "y": 196, "w": 109, "h": 18, "answer": "Departamentales", "level": "extra"},
+    {"id": "b9", "x": 532, "y": 210, "w": 78, "h": 17, "answer": "Individuales", "level": "extra"}
+  ]
+}

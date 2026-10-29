@@ -1,0 +1,14 @@
+{
+  "title": "Tiempo original vs. tiempo mejorado",
+  "topic": "U5 · Seguimiento y control",
+  "order": 260,
+  "width": 439,
+  "height": 246,
+  "blanks": [
+    {"id": "b1", "x": 42, "y": 57, "w": 103, "h": 16, "answer": "Recurso no utilizado", "level": "clave"},
+    {"id": "b2", "x": 248, "y": 56, "w": 90, "h": 16, "answer": "Recurso utilizado", "level": "clave"},
+    {"id": "b3", "x": 327, "y": 155, "w": 106, "h": 32, "answer": "Recurso mejorado k veces", "accept": ["Recurso mejorado"], "level": "clave"},
+    {"id": "b4", "x": 37, "y": 138, "w": 104, "h": 16, "answer": "Recurso no utilizado", "level": "extra"},
+    {"id": "b5", "x": 185, "y": 138, "w": 90, "h": 17, "answer": "Recurso utilizado", "level": "extra"}
+  ]
+}

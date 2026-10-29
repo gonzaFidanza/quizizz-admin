@@ -1,0 +1,12 @@
+{
+  "title": "Establecimiento de estándares",
+  "topic": "U5 · Seguimiento y control",
+  "order": 240,
+  "width": 901,
+  "height": 369,
+  "blanks": [
+    {"id": "b1", "x": 61, "y": 67, "w": 254, "h": 28, "answer": "Límite superior aceptable", "level": "clave"},
+    {"id": "b2", "x": 141, "y": 126, "w": 94, "h": 28, "answer": "Estándar", "level": "clave"},
+    {"id": "b3", "x": 58, "y": 188, "w": 244, "h": 27, "answer": "Límite inferior aceptable", "level": "clave"}
+  ]
+}

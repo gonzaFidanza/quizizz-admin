@@ -1,0 +1,21 @@
+{
+  "title": "Sistema de administración de salarios",
+  "topic": "U4 · Desarrollo y mantenimiento",
+  "order": 130,
+  "width": 702,
+  "height": 441,
+  "blanks": [
+    {"id": "b1", "x": 33, "y": 149, "w": 85, "h": 70, "answer": "Administración de salarios", "level": "clave"},
+    {"id": "b2", "x": 148, "y": 115, "w": 69, "h": 127, "answer": "Implantación o mantenimiento de estructuras salariales", "accept": ["Implantación o mantenimiento de la estructura salarial"], "level": "clave"},
+    {"id": "b3", "x": 241, "y": 173, "w": 68, "h": 22, "answer": "Equilibrio", "level": "clave"},
+    {"id": "b4", "x": 331, "y": 105, "w": 49, "h": 18, "answer": "Interno", "level": "clave"},
+    {"id": "b5", "x": 331, "y": 242, "w": 56, "h": 20, "answer": "Externo", "level": "clave"},
+    {"id": "b6", "x": 419, "y": 37, "w": 72, "h": 58, "answer": "Evaluación de cargos", "level": "clave"},
+    {"id": "b7", "x": 454, "y": 155, "w": 73, "h": 55, "answer": "Clasificación de cargos", "level": "clave"},
+    {"id": "b8", "x": 421, "y": 269, "w": 67, "h": 52, "answer": "Investigación salarial", "level": "clave"},
+    {"id": "b9", "x": 537, "y": 145, "w": 56, "h": 70, "answer": "Política de la organización", "level": "clave"},
+    {"id": "b10", "x": 604, "y": 161, "w": 56, "h": 39, "answer": "Política salarial", "level": "clave"},
+    {"id": "b11", "x": 348, "y": 334, "w": 130, "h": 21, "answer": "Retroalimentación", "level": "extra"},
+    {"id": "b12", "x": 375, "y": 361, "w": 74, "h": 24, "answer": "Reciclaje", "level": "extra"}
+  ]
+}

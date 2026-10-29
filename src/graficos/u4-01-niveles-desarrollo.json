@@ -1,0 +1,12 @@
+{
+  "title": "Niveles del desarrollo de personas",
+  "topic": "U4 · Desarrollo y mantenimiento",
+  "order": 10,
+  "width": 282,
+  "height": 264,
+  "blanks": [
+    {"id": "b1", "x": 22, "y": 108, "w": 52, "h": 30, "answer": "Entrenamiento", "level": "clave"},
+    {"id": "b2", "x": 88, "y": 103, "w": 59, "h": 44, "answer": "Desarrollo de personal", "level": "clave"},
+    {"id": "b3", "x": 172, "y": 112, "w": 80, "h": 28, "answer": "Desarrollo organizacional", "level": "clave"}
+  ]
+}

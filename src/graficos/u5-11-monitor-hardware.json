@@ -1,0 +1,13 @@
+{
+  "title": "Esquema de un monitor hardware",
+  "topic": "U5 · Seguimiento y control",
+  "order": 270,
+  "width": 407,
+  "height": 143,
+  "blanks": [
+    {"id": "b1", "x": 206, "y": 18, "w": 24, "h": 18, "answer": "Reloj", "level": "clave"},
+    {"id": "b2", "x": 78, "y": 73, "w": 58, "h": 20, "answer": "Módulo lógico", "level": "clave"},
+    {"id": "b3", "x": 198, "y": 74, "w": 46, "h": 16, "answer": "Contadores", "level": "clave"},
+    {"id": "b4", "x": 300, "y": 77, "w": 63, "h": 16, "answer": "Almacenamiento", "level": "clave"}
+  ]
+}

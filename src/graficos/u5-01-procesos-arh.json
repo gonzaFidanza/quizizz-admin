@@ -1,0 +1,14 @@
+{
+  "title": "Los cinco procesos de ARH",
+  "topic": "U5 · Seguimiento y control",
+  "order": 170,
+  "width": 391,
+  "height": 264,
+  "blanks": [
+    {"id": "b1", "x": 174, "y": 30, "w": 64, "h": 18, "answer": "De provisión", "level": "clave"},
+    {"id": "b2", "x": 46, "y": 105, "w": 55, "h": 27, "answer": "De aplicación", "level": "clave"},
+    {"id": "b3", "x": 291, "y": 107, "w": 75, "h": 31, "answer": "De mantenimiento", "level": "clave"},
+    {"id": "b4", "x": 113, "y": 220, "w": 64, "h": 29, "answer": "De desarrollo", "level": "clave"},
+    {"id": "b5", "x": 230, "y": 218, "w": 66, "h": 39, "answer": "De seguimiento y evaluación", "accept": ["De seguimiento y control"], "level": "clave"}
+  ]
+}

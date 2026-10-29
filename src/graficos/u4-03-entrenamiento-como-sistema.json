@@ -1,0 +1,21 @@
+{
+  "title": "El entrenamiento como sistema",
+  "topic": "U4 · Desarrollo y mantenimiento",
+  "order": 30,
+  "width": 994,
+  "height": 551,
+  "blanks": [
+    {"id": "b1", "x": 66, "y": 0, "w": 95, "h": 25, "answer": "Entrada", "level": "clave"},
+    {"id": "b2", "x": 447, "y": 0, "w": 100, "h": 27, "answer": "Proceso", "level": "clave"},
+    {"id": "b3", "x": 844, "y": 0, "w": 76, "h": 25, "answer": "Salida", "level": "clave"},
+    {"id": "b4", "x": 20, "y": 103, "w": 184, "h": 60, "answer": "Necesidades de entrenamiento", "level": "clave"},
+    {"id": "b5", "x": 414, "y": 60, "w": 166, "h": 60, "answer": "Programas de entrenamiento", "level": "clave"},
+    {"id": "b6", "x": 429, "y": 118, "w": 137, "h": 91, "answer": "Proceso de aprendizaje individual", "level": "clave"},
+    {"id": "b7", "x": 393, "y": 323, "w": 208, "h": 33, "answer": "Retroalimentación", "level": "clave"},
+    {"id": "b8", "x": 416, "y": 433, "w": 162, "h": 61, "answer": "Evaluación de resultados", "accept": ["Evaluación de los resultados"], "level": "clave"},
+    {"id": "b9", "x": 803, "y": 58, "w": 159, "h": 32, "answer": "Conocimiento", "accept": ["Conocimientos"], "level": "extra"},
+    {"id": "b10", "x": 826, "y": 87, "w": 113, "h": 33, "answer": "Actitudes", "level": "extra"},
+    {"id": "b11", "x": 812, "y": 117, "w": 140, "h": 33, "answer": "Habilidades", "level": "extra"},
+    {"id": "b12", "x": 798, "y": 147, "w": 169, "h": 65, "answer": "Eficacia organizacional", "level": "extra"}
+  ]
+}

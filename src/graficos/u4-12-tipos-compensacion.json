@@ -1,0 +1,20 @@
+{
+  "title": "Tipos de compensación",
+  "topic": "U4 · Desarrollo y mantenimiento",
+  "order": 110,
+  "width": 763,
+  "height": 410,
+  "blanks": [
+    {"id": "b1", "x": 152, "y": 129, "w": 94, "h": 26, "answer": "Financiera", "level": "clave"},
+    {"id": "b2", "x": 150, "y": 364, "w": 119, "h": 25, "answer": "No financiera", "level": "clave"},
+    {"id": "b3", "x": 315, "y": 75, "w": 66, "h": 23, "answer": "Directa", "level": "clave"},
+    {"id": "b4", "x": 315, "y": 176, "w": 88, "h": 65, "answer": "Indirecta (salario indirecto)", "accept": ["Indirecta", "Salario indirecto"], "level": "clave"},
+    {"id": "b5", "x": 0, "y": 243, "w": 128, "h": 25, "answer": "Compensación", "level": "extra"},
+    {"id": "b6", "x": 462, "y": 1, "w": 117, "h": 22, "answer": "Salario directo", "level": "extra"},
+    {"id": "b7", "x": 461, "y": 21, "w": 72, "h": 23, "answer": "Premios", "level": "extra"},
+    {"id": "b8", "x": 462, "y": 40, "w": 98, "h": 22, "answer": "Comisiones", "level": "extra"},
+    {"id": "b9", "x": 337, "y": 338, "w": 236, "h": 26, "answer": "Reconocimiento y autoestima", "level": "extra"},
+    {"id": "b10", "x": 337, "y": 357, "w": 192, "h": 26, "answer": "Seguridad en el empleo", "level": "extra"},
+    {"id": "b11", "x": 335, "y": 377, "w": 78, "h": 28, "answer": "Prestigio", "level": "extra"}
+  ]
+}

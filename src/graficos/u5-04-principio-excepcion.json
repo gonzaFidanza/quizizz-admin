@@ -1,0 +1,14 @@
+{
+  "title": "Principio de excepción",
+  "topic": "U5 · Seguimiento y control",
+  "order": 200,
+  "width": 838,
+  "height": 513,
+  "blanks": [
+    {"id": "b1", "x": 375, "y": 225, "w": 137, "h": 49, "answer": "Región de normalidad", "level": "clave"},
+    {"id": "b2", "x": 173, "y": 305, "w": 123, "h": 28, "answer": "Excepciones", "level": "clave"},
+    {"id": "b3", "x": 605, "y": 305, "w": 124, "h": 30, "answer": "Excepciones", "level": "clave"},
+    {"id": "b4", "x": 398, "y": 400, "w": 84, "h": 32, "answer": "Hechos", "level": "extra"},
+    {"id": "b5", "x": 41, "y": 174, "w": 108, "h": 26, "answer": "Frecuencia", "level": "extra"}
+  ]
+}

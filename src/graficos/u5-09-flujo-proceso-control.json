@@ -1,0 +1,21 @@
+{
+  "title": "Flujo del proceso de control",
+  "topic": "U5 · Seguimiento y control",
+  "order": 250,
+  "width": 577,
+  "height": 378,
+  "blanks": [
+    {"id": "b1", "x": 33, "y": 170, "w": 56, "h": 18, "answer": "Objetivos", "level": "clave"},
+    {"id": "b2", "x": 121, "y": 169, "w": 54, "h": 18, "answer": "Estándar", "level": "clave"},
+    {"id": "b3", "x": 224, "y": 152, "w": 86, "h": 42, "answer": "Medición del desempeño real", "level": "clave"},
+    {"id": "b4", "x": 168, "y": 25, "w": 80, "h": 54, "answer": "Comparar el desempeño real contra el estándar", "level": "clave"},
+    {"id": "b5", "x": 346, "y": 22, "w": 64, "h": 55, "answer": "¿Se está alcanzando el estándar?", "level": "clave"},
+    {"id": "b6", "x": 345, "y": 118, "w": 66, "h": 42, "answer": "¿La varianza es aceptable?", "level": "clave"},
+    {"id": "b7", "x": 348, "y": 206, "w": 62, "h": 56, "answer": "¿El estándar es aceptable?", "level": "clave"},
+    {"id": "b8", "x": 476, "y": 212, "w": 80, "h": 42, "answer": "Identificar la causa de la variación", "level": "clave"},
+    {"id": "b9", "x": 348, "y": 304, "w": 64, "h": 31, "answer": "Revisar el estándar", "level": "clave"},
+    {"id": "b10", "x": 476, "y": 302, "w": 78, "h": 32, "answer": "Corregir el desempeño", "level": "clave"},
+    {"id": "b11", "x": 462, "y": 43, "w": 94, "h": 16, "answer": "No hacer nada", "level": "extra"},
+    {"id": "b12", "x": 474, "y": 134, "w": 82, "h": 17, "answer": "No hacer nada", "level": "extra"}
+  ]
+}

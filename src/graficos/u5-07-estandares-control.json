@@ -1,0 +1,14 @@
+{
+  "title": "Estándares de control",
+  "topic": "U5 · Seguimiento y control",
+  "order": 230,
+  "width": 1024,
+  "height": 574,
+  "blanks": [
+    {"id": "b1", "x": 344, "y": 56, "w": 129, "h": 84, "answer": "Estándares de cantidad", "accept": ["Cantidad"], "level": "clave"},
+    {"id": "b2", "x": 345, "y": 165, "w": 127, "h": 84, "answer": "Estándares de calidad", "accept": ["Calidad"], "level": "clave"},
+    {"id": "b3", "x": 346, "y": 274, "w": 125, "h": 85, "answer": "Estándares de tiempo", "accept": ["Tiempo"], "level": "clave"},
+    {"id": "b4", "x": 345, "y": 383, "w": 127, "h": 82, "answer": "Estándares de costo", "accept": ["Costo"], "level": "clave"},
+    {"id": "b5", "x": 143, "y": 221, "w": 121, "h": 80, "answer": "Estándares de control", "level": "extra"}
+  ]
+}

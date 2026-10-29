@@ -1,0 +1,14 @@
+{
+  "title": "Criterios de clasificación de cargos",
+  "topic": "U4 · Desarrollo y mantenimiento",
+  "order": 140,
+  "width": 314,
+  "height": 272,
+  "blanks": [
+    {"id": "b1", "x": 15, "y": 21, "w": 104, "h": 15, "answer": "Clasificación por puntos", "accept": ["Por puntos", "Puntos"], "level": "clave"},
+    {"id": "b2", "x": 0, "y": 53, "w": 167, "h": 17, "answer": "Clasificación por cargos de carrera", "accept": ["Por cargos de carrera", "Cargos de carrera"], "level": "clave"},
+    {"id": "b3", "x": 0, "y": 100, "w": 174, "h": 18, "answer": "Clasificación por grupo ocupacional", "accept": ["Por grupo ocupacional", "Grupo ocupacional"], "level": "clave"},
+    {"id": "b4", "x": 0, "y": 148, "w": 159, "h": 18, "answer": "Clasificación por área de servicio", "accept": ["Por área de servicio", "Área de servicio"], "level": "clave"},
+    {"id": "b5", "x": 0, "y": 220, "w": 127, "h": 18, "answer": "Clasificación por categoría", "accept": ["Por categoría", "Categoría"], "level": "clave"}
+  ]
+}

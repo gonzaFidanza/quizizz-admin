@@ -1,0 +1,12 @@
+{
+  "title": "Umbral y estándar de desempeño",
+  "topic": "U4 · Desarrollo y mantenimiento",
+  "order": 40,
+  "width": 537,
+  "height": 306,
+  "blanks": [
+    {"id": "b1", "x": 21, "y": 48, "w": 88, "h": 39, "answer": "Umbral de desempeño", "level": "clave"},
+    {"id": "b2", "x": 15, "y": 103, "w": 92, "h": 39, "answer": "Estándar de desempeño", "level": "clave"},
+    {"id": "b3", "x": 6, "y": 178, "w": 108, "h": 57, "answer": "Límite inferior aceptable de desempeño", "accept": ["Límite inferior aceptable"], "level": "clave"}
+  ]
+}

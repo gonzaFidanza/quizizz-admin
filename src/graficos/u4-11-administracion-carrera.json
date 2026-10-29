@@ -1,0 +1,16 @@
+{
+  "title": "Administración de la carrera",
+  "topic": "U4 · Desarrollo y mantenimiento",
+  "order": 100,
+  "width": 516,
+  "height": 331,
+  "blanks": [
+    {"id": "b1", "x": 190, "y": 144, "w": 136, "h": 31, "answer": "Administración de la carrera", "level": "clave"},
+    {"id": "b2", "x": 38, "y": 0, "w": 82, "h": 29, "answer": "Necesidades de la organización", "level": "clave"},
+    {"id": "b3", "x": 395, "y": 298, "w": 86, "h": 30, "answer": "Necesidades de las personas", "level": "clave"},
+    {"id": "b4", "x": 8, "y": 37, "w": 66, "h": 18, "answer": "Estratégicas", "level": "clave"},
+    {"id": "b5", "x": 168, "y": 34, "w": 62, "h": 20, "answer": "Operativas", "level": "clave"},
+    {"id": "b6", "x": 212, "y": 186, "w": 52, "h": 19, "answer": "Personal", "accept": ["Personales"], "level": "clave"},
+    {"id": "b7", "x": 346, "y": 186, "w": 64, "h": 18, "answer": "Profesional", "accept": ["Profesionales"], "level": "clave"}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Aplicación del principio de excepción",
+  "topic": "U5 · Seguimiento y control",
+  "order": 210,
+  "width": 700,
+  "height": 491,
+  "blanks": [
+    {"id": "b1", "x": 45, "y": 13, "w": 82, "h": 26, "answer": "Estándar", "level": "clave"},
+    {"id": "b2", "x": 35, "y": 110, "w": 98, "h": 43, "answer": "Medida de desempeño", "accept": ["Medida del desempeño"], "level": "clave"},
+    {"id": "b3", "x": 42, "y": 225, "w": 88, "h": 44, "answer": "¿Presenta desvío?", "level": "clave"},
+    {"id": "b4", "x": 193, "y": 224, "w": 129, "h": 45, "answer": "¿Es excepcional?", "level": "clave"},
+    {"id": "b5", "x": 543, "y": 127, "w": 138, "h": 42, "answer": "Emprender la acción correctiva", "level": "clave"},
+    {"id": "b6", "x": 533, "y": 222, "w": 146, "h": 41, "answer": "Analizar y evaluar el desvío", "level": "clave"},
+    {"id": "b7", "x": 187, "y": 379, "w": 138, "h": 40, "answer": "No necesita acción correctiva", "level": "clave"}
+  ]
+}

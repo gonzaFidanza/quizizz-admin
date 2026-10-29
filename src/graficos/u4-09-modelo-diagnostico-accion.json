@@ -1,0 +1,13 @@
+{
+  "title": "Modelo de diagnóstico y acción",
+  "topic": "U4 · Desarrollo y mantenimiento",
+  "order": 80,
+  "width": 409,
+  "height": 281,
+  "blanks": [
+    {"id": "b1", "x": 5, "y": 32, "w": 198, "h": 37, "answer": "Diagnóstico", "level": "clave"},
+    {"id": "b2", "x": 68, "y": 85, "w": 197, "h": 37, "answer": "Planeación de la acción", "accept": ["Planificación de la acción"], "level": "clave"},
+    {"id": "b3", "x": 131, "y": 136, "w": 197, "h": 37, "answer": "Implementación de la acción", "level": "clave"},
+    {"id": "b4", "x": 191, "y": 188, "w": 197, "h": 37, "answer": "Evaluación", "level": "clave"}
+  ]
+}

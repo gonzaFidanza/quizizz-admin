@@ -1,0 +1,29 @@
+{
+  "title": "Mapa del subsistema de desarrollo",
+  "topic": "U4 · Desarrollo y mantenimiento",
+  "order": 160,
+  "width": 967,
+  "height": 552,
+  "blanks": [
+    {"id": "b1", "x": 50, "y": 215, "w": 60, "h": 19, "answer": "Aprendizaje", "level": "clave"},
+    {"id": "b2", "x": 235, "y": 263, "w": 69, "h": 19, "answer": "Entrenamiento", "level": "clave"},
+    {"id": "b3", "x": 439, "y": 248, "w": 99, "h": 19, "answer": "Desarrollo personal", "level": "clave"},
+    {"id": "b4", "x": 606, "y": 257, "w": 110, "h": 21, "answer": "Desarrollo organizacional", "level": "clave"},
+    {"id": "b5", "x": 819, "y": 213, "w": 78, "h": 38, "answer": "Proceso de entrenamiento", "level": "clave"},
+    {"id": "b6", "x": 218, "y": 276, "w": 102, "h": 23, "answer": "(aprendizaje individual)", "accept": ["Aprendizaje individual"], "level": "extra"},
+    {"id": "b7", "x": 430, "y": 263, "w": 117, "h": 22, "answer": "(aprendizaje individual)", "accept": ["Aprendizaje individual"], "level": "extra"},
+    {"id": "b8", "x": 611, "y": 274, "w": 100, "h": 24, "answer": "(aprendizaje colectivo)", "accept": ["Aprendizaje colectivo"], "level": "extra"},
+    {"id": "b9", "x": 422, "y": 96, "w": 131, "h": 21, "answer": "Es una responsabilidad de línea", "accept": ["Responsabilidad de línea"], "level": "extra"},
+    {"id": "b10", "x": 35, "y": 383, "w": 39, "h": 21, "answer": "Efecto", "level": "extra"},
+    {"id": "b11", "x": 36, "y": 398, "w": 49, "h": 20, "answer": "Estímulo", "level": "extra"},
+    {"id": "b12", "x": 35, "y": 411, "w": 58, "h": 21, "answer": "Intensidad", "level": "extra"},
+    {"id": "b13", "x": 34, "y": 424, "w": 61, "h": 24, "answer": "Frecuencia", "level": "extra"},
+    {"id": "b14", "x": 35, "y": 439, "w": 64, "h": 20, "answer": "Continuidad", "level": "extra"},
+    {"id": "b15", "x": 34, "y": 451, "w": 94, "h": 23, "answer": "Descongelamiento", "level": "extra"},
+    {"id": "b16", "x": 36, "y": 467, "w": 64, "h": 19, "answer": "Complejidad", "level": "extra"},
+    {"id": "b17", "x": 3, "y": 515, "w": 152, "h": 20, "answer": "Proceso base de la educación", "level": "extra"},
+    {"id": "b18", "x": 270, "y": 503, "w": 116, "h": 18, "answer": "Formación profesional", "level": "extra"},
+    {"id": "b19", "x": 270, "y": 516, "w": 116, "h": 21, "answer": "Desarrollo profesional", "level": "extra"},
+    {"id": "b20", "x": 269, "y": 531, "w": 83, "h": 21, "answer": "Entrenamiento", "level": "extra"}
+  ]
+}

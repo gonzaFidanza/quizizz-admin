@@ -1,0 +1,20 @@
+{
+  "title": "Ciclo del entrenamiento",
+  "topic": "U4 · Desarrollo y mantenimiento",
+  "order": 70,
+  "width": 1024,
+  "height": 633,
+  "blanks": [
+    {"id": "b1", "x": 70, "y": 36, "w": 204, "h": 70, "answer": "Inventario de las necesidades específicas de entrenamiento", "accept": ["Inventario de necesidades de entrenamiento", "Inventario de necesidades específicas de entrenamiento"], "level": "clave"},
+    {"id": "b2", "x": 387, "y": 121, "w": 223, "h": 51, "answer": "Aplicación de los principios de aprendizaje", "level": "clave"},
+    {"id": "b3", "x": 744, "y": 38, "w": 177, "h": 72, "answer": "Elección de métodos adecuados a la instrucción", "accept": ["Elección de métodos"], "level": "clave"},
+    {"id": "b4", "x": 750, "y": 185, "w": 161, "h": 70, "answer": "Recolección de material y datos para la instrucción", "accept": ["Recolección de material y datos"], "level": "clave"},
+    {"id": "b5", "x": 754, "y": 281, "w": 150, "h": 75, "answer": "Elaboración del programa de entrenamiento", "level": "clave"},
+    {"id": "b6", "x": 745, "y": 396, "w": 157, "h": 53, "answer": "Entrenamiento de los instructores", "level": "clave"},
+    {"id": "b7", "x": 432, "y": 395, "w": 124, "h": 50, "answer": "Ejecución del entrenamiento", "level": "clave"},
+    {"id": "b8", "x": 82, "y": 392, "w": 171, "h": 50, "answer": "Evaluación y control de los resultados", "level": "clave"},
+    {"id": "b9", "x": 93, "y": 285, "w": 148, "h": 51, "answer": "Informe de entrenamiento", "level": "clave"},
+    {"id": "b10", "x": 534, "y": 505, "w": 187, "h": 31, "answer": "Actividades en línea", "level": "extra"},
+    {"id": "b11", "x": 532, "y": 526, "w": 188, "h": 33, "answer": "Actividades de staff", "level": "extra"}
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Factores internos y externos del salario",
+  "topic": "U4 · Desarrollo y mantenimiento",
+  "order": 120,
+  "width": 703,
+  "height": 275,
+  "blanks": [
+    {"id": "b1", "x": 18, "y": 37, "w": 77, "h": 40, "answer": "Factores internos", "level": "clave"},
+    {"id": "b2", "x": 20, "y": 184, "w": 77, "h": 38, "answer": "Factores externos", "level": "clave"},
+    {"id": "b3", "x": 227, "y": 16, "w": 332, "h": 23, "answer": "Tipología de los cargos de la organización", "level": "extra"},
+    {"id": "b4", "x": 226, "y": 36, "w": 274, "h": 22, "answer": "Política salarial de la organización", "level": "extra"},
+    {"id": "b5", "x": 226, "y": 54, "w": 477, "h": 24, "answer": "Capacidad financiera y desempeño general de la organización", "level": "extra"},
+    {"id": "b6", "x": 228, "y": 75, "w": 268, "h": 20, "answer": "Competitividad de la organización", "level": "extra"},
+    {"id": "b7", "x": 227, "y": 141, "w": 263, "h": 26, "answer": "Situación del mercado de trabajo", "level": "extra"},
+    {"id": "b8", "x": 228, "y": 164, "w": 442, "h": 21, "answer": "Coyuntura económica (inflación, recesión, costo de vida)", "accept": ["Coyuntura económica"], "level": "extra"},
+    {"id": "b9", "x": 226, "y": 182, "w": 302, "h": 24, "answer": "Sindicatos y negociaciones colectivas", "level": "extra"},
+    {"id": "b10", "x": 228, "y": 202, "w": 170, "h": 22, "answer": "Legislación laboral", "level": "extra"},
+    {"id": "b11", "x": 228, "y": 220, "w": 268, "h": 22, "answer": "Situación del mercado de clientes", "level": "extra"},
+    {"id": "b12", "x": 228, "y": 240, "w": 224, "h": 22, "answer": "Competencia en el mercado", "level": "extra"}
+  ]
+}

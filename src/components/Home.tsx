@@ -41,25 +41,50 @@ export function Home() {
         <Step n="03" title="Rendí" text="Simulacro sin ayudas: completás todo y recién al final ves el resultado." />
       </section>
 
-      <section>
-        <div className="section-head">
-          <h2 className="h2">Gráficos</h2>
-          <span className="muted small">{diagrams.length} en total</span>
+      {diagrams.length === 0 ? (
+        <div className="empty">
+          Todavía no hay gráficos. Agregá imágenes en <code>src/graficos/</code>.
         </div>
-        {diagrams.length === 0 ? (
-          <div className="empty">
-            Todavía no hay gráficos. Agregá imágenes en <code>src/graficos/</code>.
-          </div>
-        ) : (
-          <div className="grid">
-            {diagrams.map((d, i) => (
-              <DiagramCard key={d.id} diagram={d} index={i} />
-            ))}
-          </div>
-        )}
-      </section>
+      ) : (
+        groupByTopic(diagrams).map(([topic, items]) => {
+          const [unit, name] = topic.split(' · ')
+          const m = items.reduce((n, d) => n + mastery(d, progress[d.id]), 0) / items.length
+          return (
+            <section key={topic} className="group">
+              <div className="section-head">
+                <h2 className="h2">
+                  {name ? (
+                    <>
+                      <span className="unit">{unit}</span> {name}
+                    </>
+                  ) : (
+                    topic
+                  )}
+                </h2>
+                <span className="muted small">
+                  {items.length} gráficos · {Math.round(m * 100)}% dominado
+                </span>
+              </div>
+              <div className="grid">
+                {items.map((d, i) => (
+                  <DiagramCard key={d.id} diagram={d} index={i} />
+                ))}
+              </div>
+            </section>
+          )
+        })
+      )}
     </main>
   )
+}
+
+function groupByTopic(list: Diagram[]) {
+  const groups = new Map<string, Diagram[]>()
+  for (const d of list) {
+    const key = d.config.topic || 'Otros'
+    groups.set(key, [...(groups.get(key) ?? []), d])
+  }
+  return [...groups.entries()]
 }
 
 function DiagramCard({ diagram, index }: { diagram: Diagram; index: number }) {
@@ -73,7 +98,11 @@ function DiagramCard({ diagram, index }: { diagram: Diagram; index: number }) {
   return (
     <a className="card" href={diagram.configured ? `#/g/${diagram.id}` : `#/g/${diagram.id}/editar`}>
       <div className="card-thumb">
-        <div className="thumb-inner" style={width && height ? { aspectRatio: `${width} / ${height}` } : undefined}>
+        <div className="thumb-box">
+        <div
+          className="thumb-inner"
+          style={width && height ? { aspectRatio: `${width} / ${height}`, width: `min(100cqw, ${(100 * width) / height}cqh)` } : undefined}
+        >
           <img src={diagram.image} alt="" loading="lazy" />
           {width &&
             height &&
@@ -90,11 +119,12 @@ function DiagramCard({ diagram, index }: { diagram: Diagram; index: number }) {
               />
             ))}
         </div>
+        </div>
       </div>
       <div className="card-body">
         <div className="card-meta">
           <span className="index">{String(index + 1).padStart(2, '0')}</span>
-          {diagram.config.topic && <span>{diagram.config.topic}</span>}
+          <span>{blanks.length} huecos</span>
         </div>
         <h3 className="card-title">{diagram.title}</h3>
         {diagram.configured ? (

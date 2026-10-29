@@ -1,0 +1,17 @@
+{
+  "title": "Tipos de beneficios sociales",
+  "topic": "U4 · Desarrollo y mantenimiento",
+  "order": 150,
+  "width": 505,
+  "height": 408,
+  "blanks": [
+    {"id": "b1", "x": 111, "y": 81, "w": 80, "h": 19, "answer": "Asistenciales", "level": "clave"},
+    {"id": "b2", "x": 117, "y": 211, "w": 73, "h": 19, "answer": "Recreativos", "level": "clave"},
+    {"id": "b3", "x": 118, "y": 310, "w": 70, "h": 20, "answer": "Supletorios", "level": "clave"},
+    {"id": "b4", "x": 29, "y": 201, "w": 64, "h": 44, "answer": "Tipos de beneficios", "level": "extra"},
+    {"id": "b5", "x": 237, "y": 17, "w": 162, "h": 20, "answer": "Asistencia médico-hospitalaria", "level": "extra"},
+    {"id": "b6", "x": 238, "y": 187, "w": 152, "h": 17, "answer": "Asociación recreativa o club", "level": "extra"},
+    {"id": "b7", "x": 237, "y": 285, "w": 179, "h": 20, "answer": "Restaurante en el lugar de trabajo", "level": "extra"},
+    {"id": "b8", "x": 235, "y": 297, "w": 180, "h": 20, "answer": "Transporte subsidiado al personal", "level": "extra"}
+  ]
+}

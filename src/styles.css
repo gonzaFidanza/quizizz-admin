@@ -365,6 +365,12 @@ code {
   justify-content: space-between;
   margin-bottom: 24px;
 }
+.group + .group {
+  margin-top: 88px;
+}
+.unit {
+  color: var(--accent);
+}
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
@@ -388,6 +394,14 @@ code {
   background: var(--surface-2);
   padding: 22px;
   border-bottom: 1px solid var(--line);
+  aspect-ratio: 16 / 10;
+}
+.thumb-box {
+  container-type: size;
+  width: 100%;
+  height: 100%;
+  display: grid;
+  place-items: center;
 }
 .thumb-inner {
   position: relative;

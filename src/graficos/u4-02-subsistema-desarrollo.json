@@ -1,0 +1,17 @@
+{
+  "title": "ARH: subsistema de desarrollo",
+  "topic": "U4 · Desarrollo y mantenimiento",
+  "order": 20,
+  "width": 348,
+  "height": 192,
+  "blanks": [
+    {"id": "b1", "x": 211, "y": 77, "w": 62, "h": 55, "answer": "Subsistema de desarrollo de recursos humanos", "accept": ["Desarrollo", "Subsistema de desarrollo", "Desarrollo de recursos humanos", "Subsistema de desarrollo de RRHH", "Desarrollo de RRHH"], "level": "clave"},
+    {"id": "b2", "x": 224, "y": 158, "w": 60, "h": 12, "answer": "Entrenamiento", "level": "clave"},
+    {"id": "b3", "x": 224, "y": 166, "w": 90, "h": 14, "answer": "Desarrollo de personal", "level": "clave"},
+    {"id": "b4", "x": 224, "y": 176, "w": 100, "h": 14, "answer": "Desarrollo organizacional", "level": "clave"},
+    {"id": "b5", "x": 11, "y": 104, "w": 40, "h": 15, "answer": "Provisión", "level": "extra"},
+    {"id": "b6", "x": 74, "y": 96, "w": 54, "h": 14, "answer": "De aplicación", "level": "extra"},
+    {"id": "b7", "x": 147, "y": 92, "w": 50, "h": 24, "answer": "De mantenimiento", "level": "extra"},
+    {"id": "b8", "x": 291, "y": 94, "w": 43, "h": 13, "answer": "De control", "level": "extra"}
+  ]
+}

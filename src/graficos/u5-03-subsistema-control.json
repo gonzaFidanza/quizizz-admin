@@ -1,0 +1,16 @@
+{
+  "title": "ARH: subsistema de control",
+  "topic": "U5 · Seguimiento y control",
+  "order": 190,
+  "width": 1253,
+  "height": 665,
+  "blanks": [
+    {"id": "b1", "x": 924, "y": 261, "w": 145, "h": 119, "answer": "Subsistema de control de recursos humanos", "accept": ["Control", "Subsistema de control", "Control de recursos humanos", "Subsistema de control de RRHH", "Control de RRHH"], "level": "clave"},
+    {"id": "b2", "x": 755, "y": 459, "w": 274, "h": 61, "answer": "Base de datos y sistema de información", "accept": ["Base de datos y sistemas de información"], "level": "clave"},
+    {"id": "b3", "x": 754, "y": 514, "w": 244, "h": 60, "answer": "Auditoría de recursos humanos", "accept": ["Auditoría de RRHH"], "level": "clave"},
+    {"id": "b4", "x": 144, "y": 290, "w": 144, "h": 39, "answer": "De provisión", "level": "extra"},
+    {"id": "b5", "x": 338, "y": 290, "w": 153, "h": 38, "answer": "De aplicación", "level": "extra"},
+    {"id": "b6", "x": 541, "y": 280, "w": 142, "h": 64, "answer": "De mantenimiento", "level": "extra"},
+    {"id": "b7", "x": 723, "y": 290, "w": 154, "h": 37, "answer": "De desarrollo", "level": "extra"}
+  ]
+}

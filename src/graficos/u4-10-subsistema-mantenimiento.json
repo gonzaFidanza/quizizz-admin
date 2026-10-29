@@ -1,0 +1,18 @@
+{
+  "title": "ARH: subsistema de mantenimiento",
+  "topic": "U4 · Desarrollo y mantenimiento",
+  "order": 90,
+  "width": 374,
+  "height": 208,
+  "blanks": [
+    {"id": "b1", "x": 159, "y": 80, "w": 68, "h": 68, "answer": "Subsistema de mantenimiento de recursos humanos", "accept": ["Mantenimiento", "Subsistema de mantenimiento", "Mantenimiento de recursos humanos", "Subsistema de mantenimiento de RRHH", "Mantenimiento de RRHH"], "level": "clave"},
+    {"id": "b2", "x": 172, "y": 164, "w": 120, "h": 14, "answer": "Compensación (remuneración)", "accept": ["Compensación", "Remuneración"], "level": "clave"},
+    {"id": "b3", "x": 172, "y": 174, "w": 78, "h": 14, "answer": "Beneficios sociales", "level": "clave"},
+    {"id": "b4", "x": 172, "y": 184, "w": 128, "h": 14, "answer": "Higiene y seguridad en el trabajo", "accept": ["Higiene y seguridad"], "level": "clave"},
+    {"id": "b5", "x": 172, "y": 194, "w": 87, "h": 13, "answer": "Relaciones sindicales", "level": "clave"},
+    {"id": "b6", "x": 16, "y": 94, "w": 50, "h": 14, "answer": "De provisión", "level": "extra"},
+    {"id": "b7", "x": 89, "y": 94, "w": 54, "h": 14, "answer": "De aplicación", "level": "extra"},
+    {"id": "b8", "x": 238, "y": 96, "w": 54, "h": 14, "answer": "De desarrollo", "level": "extra"},
+    {"id": "b9", "x": 320, "y": 95, "w": 44, "h": 14, "answer": "De control", "level": "extra"}
+  ]
+}
