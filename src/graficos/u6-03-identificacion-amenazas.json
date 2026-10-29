@@ -1,0 +1,15 @@
+{
+  "title": "Identificación de amenazas",
+  "topic": "U6 · Seguridad y auditoría",
+  "order": 30,
+  "width": 281,
+  "height": 198,
+  "blanks": [
+    {"id": "b1", "x": 4, "y": 65, "w": 43, "h": 21, "answer": "Intento de amenaza", "level": "clave"},
+    {"id": "b2", "x": 43, "y": 46, "w": 39, "h": 14, "answer": "Accidental", "level": "clave"},
+    {"id": "b3", "x": 42, "y": 100, "w": 39, "h": 13, "answer": "Deliberada", "level": "clave"},
+    {"id": "b4", "x": 136, "y": 150, "w": 72, "h": 13, "answer": "Elemento amenazado", "level": "clave"},
+    {"id": "b5", "x": 117, "y": 139, "w": 22, "h": 13, "answer": "Físico", "level": "clave"},
+    {"id": "b6", "x": 202, "y": 138, "w": 26, "h": 14, "answer": "Lógico", "level": "clave"}
+  ]
+}

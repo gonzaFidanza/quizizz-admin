@@ -1,0 +1,16 @@
+{
+  "title": "Cálculo de frecuencia de amenazas",
+  "topic": "U6 · Seguridad y auditoría",
+  "order": 40,
+  "width": 495,
+  "height": 179,
+  "blanks": [
+    {"id": "b1", "x": 120, "y": 8, "w": 83, "h": 32, "answer": "Probabilidad de agresión", "level": "clave"},
+    {"id": "b2", "x": 282, "y": 3, "w": 78, "h": 32, "answer": "Probabilidad de éxito", "level": "clave"},
+    {"id": "b3", "x": 396, "y": 3, "w": 74, "h": 20, "answer": "Frecuencia", "level": "clave"},
+    {"id": "b4", "x": 12, "y": 3, "w": 64, "h": 20, "answer": "Amenaza", "level": "extra"},
+    {"id": "b5", "x": 410, "y": 40, "w": 28, "h": 18, "answer": "45%", "accept": ["45"], "level": "extra"},
+    {"id": "b6", "x": 411, "y": 70, "w": 28, "h": 17, "answer": "35%", "accept": ["35"], "level": "extra"},
+    {"id": "b7", "x": 412, "y": 88, "w": 26, "h": 17, "answer": "10%", "accept": ["10"], "level": "extra"}
+  ]
+}

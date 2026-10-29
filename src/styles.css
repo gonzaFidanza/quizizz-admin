@@ -1477,6 +1477,11 @@ kbd {
   align-items: center;
   gap: 10px;
 }
+.series-tile-meta {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.35;
+}
 .series-tile-arrow {
   margin-left: auto;
   font-size: 20px;

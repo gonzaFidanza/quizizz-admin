@@ -1,0 +1,27 @@
+{
+  "title": "Auditoría externa vs. interna",
+  "topic": "U6 · Seguridad y auditoría",
+  "order": 100,
+  "width": 482,
+  "height": 282,
+  "blanks": [
+    {"id": "b1", "x": 204, "y": 46, "w": 97, "h": 16, "answer": "Profesional independiente", "level": "clave"},
+    {"id": "b2", "x": 390, "y": 46, "w": 44, "h": 17, "answer": "Empleado", "level": "clave"},
+    {"id": "b3", "x": 198, "y": 94, "w": 110, "h": 16, "answer": "Obligatoria, legal o estatutaria", "accept": ["Obligatoria"], "level": "clave"},
+    {"id": "b4", "x": 390, "y": 92, "w": 43, "h": 18, "answer": "Voluntaria", "level": "clave"},
+    {"id": "b5", "x": 241, "y": 178, "w": 24, "h": 16, "answer": "Total", "level": "clave"},
+    {"id": "b6", "x": 392, "y": 176, "w": 38, "h": 17, "answer": "Limitada", "level": "clave"},
+    {"id": "b7", "x": 208, "y": 205, "w": 90, "h": 16, "answer": "Profesional, civil y penal", "level": "clave"},
+    {"id": "b8", "x": 389, "y": 204, "w": 46, "h": 16, "answer": "Profesional", "level": "clave"},
+    {"id": "b9", "x": 194, "y": 222, "w": 116, "h": 16, "answer": "Periódico (habitualmente anual)", "accept": ["Periódico", "Periódica", "Anual", "Periódico anual"], "level": "clave"},
+    {"id": "b10", "x": 392, "y": 222, "w": 39, "h": 18, "answer": "Continuo", "accept": ["Continua"], "level": "clave"},
+    {"id": "b11", "x": 236, "y": 248, "w": 32, "h": 19, "answer": "Menor", "level": "clave"},
+    {"id": "b12", "x": 396, "y": 249, "w": 32, "h": 19, "answer": "Mayor", "level": "clave"},
+    {"id": "b13", "x": 162, "y": 64, "w": 182, "h": 16, "answer": "Examen de los estados financieros, operacionales", "accept": ["Examen de los estados financieros"], "level": "extra"},
+    {"id": "b14", "x": 352, "y": 64, "w": 121, "h": 16, "answer": "Control de operaciones y gestión", "level": "extra"},
+    {"id": "b15", "x": 171, "y": 110, "w": 162, "h": 29, "answer": "Estado de los sistemas de información en su conjunto", "level": "extra"},
+    {"id": "b16", "x": 362, "y": 110, "w": 97, "h": 27, "answer": "Restringida departamento informática", "accept": ["Restringida al departamento de informática"], "level": "extra"},
+    {"id": "b17", "x": 198, "y": 148, "w": 110, "h": 18, "answer": "Empresa y público en general", "level": "extra"},
+    {"id": "b18", "x": 348, "y": 150, "w": 128, "h": 26, "answer": "Restringida a empresa o institución pública", "level": "extra"}
+  ]
+}

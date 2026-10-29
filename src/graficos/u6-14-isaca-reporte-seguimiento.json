@@ -1,0 +1,11 @@
+{
+  "title": "Etapas ISACA: reporte y seguimiento",
+  "topic": "U6 · Seguridad y auditoría",
+  "order": 140,
+  "width": 683,
+  "height": 178,
+  "blanks": [
+    {"id": "b1", "x": 38, "y": 40, "w": 112, "h": 34, "answer": "Detallar y presentar el reporte", "level": "clave"},
+    {"id": "b2", "x": 43, "y": 104, "w": 102, "h": 32, "answer": "Seguimiento a recomendaciones", "accept": ["Seguimiento de recomendaciones", "Seguimiento de las recomendaciones"], "level": "clave"}
+  ]
+}

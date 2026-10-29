@@ -1,0 +1,13 @@
+{
+  "title": "Etapas ISACA: documentación",
+  "topic": "U6 · Seguridad y auditoría",
+  "order": 130,
+  "width": 661,
+  "height": 272,
+  "blanks": [
+    {"id": "b1", "x": 42, "y": 28, "w": 97, "h": 35, "answer": "Validar los descubrimientos", "level": "clave"},
+    {"id": "b2", "x": 44, "y": 92, "w": 93, "h": 30, "answer": "Documentar los resultados", "level": "clave"},
+    {"id": "b3", "x": 40, "y": 152, "w": 100, "h": 34, "answer": "Definir contenido del reporte", "accept": ["Definir el contenido del reporte"], "level": "clave"},
+    {"id": "b4", "x": 38, "y": 220, "w": 102, "h": 18, "answer": "Elaborar borrador", "accept": ["Elaborar el borrador"], "level": "clave"}
+  ]
+}

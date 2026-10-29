@@ -1,0 +1,13 @@
+{
+  "title": "Etapas ISACA: trabajo de campo",
+  "topic": "U6 · Seguridad y auditoría",
+  "order": 120,
+  "width": 684,
+  "height": 271,
+  "blanks": [
+    {"id": "b1", "x": 58, "y": 34, "w": 80, "h": 33, "answer": "Determinar la metodología", "level": "clave"},
+    {"id": "b2", "x": 50, "y": 102, "w": 96, "h": 18, "answer": "Recolectar datos", "level": "clave"},
+    {"id": "b3", "x": 63, "y": 155, "w": 70, "h": 33, "answer": "Verificar los controles", "level": "clave"},
+    {"id": "b4", "x": 52, "y": 216, "w": 92, "h": 34, "answer": "Realizar los descubrimientos", "accept": ["Realizar los descubrimiento"], "level": "clave"}
+  ]
+}

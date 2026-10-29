@@ -1,0 +1,21 @@
+{
+  "title": "Desarrollo de una auditoría de SI",
+  "topic": "U6 · Seguridad y auditoría",
+  "order": 80,
+  "width": 411,
+  "height": 565,
+  "blanks": [
+    {"id": "b1", "x": 115, "y": 61, "w": 62, "h": 27, "answer": "Planificación de auditoría", "accept": ["Planificación de la auditoría", "Planificación"], "level": "clave"},
+    {"id": "b2", "x": 113, "y": 107, "w": 66, "h": 36, "answer": "Evaluación de riesgos globales", "level": "clave"},
+    {"id": "b3", "x": 115, "y": 161, "w": 64, "h": 34, "answer": "Desarrollo de un programa de auditoría", "accept": ["Desarrollo del programa de auditoría", "Programa de auditoría"], "level": "clave"},
+    {"id": "b4", "x": 47, "y": 219, "w": 56, "h": 26, "answer": "Objetivos de control", "level": "clave"},
+    {"id": "b5", "x": 183, "y": 219, "w": 69, "h": 26, "answer": "Procedimientos de auditoría", "level": "clave"},
+    {"id": "b6", "x": 123, "y": 275, "w": 50, "h": 25, "answer": "Revisión de evidencias", "level": "clave"},
+    {"id": "b7", "x": 117, "y": 329, "w": 64, "h": 45, "answer": "Evaluación de fortalezas y debilidades de control", "accept": ["Evaluación de fortalezas y debilidades", "Evaluación de fortalezas y debilidades del control"], "level": "clave"},
+    {"id": "b8", "x": 121, "y": 395, "w": 56, "h": 36, "answer": "Preparación informe de auditoría", "accept": ["Preparación del informe de auditoría", "Informe de auditoría"], "level": "clave"},
+    {"id": "b9", "x": 117, "y": 453, "w": 65, "h": 36, "answer": "Preparación informe a alta gerencia", "accept": ["Preparación del informe a la alta gerencia", "Informe a alta gerencia", "Informe a la alta gerencia"], "level": "clave"},
+    {"id": "b10", "x": 117, "y": 507, "w": 66, "h": 34, "answer": "Seguimiento de acciones correctivas", "level": "clave"},
+    {"id": "b11", "x": 45, "y": 15, "w": 158, "h": 20, "answer": "Procedimientos generales de auditoría", "level": "extra"},
+    {"id": "b12", "x": 245, "y": 13, "w": 138, "h": 22, "answer": "Técnicas específicas para auditoría de sistemas de información", "accept": ["Técnicas específicas para auditoría de SI", "Técnicas específicas"], "level": "extra"}
+  ]
+}

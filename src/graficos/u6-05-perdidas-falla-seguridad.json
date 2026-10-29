@@ -1,0 +1,21 @@
+{
+  "title": "Pérdidas por una falla de seguridad",
+  "topic": "U6 · Seguridad y auditoría",
+  "order": 50,
+  "width": 471,
+  "height": 238,
+  "blanks": [
+    {"id": "b1", "x": 18, "y": 62, "w": 56, "h": 30, "answer": "Eventos conflictivos", "level": "clave"},
+    {"id": "b2", "x": 120, "y": 64, "w": 44, "h": 16, "answer": "Sistemas", "level": "clave"},
+    {"id": "b3", "x": 212, "y": 50, "w": 82, "h": 43, "answer": "Pérdida o daño a los sistemas y la información", "accept": ["Pérdida o daño a los sistemas", "Pérdida o daño", "Pérdida o daño a los sistemas la información"], "level": "clave"},
+    {"id": "b4", "x": 372, "y": 56, "w": 64, "h": 30, "answer": "Pérdidas empresariales", "level": "clave"},
+    {"id": "b5", "x": 382, "y": 94, "w": 43, "h": 28, "answer": "Pérdidas directas", "level": "clave"},
+    {"id": "b6", "x": 370, "y": 130, "w": 71, "h": 32, "answer": "Interrupción de los negocios", "level": "clave"},
+    {"id": "b7", "x": 242, "y": 134, "w": 56, "h": 29, "answer": "Pérdidas secundarias", "level": "clave"},
+    {"id": "b8", "x": 76, "y": 26, "w": 36, "h": 27, "answer": "actúan sobre", "level": "extra"},
+    {"id": "b9", "x": 171, "y": 38, "w": 36, "h": 13, "answer": "causan", "level": "extra"},
+    {"id": "b10", "x": 314, "y": 20, "w": 42, "h": 30, "answer": "que provoca", "level": "extra"},
+    {"id": "b11", "x": 160, "y": 114, "w": 60, "h": 30, "answer": "que a su vez provocan", "level": "extra"},
+    {"id": "b12", "x": 309, "y": 114, "w": 52, "h": 31, "answer": "y también causan", "level": "extra"}
+  ]
+}

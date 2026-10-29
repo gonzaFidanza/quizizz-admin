@@ -1,0 +1,14 @@
+{
+  "title": "Nivel óptimo de seguridad",
+  "topic": "U6 · Seguridad y auditoría",
+  "order": 10,
+  "width": 673,
+  "height": 508,
+  "blanks": [
+    {"id": "b1", "x": 465, "y": 51, "w": 85, "h": 58, "answer": "Costo de medidas de seguridad", "accept": ["a Costo de medidas de seguridad", "Costo de las medidas de seguridad"], "level": "clave"},
+    {"id": "b2", "x": 433, "y": 285, "w": 66, "h": 59, "answer": "Costo del daño potencial", "accept": ["b Costo del daño potencial"], "level": "clave"},
+    {"id": "b3", "x": 220, "y": 378, "w": 166, "h": 22, "answer": "Nivel óptimo de seguridad", "accept": ["Nivel óptimo"], "level": "clave"},
+    {"id": "b4", "x": 173, "y": 37, "w": 60, "h": 40, "answer": "Costo de a + b", "accept": ["Costo total", "Costo a + b", "a + b"], "level": "extra"},
+    {"id": "b5", "x": 517, "y": 353, "w": 82, "h": 42, "answer": "Nivel de seguridad", "level": "extra"}
+  ]
+}

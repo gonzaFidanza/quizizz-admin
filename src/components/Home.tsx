@@ -100,8 +100,9 @@ function SeriesTile({ group }: { group: Group }) {
       <span className="series-tile-name">{isAll ? 'Todas las unidades juntas' : group.name}</span>
       <span className="series-tile-foot">
         <Ring value={m} size={30} stroke={2.5} />
-        <span className="muted small">
-          {items.length} gráficos · {blanks} huecos
+        <span className="series-tile-meta muted small">
+          <span>{items.length} gráficos</span>
+          <span>{blanks} huecos</span>
         </span>
         <span className="series-tile-arrow" aria-hidden>
           →

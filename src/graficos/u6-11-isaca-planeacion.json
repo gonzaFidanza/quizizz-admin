@@ -1,0 +1,13 @@
+{
+  "title": "Etapas ISACA: planeación",
+  "topic": "U6 · Seguridad y auditoría",
+  "order": 110,
+  "width": 677,
+  "height": 286,
+  "blanks": [
+    {"id": "b1", "x": 39, "y": 38, "w": 123, "h": 20, "answer": "Determinar al sujeto", "accept": ["Determinar el sujeto"], "level": "clave"},
+    {"id": "b2", "x": 46, "y": 100, "w": 109, "h": 20, "answer": "Definir el objetivo", "level": "clave"},
+    {"id": "b3", "x": 38, "y": 160, "w": 124, "h": 18, "answer": "Establecer el alcance", "level": "clave"},
+    {"id": "b4", "x": 40, "y": 222, "w": 120, "h": 18, "answer": "Planear los recursos", "level": "clave"}
+  ]
+}

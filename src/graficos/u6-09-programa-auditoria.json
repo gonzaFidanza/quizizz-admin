@@ -1,0 +1,16 @@
+{
+  "title": "Desarrollo del programa de auditoría",
+  "topic": "U6 · Seguridad y auditoría",
+  "order": 90,
+  "width": 271,
+  "height": 383,
+  "blanks": [
+    {"id": "b1", "x": 32, "y": 17, "w": 175, "h": 25, "answer": "Recopilación de políticas y normas del ente a auditar", "accept": ["Recopilación de políticas y normas"], "level": "clave"},
+    {"id": "b2", "x": 68, "y": 80, "w": 103, "h": 14, "answer": "Recopilación de datos", "level": "clave"},
+    {"id": "b3", "x": 34, "y": 128, "w": 173, "h": 32, "answer": "Determinación del enfoque de auditoría para verificar y aprobar los controles", "accept": ["Determinación del enfoque de auditoría", "Determinación del enfoque"], "level": "clave"},
+    {"id": "b4", "x": 39, "y": 193, "w": 164, "h": 32, "answer": "Aplicación de metodología y uso de herramientas para probar los controles", "accept": ["Aplicación de metodología y uso de herramientas", "Aplicación de metodología"], "level": "clave"},
+    {"id": "b5", "x": 41, "y": 258, "w": 162, "h": 16, "answer": "Evaluación de resultados de pruebas", "accept": ["Evaluación de resultados", "Evaluación de los resultados de las pruebas"], "level": "clave"},
+    {"id": "b6", "x": 34, "y": 304, "w": 174, "h": 17, "answer": "Formulación del informe de auditoría", "accept": ["Formulación del informe"], "level": "clave"},
+    {"id": "b7", "x": 40, "y": 352, "w": 166, "h": 16, "answer": "Seguimiento de acciones correctivas", "level": "clave"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Control interno y auditoría",
+  "topic": "U6 · Seguridad y auditoría",
+  "order": 70,
+  "width": 349,
+  "height": 212,
+  "blanks": [
+    {"id": "b1", "x": 113, "y": 26, "w": 137, "h": 26, "answer": "Política de seguridad", "level": "clave"},
+    {"id": "b2", "x": 108, "y": 63, "w": 115, "h": 21, "answer": "Plan de seguridad", "level": "clave"},
+    {"id": "b3", "x": 99, "y": 113, "w": 167, "h": 18, "answer": "Normas y procedimientos", "level": "clave"},
+    {"id": "b4", "x": 56, "y": 144, "w": 220, "h": 21, "answer": "Medidas tecnológicas implantadas", "accept": ["Medidas tecnológicas"], "level": "clave"},
+    {"id": "b5", "x": 52, "y": 185, "w": 250, "h": 18, "answer": "Formación y mentalización", "level": "clave"},
+    {"id": "b6", "x": 48, "y": 7, "w": 220, "h": 22, "answer": "Control interno y auditoría", "level": "extra"}
+  ]
+}

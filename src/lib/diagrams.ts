@@ -38,7 +38,14 @@ export const diagrams: Diagram[] = Object.entries(images)
       configured: config.blanks.length > 0,
     }
   })
-  .sort((a, b) => (a.config.order ?? 999) - (b.config.order ?? 999) || a.title.localeCompare(b.title, 'es'))
+  // Por unidad (U4 antes que U6 y U10), después por orden dentro de la unidad.
+  .sort(
+    (a, b) =>
+      Number(!a.config.topic) - Number(!b.config.topic) ||
+      (a.config.topic ?? '').localeCompare(b.config.topic ?? '', 'es', { numeric: true }) ||
+      (a.config.order ?? 999) - (b.config.order ?? 999) ||
+      a.title.localeCompare(b.title, 'es'),
+  )
 
 export const findDiagram = (id: string) => diagrams.find((d) => d.id === id)
 
