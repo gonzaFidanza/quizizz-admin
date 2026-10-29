@@ -1,8 +1,9 @@
 import { useEffect, useState } from 'react'
-import { findDiagram } from './lib/diagrams'
+import { findDiagram, findGroup } from './lib/diagrams'
 import { Home } from './components/Home'
 import { DiagramView } from './components/DiagramView'
 import { Editor } from './components/Editor'
+import { Series } from './components/Series'
 
 const readRoute = () => window.location.hash.replace(/^#\/?/, '').split('/').filter(Boolean)
 
@@ -24,6 +25,7 @@ export function App() {
 
   const [section, id, sub] = route
   const diagram = section === 'g' && id ? findDiagram(id) : undefined
+  const group = section === 'serie' && id ? findGroup(id) : undefined
 
   return (
     <div className="app">
@@ -32,6 +34,8 @@ export function App() {
         <Editor key={diagram.id} diagram={diagram} />
       ) : diagram ? (
         <DiagramView key={diagram.id} diagram={diagram} />
+      ) : group ? (
+        <Series key={group.key} group={group} />
       ) : section === 'mc' ? (
         <ComingSoon />
       ) : (

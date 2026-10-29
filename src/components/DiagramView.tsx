@@ -7,7 +7,19 @@ import { Board } from './Board'
 import { Ring } from './Ring'
 
 export type Mode = 'study' | 'practice' | 'exam'
-type Scope = 'clave' | 'todo' | 'errores'
+export type Scope = 'clave' | 'todo' | 'errores'
+
+/** Contexto cuando el gráfico se practica dentro de una serie (una unidad o todo). */
+export interface SeriesNav {
+  label: string
+  index: number
+  total: number
+  /** Resultado de cada gráfico de la serie (0–1), null si todavía no se hizo. */
+  marks: (number | null)[]
+  titles: string[]
+  onGo: (index: number) => void
+  onDone: (score: number, total: number) => void
+}
 
 export interface Cell {
   value: string
@@ -45,15 +57,25 @@ function shuffle<T>(arr: T[]) {
   return a
 }
 
-export function DiagramView({ diagram }: { diagram: Diagram }) {
+export function DiagramView({
+  diagram,
+  series,
+  initialMode = 'study',
+  initialScope = 'clave',
+}: {
+  diagram: Diagram
+  series?: SeriesNav
+  initialMode?: Mode
+  initialScope?: Scope
+}) {
   const allProgress = useProgress()
   const progress = allProgress[diagram.id]
   const blanks = diagram.config.blanks
   const byId = useMemo(() => Object.fromEntries(blanks.map((b) => [b.id, b])), [blanks])
   const failedNow = failedIds(diagram, progress)
 
-  const [mode, setMode] = useState<Mode>('study')
-  const [scope, setScope] = useState<Scope>('clave')
+  const [mode, setMode] = useState<Mode>(initialMode)
+  const [scope, setScope] = useState<Scope>(initialScope)
   const [ids, setIds] = useState<string[]>(() => blanks.filter((b) => levelOf(b) === 'clave').map((b) => b.id))
   const [cells, setCells] = useState<Record<string, Cell>>({})
   const [focusId, setFocusId] = useState<string | null>(null)
@@ -82,6 +104,7 @@ export function DiagramView({ diagram }: { diagram: Diagram }) {
 
   const start = useCallback(
     (nextMode: Mode, nextScope: Scope) => {
+      if (nextScope === 'errores' && failedIds(diagram, progress).length === 0) nextScope = 'clave'
       const nextIds =
         nextScope === 'todo'
           ? blanks.map((b) => b.id)
@@ -101,6 +124,18 @@ export function DiagramView({ diagram }: { diagram: Diagram }) {
     },
     [blanks, diagram, progress, focusBlank],
   )
+
+  // Dentro de una serie se arranca directo en el modo elegido.
+  const seriesRef = useRef(series)
+  seriesRef.current = series
+  useEffect(() => {
+    if (initialMode !== 'study' || initialScope !== 'clave') start(initialMode, initialScope)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
+
+  const hasNext = series && series.index + 1 < series.total
+  const goNext = () => series?.onGo(series.index + 1)
+  const nextLabel = hasNext ? 'Siguiente gráfico →' : 'Ver resumen →'
 
   const nextOpen = (from: string, state: Record<string, Cell>) => {
     const idx = ids.indexOf(from)
@@ -188,6 +223,7 @@ export function DiagramView({ diagram }: { diagram: Diagram }) {
     if (!allFinal || recorded.current) return
     recorded.current = true
     recordSession(diagram.id, { at: Date.now(), mode: mode as 'practice' | 'exam', score, total: ids.length })
+    seriesRef.current?.onDone(score, ids.length)
     const t = setTimeout(() => setShowResults(true), 650)
     return () => clearTimeout(t)
   }, [allFinal, diagram.id, ids.length, mode, score])
@@ -207,6 +243,8 @@ export function DiagramView({ diagram }: { diagram: Diagram }) {
       if (m) start(m.id, scope)
       else if (e.key === 'z') setZoom((z) => (z === 1 ? 1.5 : z === 1.5 ? 2 : 1))
       else if (e.key === 'b' && mode !== 'study') setBank((b) => !b)
+      else if (e.key === 'ArrowRight' && seriesRef.current) seriesRef.current.onGo(seriesRef.current.index + 1)
+      else if (e.key === 'ArrowLeft' && seriesRef.current && seriesRef.current.index > 0) seriesRef.current.onGo(seriesRef.current.index - 1)
     }
     window.addEventListener('keydown', onKey)
     return () => window.removeEventListener('keydown', onKey)
@@ -224,11 +262,14 @@ export function DiagramView({ diagram }: { diagram: Diagram }) {
 
   return (
     <main className="page page-wide">
+      {series && <SeriesBar series={series} />}
       <section className="view-head">
         <div>
-          <a href="#/" className="back">
-            ← Gráficos
-          </a>
+          {!series && (
+            <a href="#/" className="back">
+              ← Gráficos
+            </a>
+          )}
           <h1 className="title">{diagram.title}</h1>
           <div className="view-meta">
             {diagram.config.topic && <span>{diagram.config.topic}</span>}
@@ -324,6 +365,12 @@ export function DiagramView({ diagram }: { diagram: Diagram }) {
             {mode === 'study' ? (
               <>
                 Tocá un concepto para taparlo · <kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd> cambiar modo · <kbd>Z</kbd> zoom
+                {series && (
+                  <>
+                    {' '}
+                    · <kbd>←</kbd> <kbd>→</kbd> gráfico anterior / siguiente
+                  </>
+                )}
               </>
             ) : mode === 'practice' ? (
               <>
@@ -373,9 +420,15 @@ export function DiagramView({ diagram }: { diagram: Diagram }) {
                 <button className="btn ghost" onClick={() => setCovered(covered.size === active.length ? new Set() : new Set(ids))}>
                   {covered.size === active.length ? 'Mostrar todo' : 'Tapar todo'}
                 </button>
-                <button className="btn primary" onClick={() => start('practice', scope)}>
-                  Empezar práctica →
-                </button>
+                {series ? (
+                  <button className="btn primary" onClick={goNext}>
+                    {nextLabel}
+                  </button>
+                ) : (
+                  <button className="btn primary" onClick={() => start('practice', scope)}>
+                    Empezar práctica →
+                  </button>
+                )}
               </div>
             </>
           ) : (
@@ -479,9 +532,15 @@ export function DiagramView({ diagram }: { diagram: Diagram }) {
                     <button className="btn ghost" onClick={() => start(mode, scope)}>
                       Otra vez
                     </button>
-                    <button className="btn primary" onClick={() => setShowResults(true)}>
-                      Ver resultado
-                    </button>
+                    {series ? (
+                      <button className="btn primary" onClick={goNext}>
+                        {nextLabel}
+                      </button>
+                    ) : (
+                      <button className="btn primary" onClick={() => setShowResults(true)}>
+                        Ver resultado
+                      </button>
+                    )}
                   </>
                 )}
               </div>
@@ -514,11 +573,54 @@ export function DiagramView({ diagram }: { diagram: Diagram }) {
           onErrors={() => start('practice', 'errores')}
           onStudy={() => start('study', scope)}
           hasErrors={failedIds(diagram, progress).length > 0}
+          next={series ? { label: nextLabel, onClick: goNext } : undefined}
         />
       )}
     </main>
   )
 }
+
+function SeriesBar({ series }: { series: SeriesNav }) {
+  const { index, total, marks, titles, onGo, label } = series
+  return (
+    <div className="series-bar">
+      <div className="series-top">
+        <a href="#/" className="back">
+          ← Salir
+        </a>
+        <span className="series-label">{label}</span>
+        <div className="series-nav">
+          <span className="series-count">
+            {String(index + 1).padStart(2, '0')} <span className="muted">/ {String(total).padStart(2, '0')}</span>
+          </span>
+          <button className="icon-btn" disabled={index === 0} onClick={() => onGo(index - 1)} aria-label="Gráfico anterior" title="Anterior (←)">
+            <svg viewBox="0 0 20 20" width="16" height="16" aria-hidden>
+              <path d="M12 4.5L6.5 10l5.5 5.5" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
+            </svg>
+          </button>
+          <button className="icon-btn" onClick={() => onGo(index + 1)} aria-label={index + 1 < total ? 'Gráfico siguiente' : 'Ver resumen'} title="Siguiente (→)">
+            <svg viewBox="0 0 20 20" width="16" height="16" aria-hidden>
+              <path d="M8 4.5l5.5 5.5L8 15.5" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
+            </svg>
+          </button>
+        </div>
+      </div>
+      <div className="series-strip">
+        {marks.map((m, i) => (
+          <button
+            key={i}
+            className={`series-seg ${markClass(m)} ${i === index ? 'current' : ''}`}
+            onClick={() => onGo(i)}
+            title={`${i + 1}. ${titles[i]}${m === null ? '' : ` · ${Math.round(m * 100)}%`}`}
+            aria-label={`Ir al gráfico ${i + 1}: ${titles[i]}`}
+          />
+        ))}
+      </div>
+    </div>
+  )
+}
+
+export const markClass = (m: number | null) => (m === null ? 'pending' : m >= 0.8 ? 'ok' : m >= 0.5 ? 'helped' : 'miss')
 
 /** Aclaración debajo de la respuesta correcta en el panel. */
 function note(c: Cell, o: Outcome) {
@@ -557,6 +659,7 @@ function Results(props: {
   onRetry: () => void
   onErrors: () => void
   onStudy: () => void
+  next?: { label: string; onClick: () => void }
 }) {
   const pct = props.total ? Math.round((props.score / props.total) * 100) : 0
   const count = (o: Outcome) => props.outcomes.filter((x) => x === o).length
@@ -610,12 +713,22 @@ function Results(props: {
           <button className="btn ghost" onClick={props.onRetry}>
             Otra vez
           </button>
-          {props.hasErrors && (
+          {props.next ? (
+            <>
+              {props.hasErrors && (
+                <button className="btn ghost" onClick={props.onErrors}>
+                  Repasar errores
+                </button>
+              )}
+              <button className="btn primary" onClick={props.next.onClick} autoFocus>
+                {props.next.label}
+              </button>
+            </>
+          ) : props.hasErrors ? (
             <button className="btn primary" onClick={props.onErrors} autoFocus>
               Practicar errores →
             </button>
-          )}
-          {!props.hasErrors && (
+          ) : (
             <button className="btn primary" onClick={props.onClose} autoFocus>
               Listo
             </button>

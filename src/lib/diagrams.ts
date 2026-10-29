@@ -43,3 +43,27 @@ export const diagrams: Diagram[] = Object.entries(images)
 export const findDiagram = (id: string) => diagrams.find((d) => d.id === id)
 
 export const levelOf = (b: { level?: string }) => (b.level === 'extra' ? 'extra' : 'clave')
+
+export interface Group {
+  key: string
+  unit: string
+  name: string
+  diagrams: Diagram[]
+}
+
+/** Gráficos agrupados por unidad («U4 · Nombre» → clave «u4»), en el orden en que aparecen. */
+export const groups: Group[] = (() => {
+  const map = new Map<string, Diagram[]>()
+  for (const d of diagrams) {
+    const topic = d.config.topic || 'Otros'
+    map.set(topic, [...(map.get(topic) ?? []), d])
+  }
+  return [...map.entries()].map(([topic, items]) => {
+    const [unit, name] = topic.split(' · ')
+    return { key: slug(unit), unit: name ? unit : '', name: name ?? topic, diagrams: items }
+  })
+})()
+
+export const allGroup: Group = { key: 'todo', unit: '', name: 'Todos los gráficos', diagrams: groups.flatMap((g) => g.diagrams) }
+
+export const findGroup = (key: string) => (key === allGroup.key ? allGroup : groups.find((g) => g.key === key))

@@ -16,6 +16,7 @@ npm run dev
    - Filtros: **Clave** (lo que suele tomarse), **Todo** y **Mis errores**.
    - La corrección ignora mayúsculas, tildes, artículos y errores de tipeo chicos.
    - El progreso se guarda en el navegador: un concepto queda dominado cuando lo acertás 2 veces seguidas.
+   - **Practicar en serie:** toda la U4, toda la U5 o todo junto, un gráfico atrás del otro y con un resumen al final. Se elige modo, huecos y orden (en orden o mezclado), y si salís podés seguir donde quedaste.
 2. **Multiple choice:** próximamente.
 
 ## Dónde poner el material

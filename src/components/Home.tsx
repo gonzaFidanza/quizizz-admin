@@ -1,4 +1,4 @@
-import { diagrams, levelOf } from '../lib/diagrams'
+import { allGroup, diagrams, groups, levelOf, type Group } from '../lib/diagrams'
 import { mastery, timeAgo, useProgress } from '../lib/storage'
 import type { Diagram } from '../lib/types'
 import { Ring } from './Ring'
@@ -41,28 +41,38 @@ export function Home() {
         <Step n="03" title="Rendí" text="Simulacro sin ayudas: completás todo y recién al final ves el resultado." />
       </section>
 
+      {diagrams.length > 0 && (
+        <section className="series">
+          <div className="section-head">
+            <h2 className="h2">Practicar en serie</h2>
+            <span className="muted small">Un gráfico atrás del otro, sin volver al inicio</span>
+          </div>
+          <div className="series-grid">
+            {[...groups, allGroup].map((g) => (
+              <SeriesTile key={g.key} group={g} />
+            ))}
+          </div>
+        </section>
+      )}
+
       {diagrams.length === 0 ? (
         <div className="empty">
           Todavía no hay gráficos. Agregá imágenes en <code>src/graficos/</code>.
         </div>
       ) : (
-        groupByTopic(diagrams).map(([topic, items]) => {
-          const [unit, name] = topic.split(' · ')
+        groups.map(({ key, unit, name, diagrams: items }) => {
           const m = items.reduce((n, d) => n + mastery(d, progress[d.id]), 0) / items.length
           return (
-            <section key={topic} className="group">
+            <section key={key} className="group">
               <div className="section-head">
                 <h2 className="h2">
-                  {name ? (
-                    <>
-                      <span className="unit">{unit}</span> {name}
-                    </>
-                  ) : (
-                    topic
-                  )}
+                  {unit && <span className="unit">{unit}</span>} {name}
                 </h2>
                 <span className="muted small">
-                  {items.length} gráficos · {Math.round(m * 100)}% dominado
+                  {items.length} gráficos · {Math.round(m * 100)}% dominado ·{' '}
+                  <a className="link-quiet" href={`#/serie/${key}`}>
+                    Practicar {unit ? `toda la ${unit}` : 'todos'} →
+                  </a>
                 </span>
               </div>
               <div className="grid">
@@ -78,13 +88,27 @@ export function Home() {
   )
 }
 
-function groupByTopic(list: Diagram[]) {
-  const groups = new Map<string, Diagram[]>()
-  for (const d of list) {
-    const key = d.config.topic || 'Otros'
-    groups.set(key, [...(groups.get(key) ?? []), d])
-  }
-  return [...groups.entries()]
+function SeriesTile({ group }: { group: Group }) {
+  const progress = useProgress()
+  const items = group.diagrams.filter((d) => d.configured)
+  const blanks = items.reduce((n, d) => n + d.config.blanks.length, 0)
+  const m = items.length ? items.reduce((n, d) => n + mastery(d, progress[d.id]), 0) / items.length : 0
+  const isAll = group.key === allGroup.key
+  return (
+    <a className={`series-tile ${isAll ? 'all' : ''}`} href={`#/serie/${group.key}`}>
+      <span className="series-tile-unit">{group.unit || 'Todo'}</span>
+      <span className="series-tile-name">{isAll ? 'Todas las unidades juntas' : group.name}</span>
+      <span className="series-tile-foot">
+        <Ring value={m} size={30} stroke={2.5} />
+        <span className="muted small">
+          {items.length} gráficos · {blanks} huecos
+        </span>
+        <span className="series-tile-arrow" aria-hidden>
+          →
+        </span>
+      </span>
+    </a>
+  )
 }
 
 function DiagramCard({ diagram, index }: { diagram: Diagram; index: number }) {
