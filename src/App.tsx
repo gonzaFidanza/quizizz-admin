@@ -7,6 +7,9 @@ import { Series } from './components/Series'
 import { Crosswords } from './components/Crosswords'
 import { Crossword } from './components/Crossword'
 import { findPuzzle } from './crucigramas'
+import { MindMaps } from './components/MindMaps'
+import { MindMap } from './components/MindMap'
+import { findMindMap } from './mapas'
 
 const readRoute = () => window.location.hash.replace(/^#\/?/, '').split('/').filter(Boolean)
 
@@ -30,6 +33,7 @@ export function App() {
   const diagram = section === 'g' && id ? findDiagram(id) : undefined
   const group = section === 'serie' && id ? findGroup(id) : undefined
   const puzzle = section === 'cruci' && id ? findPuzzle(id) : undefined
+  const mindMap = section === 'mapas' && id ? findMindMap(id) : undefined
 
   return (
     <div className="app">
@@ -44,6 +48,10 @@ export function App() {
         <Crossword key={puzzle.def.id} def={puzzle.def} unit={puzzle.unit} index={puzzle.index} />
       ) : section === 'cruci' ? (
         <Crosswords />
+      ) : mindMap ? (
+        <MindMap key={mindMap.id} map={mindMap} />
+      ) : section === 'mapas' ? (
+        <MindMaps />
       ) : section === 'mc' ? (
         <ComingSoon />
       ) : (
@@ -61,8 +69,11 @@ function TopBar({ section }: { section?: string }) {
         repaso<span className="muted">/asi</span>
       </a>
       <nav className="topnav">
-        <a href="#/" className={section !== 'mc' && section !== 'cruci' ? 'active' : ''}>
+        <a href="#/" className={!['mc', 'cruci', 'mapas'].includes(section ?? '') ? 'active' : ''}>
           Gráficos
+        </a>
+        <a href="#/mapas" className={section === 'mapas' ? 'active' : ''}>
+          Mapas
         </a>
         <a href="#/cruci" className={section === 'cruci' ? 'active' : ''}>
           Crucigramas

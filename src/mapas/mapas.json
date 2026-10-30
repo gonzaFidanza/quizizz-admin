@@ -1,0 +1,4881 @@
+[
+ {
+  "id": "u4-1",
+  "unit": "u4",
+  "num": "01",
+  "title": "Desarrollo, aprendizaje y capacitación",
+  "subtitle": "Preparar a las personas para el cargo y para responsabilidades futuras",
+  "kicker": "DESARROLLO",
+  "center": "Aprendizaje y capacitación",
+  "recordar": "Entrenamiento: cargo y corto plazo. Desarrollo profesional: carrera y mediano plazo. DO: organización y largo plazo.",
+  "left": [
+   {
+    "label": "Subsistema de desarrollo",
+    "leaves": [
+     {
+      "term": "Finalidad",
+      "text": "Equilibrar competencias actuales y futuras, necesidades del cargo y de la organización.",
+      "refs": [
+       "s02.1"
+      ]
+     },
+     {
+      "term": "Orientación",
+      "text": "Entorno, misión y estrategia; adaptación al puesto y futuras responsabilidades.",
+      "refs": [
+       "s02.1",
+       "s02.5"
+      ]
+     },
+     {
+      "term": "Personas",
+      "text": "Evolución de capacidades y habilidades; RRHH con autodirección y desarrollo.",
+      "refs": [
+       "s02.2",
+       "s02.1"
+      ]
+     },
+     {
+      "term": "Escalas",
+      "text": "Entrenamiento y desarrollo personal: individual. Desarrollo organizacional: macroscópico.",
+      "refs": [
+       "s02.3",
+       "s02.4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Aprendizaje",
+    "leaves": [
+     {
+      "term": "Proceso complejo",
+      "text": "Adquirir comportamientos para sobrevivir y adaptarse al medio físico o cultural.",
+      "refs": [
+       "s03.1"
+      ]
+     },
+     {
+      "term": "Cómo se aprende",
+      "text": "Con conocimientos y experiencias; afecta actitudes, intereses y motivaciones.",
+      "refs": [
+       "s03.2"
+      ]
+     },
+     {
+      "term": "Práctica y refuerzo",
+      "text": "Repetir mejora el comportamiento; sin práctica aparece el olvido.",
+      "refs": [
+       "s03.2"
+      ]
+     },
+     {
+      "term": "Conducta",
+      "text": "Reforzar comportamientos deseables y extinguir los indeseables.",
+      "refs": [
+       "s03.2"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Leyes del aprendizaje I",
+    "leaves": [
+     {
+      "term": "Efecto",
+      "text": "Se mantiene lo recompensador; recompensa inmediata y constante.",
+      "refs": [
+       "s03.4:1"
+      ]
+     },
+     {
+      "term": "Estímulo",
+      "text": "La recompensa estimula el aprendizaje.",
+      "refs": [
+       "s03.4:2"
+      ]
+     },
+     {
+      "term": "Intensidad",
+      "text": "La intensidad de ejercicios y prácticas determina el aprendizaje.",
+      "refs": [
+       "s03.4:3"
+      ]
+     },
+     {
+      "term": "Frecuencia",
+      "text": "La repetición de prácticas y ejercicios sirve de refuerzo.",
+      "refs": [
+       "s03.4:4"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Leyes del aprendizaje II",
+    "leaves": [
+     {
+      "term": "Continuidad",
+      "text": "Importa el tiempo entre aprendizaje y desempeño; la falta de práctica lleva al olvido.",
+      "refs": [
+       "s03.4:5"
+      ]
+     },
+     {
+      "term": "Descongelamiento",
+      "text": "Aprender algo nuevo implica sustituir lo viejo; requiere cambio, ambiente y tiempo.",
+      "refs": [
+       "s03.4:6"
+      ]
+     },
+     {
+      "term": "Complejidad creciente",
+      "text": "Comenzar por aspectos sencillos y avanzar progresivamente a tareas complejas.",
+      "refs": [
+       "s03.4:7"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Educación profesional",
+    "leaves": [
+     {
+      "term": "Educación",
+      "text": "Influencias sociales para adaptarse a normas y valores; organizada o asistemática. Prepara para el ambiente, dentro o fuera del trabajo.",
+      "refs": [
+       "s03.6",
+       "s03.7"
+      ]
+     },
+     {
+      "term": "Formación profesional",
+      "text": "Profesión; objetivos amplios, largo plazo. Escuelas y empresas.",
+      "refs": [
+       "s03.8:1"
+      ]
+     },
+     {
+      "term": "Desarrollo profesional",
+      "text": "Carrera; objetivos menos amplios, mediano plazo. Empresas o firmas especializadas.",
+      "refs": [
+       "s03.8:2"
+      ]
+     },
+     {
+      "term": "Entrenamiento",
+      "text": "Cargo o función; objetivos limitados e inmediatos, corto plazo. Empresas o firmas especializadas.",
+      "refs": [
+       "s03.8:3"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Capacitación",
+    "leaves": [
+     {
+      "term": "Proceso educativo",
+      "text": "Sistemático, organizado, de corto plazo y con objetivos definidos.",
+      "refs": [
+       "s04.1"
+      ]
+     },
+     {
+      "term": "Información y habilidades",
+      "text": "Transmitir conocimientos y desarrollar destrezas para las tareas.",
+      "refs": [
+       "s04.3",
+       "s04.4"
+      ]
+     },
+     {
+      "term": "Actitudes y conceptos",
+      "text": "Cambiar actitudes; elevar abstracción, conceptualización y visión global.",
+      "refs": [
+       "s04.5",
+       "s04.6"
+      ]
+     },
+     {
+      "term": "Objetivos",
+      "text": "Ejecutar tareas, favorecer desarrollo continuo, mejorar clima y motivación.",
+      "refs": [
+       "s04.8",
+       "s04.9",
+       "s04.10"
+      ]
+     },
+     {
+      "term": "Responsabilidad",
+      "text": "Jefe de línea; asesoría especializada del staff.",
+      "refs": [
+       "s04.11"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "u4-2",
+  "unit": "u4",
+  "num": "02",
+  "title": "Proceso de entrenamiento",
+  "subtitle": "Inventario de necesidades → programación → implementación y ejecución → evaluación de resultados",
+  "kicker": "DESARROLLO",
+  "center": "Proceso de entrenamiento",
+  "recordar": "Necesidades de entrenamiento = requisitos exigidos por el cargo − habilidades del ocupante del cargo.",
+  "left": [
+   {
+    "label": "Sistema abierto",
+    "leaves": [
+     {
+      "term": "Inputs",
+      "text": "Individuos, recursos, información y habilidades.",
+      "refs": [
+       "s04.13"
+      ]
+     },
+     {
+      "term": "Procesamiento",
+      "text": "Aprendizaje individual y programa de entrenamiento.",
+      "refs": [
+       "s04.13"
+      ]
+     },
+     {
+      "term": "Outputs",
+      "text": "Personal habilitado y eficacia organizacional.",
+      "refs": [
+       "s04.13"
+      ]
+     },
+     {
+      "term": "Feedback",
+      "text": "Evaluación de procedimientos y resultados para retroalimentar el proceso.",
+      "refs": [
+       "s04.13"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Diagnóstico: tres niveles",
+    "leaves": [
+     {
+      "term": "Organización",
+      "text": "Objetivos, planes, cultura, entorno, costos y beneficios; dónde poner el énfasis.",
+      "refs": [
+       "s05.2:1"
+      ]
+     },
+     {
+      "term": "Recursos humanos",
+      "text": "Cantidad y calidad de la fuerza laboral para actividades presentes y futuras.",
+      "refs": [
+       "s05.2:2"
+      ]
+     },
+     {
+      "term": "Operaciones y tareas",
+      "text": "Requisitos del cargo: capacidades, conductas, cualidades y responsabilidades.",
+      "refs": [
+       "s05.2:3"
+      ]
+     },
+     {
+      "term": "Datos de RRHH",
+      "text": "Dotación, conocimientos, desempeño, potencial, tiempos, ausentismo y rotación.",
+      "refs": [
+       "s05.2:2",
+       "s05.1"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Medios e indicadores",
+    "leaves": [
+     {
+      "term": "Detección",
+      "text": "Evaluación del desempeño, observación, cuestionarios, exámenes y análisis de cargos.",
+      "refs": [
+       "s05.7"
+      ]
+     },
+     {
+      "term": "Consulta y registros",
+      "text": "Supervisores, reuniones, entrevistas de salida, cambios del trabajo e informes.",
+      "refs": [
+       "s05.7"
+      ]
+     },
+     {
+      "term": "A priori",
+      "text": "Cambios previsibles: expansión, nuevos empleados, procesos, equipos, productos o servicios.",
+      "refs": [
+       "s05.9"
+      ]
+     },
+     {
+      "term": "A posteriori",
+      "text": "Necesidades no atendidas. Producción: baja calidad, errores, averías y accidentes. Personal: quejas, ausencias, relaciones deficientes y poca cooperación.",
+      "refs": [
+       "s05.10",
+       "s05.11",
+       "s05.12"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Programación",
+    "leaves": [
+     {
+      "term": "Qué y para qué",
+      "text": "Contenido y objetivos; enfocar una necesidad específica por vez.",
+      "refs": [
+       "s06.1",
+       "s06.3",
+       "s06.4",
+       "s06.6"
+      ]
+     },
+     {
+      "term": "Quiénes",
+      "text": "Población que aprende e instructor; selección según necesidades y objetivos.",
+      "refs": [
+       "s06.1",
+       "s06.9"
+      ]
+     },
+     {
+      "term": "Cuándo, cuánto y dónde",
+      "text": "Época, horario, periodicidad, volumen, duración, intensidad y lugar.",
+      "refs": [
+       "s06.1",
+       "s06.10",
+       "s06.11"
+      ]
+     },
+     {
+      "term": "Cómo y con qué",
+      "text": "Métodos, recursos y tecnología; dividir en módulos o ciclos.",
+      "refs": [
+       "s06.5",
+       "s06.7",
+       "s06.8"
+      ]
+     },
+     {
+      "term": "Viabilidad y control",
+      "text": "Costos, relación costo-beneficio y evaluación de resultados.",
+      "refs": [
+       "s06.12",
+       "s06.13"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Técnicas",
+    "leaves": [
+     {
+      "term": "Por uso: contenido",
+      "text": "Transmitir información: lectura, audiovisuales e instrucción por computadora.",
+      "refs": [
+       "s06.15:1"
+      ]
+     },
+     {
+      "term": "Por uso: proceso / mixtas",
+      "text": "Actitudes y relaciones / información más cambios de conducta; casos y simulaciones.",
+      "refs": [
+       "s06.15:1"
+      ]
+     },
+     {
+      "term": "Por tiempo",
+      "text": "Inducción o integración inicial; entrenamiento después del ingreso.",
+      "refs": [
+       "s06.15:2"
+      ]
+     },
+     {
+      "term": "Por lugar",
+      "text": "En el puesto (on the job) o fuera de él; dentro o fuera de la empresa.",
+      "refs": [
+       "s06.15:3"
+      ]
+     },
+     {
+      "term": "Ejemplos",
+      "text": "Exposición, debates, dramatización, juegos e instrucción programada.",
+      "refs": [
+       "s06.16"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Ejecución y evaluación",
+    "leaves": [
+     {
+      "term": "Instructor-aprendiz",
+      "text": "Programa adecuado, buen material, apoyo directivo y preparación de participantes.",
+      "refs": [
+       "s06.18",
+       "s06.19"
+      ]
+     },
+     {
+      "term": "Evaluar",
+      "text": "Cambios de comportamiento, aporte a las metas y efectividad de las técnicas.",
+      "refs": [
+       "s06.21"
+      ]
+     },
+     {
+      "term": "Organización",
+      "text": "Eficacia, imagen y clima organizacional.",
+      "refs": [
+       "s06.22"
+      ]
+     },
+     {
+      "term": "RRHH",
+      "text": "Menor rotación y ausentismo; más eficiencia, habilidades, conocimientos y mejores actitudes.",
+      "refs": [
+       "s06.23"
+      ]
+     },
+     {
+      "term": "Tareas y operaciones",
+      "text": "Productividad, calidad, atención al cliente y reducción de accidentes.",
+      "refs": [
+       "s06.24"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "u4-3",
+  "unit": "u4",
+  "num": "03",
+  "title": "Desarrollo Organizacional (DO)",
+  "subtitle": "Cambio intencional, planeado y sistémico para mejorar la eficacia a largo plazo",
+  "kicker": "DESARROLLO",
+  "center": "Desarrollo Organizacional",
+  "recordar": "El DO es continuo: la evaluación retroalimenta el diagnóstico y orienta nuevas intervenciones.",
+  "left": [
+   {
+    "label": "Fundamentos",
+    "leaves": [
+     {
+      "term": "Enfoque",
+      "text": "Ciencias del comportamiento; organización como sistema total; cultura, estructura y procesos.",
+      "refs": [
+       "s07.2"
+      ]
+     },
+     {
+      "term": "Elementos",
+      "text": "Largo plazo, eficacia de toda la organización y diagnóstico/intervención de línea y consultor.",
+      "refs": [
+       "s07.3"
+      ]
+     },
+     {
+      "term": "Surgimiento",
+      "text": "Cambios del ambiente, tamaño, tecnología y conceptos de hombre, poder y valores.",
+      "refs": [
+       "s07.4"
+      ]
+     },
+     {
+      "term": "Fuerzas de cambio",
+      "text": "Exógenas: ambiente. Endógenas: interacción y tensiones internas.",
+      "refs": [
+       "s07.8"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Cultura y tipos de cambio",
+    "leaves": [
+     {
+      "term": "Cultura",
+      "text": "Creencias, valores, expectativas y relaciones; influye en el clima. Cambiar implica transformarla.",
+      "refs": [
+       "s07.7"
+      ]
+     },
+     {
+      "term": "Estructural",
+      "text": "Órganos y áreas: creación, eliminación, fusión o subcontratación.",
+      "refs": [
+       "s08.2"
+      ]
+     },
+     {
+      "term": "Tecnológico",
+      "text": "Máquinas, equipos, instalaciones y procesos.",
+      "refs": [
+       "s08.3"
+      ]
+     },
+     {
+      "term": "Productos o servicios",
+      "text": "Cambios en los resultados o salidas de la organización.",
+      "refs": [
+       "s08.4"
+      ]
+     },
+     {
+      "term": "Cultural",
+      "text": "Comportamientos, actitudes, expectativas y necesidades; los cambios se afectan entre sí.",
+      "refs": [
+       "s08.5"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Características del DO I",
+    "leaves": [
+     {
+      "term": "Toda la organización",
+      "text": "El cambio efectivo considera el conjunto.",
+      "refs": [
+       "s08.8"
+      ]
+     },
+     {
+      "term": "Orientación sistémica",
+      "text": "Partes coordinadas y eficaces, más allá del rendimiento individual.",
+      "refs": [
+       "s08.9"
+      ]
+     },
+     {
+      "term": "Agente de cambio",
+      "text": "Estimula y coordina el cambio.",
+      "refs": [
+       "s08.10"
+      ]
+     },
+     {
+      "term": "Solución de problemas",
+      "text": "Problemas reales mediante investigación-acción.",
+      "refs": [
+       "s08.11"
+      ]
+     },
+     {
+      "term": "Aprendizaje experimental",
+      "text": "Resolver problemas del trabajo, discutir la experiencia y aprender de ella.",
+      "refs": [
+       "s08.12"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Características del DO II",
+    "leaves": [
+     {
+      "term": "Procesos grupales",
+      "text": "Discusiones, debates y actividades de grupo.",
+      "refs": [
+       "s08.13"
+      ]
+     },
+     {
+      "term": "Retroalimentación",
+      "text": "Información sobre proceso y resultados para revisar la actuación.",
+      "refs": [
+       "s08.14"
+      ]
+     },
+     {
+      "term": "Orientación situacional",
+      "text": "Flexibilidad ante las necesidades de cada situación.",
+      "refs": [
+       "s08.15"
+      ]
+     },
+     {
+      "term": "Desarrollo de equipos",
+      "text": "Integración, cooperación y superación de diferencias.",
+      "refs": [
+       "s08.16"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Proceso",
+    "leaves": [
+     {
+      "term": "1. Recolección y análisis",
+      "text": "Datos y métodos para describir el sistema, sus relaciones y problemas.",
+      "refs": [
+       "s09.2"
+      ]
+     },
+     {
+      "term": "2. Diagnóstico",
+      "text": "Interpretar datos; fijar problemas, prioridades, metas, objetivos y estrategias.",
+      "refs": [
+       "s09.3"
+      ]
+     },
+     {
+      "term": "3. Intervención",
+      "text": "Seleccionar y aplicar la acción apropiada al problema.",
+      "refs": [
+       "s09.4"
+      ]
+     },
+     {
+      "term": "4. Evaluación",
+      "text": "Circuito cerrado: resultados que modifican diagnóstico y nuevas acciones.",
+      "refs": [
+       "s09.5"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Objetivos",
+    "leaves": [
+     {
+      "term": "Confianza y apoyo",
+      "text": "Fortalecer vínculos entre miembros; confrontar problemas sin ocultarlos.",
+      "refs": [
+       "s09.7",
+       "s09.8"
+      ]
+     },
+     {
+      "term": "Autoridad y comunicación",
+      "text": "Sumar conocimiento y habilidad social; abrir vías verticales, laterales y diagonales.",
+      "refs": [
+       "s09.9",
+       "s09.10"
+      ]
+     },
+     {
+      "term": "Satisfacción y sinergia",
+      "text": "Más entusiasmo y satisfacción; soluciones que integren esfuerzos.",
+      "refs": [
+       "s09.11",
+       "s09.12"
+      ]
+     },
+     {
+      "term": "Responsabilidad",
+      "text": "Aumentar compromiso individual y grupal en planeación e implementación.",
+      "refs": [
+       "s09.13"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "u4-4",
+  "unit": "u4",
+  "num": "04",
+  "title": "Mantenimiento, carrera y motivación",
+  "subtitle": "Retener al empleado adecuado y equilibrar las necesidades individuales y organizacionales",
+  "kicker": "MANTENIMIENTO",
+  "center": "Carrera y motivación",
+  "recordar": "La permanencia depende del equilibrio entre incentivos y contribuciones, y de oportunidades de desarrollo y reconocimiento.",
+  "left": [
+   {
+    "label": "Subsistema de mantenimiento",
+    "leaves": [
+     {
+      "term": "Finalidad",
+      "text": "Retener al empleado adecuado, mantenerlo satisfecho y motivado, y generar pertenencia.",
+      "refs": [
+       "s10.1"
+      ]
+     },
+     {
+      "term": "Carrera y compensaciones",
+      "text": "Trayectoria laboral; salarios, beneficios y remuneración variable.",
+      "refs": [
+       "s10.2",
+       "s10.3"
+      ]
+     },
+     {
+      "term": "Higiene y seguridad",
+      "text": "Condiciones físicas y ambientales del trabajo.",
+      "refs": [
+       "s10.4"
+      ]
+     },
+     {
+      "term": "Relaciones laborales",
+      "text": "Normas y procedimientos de relación con personal y sindicatos.",
+      "refs": [
+       "s10.5"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Plan de carrera",
+    "leaves": [
+     {
+      "term": "Definición",
+      "text": "Sucesión organizada de puestos concatenados que delinean el avance en la estructura.",
+      "refs": [
+       "s10.7"
+      ]
+     },
+     {
+      "term": "Objetivos",
+      "text": "Sucesiones y reemplazos; ajustar necesidades de la organización y capacidades del personal.",
+      "refs": [
+       "s10.8"
+      ]
+     },
+     {
+      "term": "Desarrollo equilibrado",
+      "text": "Disminuir efectos del cambio y las presiones; conciliar intereses individuales y organizacionales.",
+      "refs": [
+       "s10.8"
+      ]
+     },
+     {
+      "term": "Elaboración",
+      "text": "Competencias de puestos → avance entre puestos → talento existente y potencial.",
+      "refs": [
+       "s10.9"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Movimientos de personal",
+    "leaves": [
+     {
+      "term": "Ascendentes",
+      "text": "Ascensos y promociones: funciones superiores, en la misma u otra área.",
+      "refs": [
+       "s10.11"
+      ]
+     },
+     {
+      "term": "Descendentes",
+      "text": "Funciones inferiores; el apunte indica preservar salario y condiciones adquiridas.",
+      "refs": [
+       "s10.12"
+      ]
+     },
+     {
+      "term": "Laterales",
+      "text": "Cambio de tarea o lugar en el mismo nivel; rotación de puestos.",
+      "refs": [
+       "s10.13"
+      ]
+     },
+     {
+      "term": "Traslado / desplazamiento",
+      "text": "Cambio definitivo de residencia / movimiento temporal, según el apunte.",
+      "refs": [
+       "s10.13"
+      ]
+     },
+     {
+      "term": "Separación",
+      "text": "Desvinculación definitiva por renuncia o despido.",
+      "refs": [
+       "s10.14"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Recompensas y contribuciones",
+    "leaves": [
+     {
+      "term": "Recompensas / castigos",
+      "text": "Estimulan conductas / las impiden mediante sanciones; mantienen estándares de operación.",
+      "refs": [
+       "s11.1"
+      ]
+     },
+     {
+      "term": "Por objetivos y servicio",
+      "text": "Resultados empresariales / tiempo de servicio sin desempeño insatisfactorio.",
+      "refs": [
+       "s11.3",
+       "s11.4"
+      ]
+     },
+     {
+      "term": "Por desempeño y resultados",
+      "text": "Desempeño excepcional / resultados de áreas o globales cuantificables.",
+      "refs": [
+       "s11.5",
+       "s11.6"
+      ]
+     },
+     {
+      "term": "Decisiones",
+      "text": "Participar: hacerse miembro. Producir: contribuir con tiempo, esfuerzo y recursos.",
+      "refs": [
+       "s11.7",
+       "s11.8"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Teoría de la inequidad",
+    "leaves": [
+     {
+      "term": "Comparación",
+      "text": "La persona contrasta sus retribuciones y contribuciones con las de los demás.",
+      "refs": [
+       "s11.10"
+      ]
+     },
+     {
+      "term": "Equidad",
+      "text": "Equivalencia percibida: satisfacción.",
+      "refs": [
+       "s11.11"
+      ]
+     },
+     {
+      "term": "Inequidad",
+      "text": "Injusticia e insatisfacción; desmotivación por recibir menos o culpa por recibir más.",
+      "refs": [
+       "s11.11"
+      ]
+     },
+     {
+      "term": "Respuesta",
+      "text": "Modificar las contribuciones para reducir el desequilibrio.",
+      "refs": [
+       "s11.11"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Productividad y responsabilidad",
+    "leaves": [
+     {
+      "term": "Dinero y motivación",
+      "text": "Motiva cuando el aumento se percibe como consecuencia del esfuerzo y la productividad.",
+      "refs": [
+       "s11.13"
+      ]
+     },
+     {
+      "term": "Productividad",
+      "text": "Producto obtenido / recursos empleados. Trabajo humano: producción / tiempo.",
+      "refs": [
+       "s11.15"
+      ]
+     },
+     {
+      "term": "Relación causal",
+      "text": "La productividad es un efecto de la administración de recursos.",
+      "refs": [
+       "s11.15"
+      ]
+     },
+     {
+      "term": "Lapso de arbitrio (Jaques)",
+      "text": "Máximo tiempo de iniciativa propia sin evaluación superior; cuantifica responsabilidad.",
+      "refs": [
+       "s11.14"
+      ]
+     },
+     {
+      "term": "Retribución",
+      "text": "A igual lapso de arbitrio, igual retribución salarial, según Jaques.",
+      "refs": [
+       "s11.14"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "u4-5",
+  "unit": "u4",
+  "num": "05",
+  "title": "Compensación y administración de salarios",
+  "subtitle": "Equilibrio interno, equilibrio externo y reconocimiento de contribuciones diferentes",
+  "kicker": "MANTENIMIENTO",
+  "center": "Compensación y salarios",
+  "recordar": "Compensación total = remuneración (salario directo + salario indirecto) + recompensas no financieras.",
+  "left": [
+   {
+    "label": "Composición",
+    "leaves": [
+     {
+      "term": "Financiera directa",
+      "text": "Salario por el cargo, bonos, premios y comisiones.",
+      "refs": [
+       "s12.5:1"
+      ]
+     },
+     {
+      "term": "Financiera indirecta",
+      "text": "Salario indirecto: beneficios y servicios sociales; vacaciones y adicionales.",
+      "refs": [
+       "s12.5:2",
+       "s12.5:3"
+      ]
+     },
+     {
+      "term": "No financiera",
+      "text": "Prestigio, reconocimiento, autoestima y estabilidad en el empleo.",
+      "refs": [
+       "s12.5:4"
+      ]
+     },
+     {
+      "term": "Para la organización",
+      "text": "El salario es costo del producto o servicio e inversión con retorno esperado.",
+      "refs": [
+       "s12.6"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Distinciones salariales",
+    "leaves": [
+     {
+      "term": "Nominal / real",
+      "text": "Dinero del contrato / bienes que ese dinero permite adquirir.",
+      "refs": [
+       "s12.5:5",
+       "s12.5:6"
+      ]
+     },
+     {
+      "term": "Reajuste / aumento",
+      "text": "Reconstituir el salario real / incrementarlo.",
+      "refs": [
+       "s12.5:7",
+       "s12.5:8"
+      ]
+     },
+     {
+      "term": "Bruto / neto",
+      "text": "Total antes de descuentos / bruto menos deducciones obligatorias.",
+      "refs": [
+       "s12.5:9",
+       "s12.5:10"
+      ]
+     },
+     {
+      "term": "Principios del apunte",
+      "text": "Inelasticidad a la baja, igual tarea-igual remuneración y alternativas de pago.",
+      "refs": [
+       "s12.1",
+       "s12.2"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Equilibrios y factores",
+    "leaves": [
+     {
+      "term": "Interno",
+      "text": "Evaluación y clasificación de cargos, basadas en análisis y descripción.",
+      "refs": [
+       "s13.2"
+      ]
+     },
+     {
+      "term": "Externo",
+      "text": "Investigación salarial: comparación con el mercado laboral.",
+      "refs": [
+       "s13.3"
+      ]
+     },
+     {
+      "term": "Personas",
+      "text": "Franjas salariales para reconocer desempeños diferentes.",
+      "refs": [
+       "s13.4"
+      ]
+     },
+     {
+      "term": "Factores internos",
+      "text": "Cargos, política salarial, capacidad financiera, desempeño y competitividad.",
+      "refs": [
+       "s12.9"
+      ]
+     },
+     {
+      "term": "Factores externos",
+      "text": "Mercado laboral, economía, sindicatos, legislación, clientes y competencia.",
+      "refs": [
+       "s12.10"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Evaluación de cargos",
+    "leaves": [
+     {
+      "term": "Valor relativo del puesto",
+      "text": "Carga de tareas e impacto en resultados; se evalúa el cargo, no su ocupante.",
+      "refs": [
+       "s13.7",
+       "s13.8"
+      ]
+     },
+     {
+      "term": "Jerarquización",
+      "text": "No analítico: cargo completo frente a otro cargo.",
+      "refs": [
+       "s13.9:1",
+       "s13.8"
+      ]
+     },
+     {
+      "term": "Categorías predeterminadas",
+      "text": "No analítico: cargo completo frente a escala o criterio.",
+      "refs": [
+       "s13.9:2",
+       "s13.8"
+      ]
+     },
+     {
+      "term": "Comparación por factores",
+      "text": "Analítico: partes o factores, cargo frente a cargo.",
+      "refs": [
+       "s13.9:1",
+       "s13.8"
+      ]
+     },
+     {
+      "term": "Evaluación por puntos",
+      "text": "Analítico: partes o factores frente a escala o criterio.",
+      "refs": [
+       "s13.9:2",
+       "s13.8"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Comité y clasificación",
+    "leaves": [
+     {
+      "term": "Aprobación",
+      "text": "Staff recomienda; línea y dirección aprueban.",
+      "refs": [
+       "s13.11"
+      ]
+     },
+     {
+      "term": "Objetivos del comité",
+      "text": "Técnico: conocimiento de cargos. Político: aceptación entre áreas.",
+      "refs": [
+       "s13.12",
+       "s13.13"
+      ]
+     },
+     {
+      "term": "Integrantes",
+      "text": "Permanentes: RRHH y salarios. Provisionales: supervisores de los cargos evaluados.",
+      "refs": [
+       "s13.14",
+       "s13.15"
+      ]
+     },
+     {
+      "term": "Clases de cargos",
+      "text": "Por puntos, carrera, grupo ocupacional, área de servicio o categoría.",
+      "refs": [
+       "s13.17"
+      ]
+     },
+     {
+      "term": "Clasificación",
+      "text": "Automática con jerarquización y categorías predeterminadas; por intervalos en el método de puntos.",
+      "refs": [
+       "s13.17"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Investigación y franjas",
+    "leaves": [
+     {
+      "term": "Fuentes",
+      "text": "Investigaciones propias, compartidas o de firmas especializadas.",
+      "refs": [
+       "s14.2"
+      ]
+     },
+     {
+      "term": "Diseño",
+      "text": "Definir cargos, empresas y periodicidad. Empresas: región, sector, tamaño y política salarial.",
+      "refs": [
+       "s14.4",
+       "s14.2"
+      ]
+     },
+     {
+      "term": "Cargos de referencia",
+      "text": "Representar la curva salarial y sectores de actividad; identificables en el mercado.",
+      "refs": [
+       "s14.3"
+      ]
+     },
+     {
+      "term": "Datos y medios",
+      "text": "Salarios, política, beneficios y comportamiento; cuestionarios, entrevistas y reuniones.",
+      "refs": [
+       "s14.5",
+       "s14.6"
+      ]
+     },
+     {
+      "term": "Tratamiento",
+      "text": "Tabular, comparar y corregir; compartir resultados preservando confidencialidad.",
+      "refs": [
+       "s14.7"
+      ]
+     },
+     {
+      "term": "Franja salarial",
+      "text": "Límites inferior y superior; ingreso usual en el inferior y avance por desempeño justificado.",
+      "refs": [
+       "s14.9"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "u4-6",
+  "unit": "u4",
+  "num": "06",
+  "title": "Política salarial y remuneración variable",
+  "subtitle": "Principios de remuneración y pagos vinculados con metas y resultados",
+  "kicker": "MANTENIMIENTO",
+  "center": "Política salarial y remuneración variable",
+  "recordar": "Estándar: desempeño normal o esperado. Umbral: desempeño mínimo que habilita un pago variable.",
+  "left": [
+   {
+    "label": "Política salarial",
+    "leaves": [
+     {
+      "term": "Definición",
+      "text": "Principios y directrices de la organización sobre remuneración; no es estática.",
+      "refs": [
+       "s15.1"
+      ]
+     },
+     {
+      "term": "Contenido",
+      "text": "Estructura de cargos, salarios, clases, franjas, admisión y reajustes legales o espontáneos.",
+      "refs": [
+       "s15.2"
+      ]
+     },
+     {
+      "term": "Admisión (Chiavenato)",
+      "text": "Límite inferior de la clase; contempla un valor menor si faltan requisitos del cargo.",
+      "refs": [
+       "s15.2"
+      ]
+     },
+     {
+      "term": "Reajustes colectivos",
+      "text": "Por costo de vida: restablecer valor real ante cambios económicos.",
+      "refs": [
+       "s15.3"
+      ]
+     },
+     {
+      "term": "Reajustes individuales",
+      "text": "Promoción, adecuación al mercado o méritos por desempeño superior.",
+      "refs": [
+       "s15.4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Siete criterios de eficacia",
+    "leaves": [
+     {
+      "term": "Adecuada y equitativa",
+      "text": "Distanciarse de los mínimos del gobierno y sindicato; retribuir esfuerzo, habilidades y entrenamiento.",
+      "refs": [
+       "s15.6"
+      ]
+     },
+     {
+      "term": "Balanceada",
+      "text": "Paquete razonable de salarios, beneficios y recompensas.",
+      "refs": [
+       "s15.6"
+      ]
+     },
+     {
+      "term": "Eficaz en costos y segura",
+      "text": "Compatible con capacidad de pago y con cobertura de necesidades básicas.",
+      "refs": [
+       "s15.6"
+      ]
+     },
+     {
+      "term": "Estimulante y aceptable",
+      "text": "Motiva productividad; comprendida y percibida como razonable por las partes.",
+      "refs": [
+       "s15.6"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Remuneración variable",
+    "leaves": [
+     {
+      "term": "Qué es",
+      "text": "Porción de remuneración total, selectiva y dependiente de resultados.",
+      "refs": [
+       "s15.8"
+      ]
+     },
+     {
+      "term": "Periodicidad",
+      "text": "Trimestral, semestral o anual; puede generarse o no y variar según el logro.",
+      "refs": [
+       "s15.8"
+      ]
+     },
+     {
+      "term": "Nivel de resultados",
+      "text": "Empresa, área, departamento o cargo; trabajo individual o en equipo.",
+      "refs": [
+       "s15.8"
+      ]
+     },
+     {
+      "term": "Condiciones",
+      "text": "Estructura de cargos y salarios, compromiso sostenido y flexibilidad ante cambios de metas.",
+      "refs": [
+       "s15.13"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Desempeño y metas",
+    "leaves": [
+     {
+      "term": "Estándar",
+      "text": "Nivel de desempeño normal o esperable.",
+      "refs": [
+       "s15.9"
+      ]
+     },
+     {
+      "term": "Umbral",
+      "text": "Mínimo para calificar a pago variable; alcanzarlo o superarlo habilita el ingreso.",
+      "refs": [
+       "s15.10"
+      ]
+     },
+     {
+      "term": "Base",
+      "text": "Descripción y análisis del cargo; resultados que dependan del esfuerzo del empleado.",
+      "refs": [
+       "s15.11"
+      ]
+     },
+     {
+      "term": "Acuerdo previo",
+      "text": "Metas, tiempo y monto fijados de antemano y conocidos por los involucrados.",
+      "refs": [
+       "s15.12"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Diseño del sistema",
+    "leaves": [
+     {
+      "term": "Orientación a APO",
+      "text": "Planeación estratégica mediante administración por objetivos.",
+      "refs": [
+       "s15.13"
+      ]
+     },
+     {
+      "term": "Sencillez y objetividad",
+      "text": "Proceso simple y resultados cuantificables.",
+      "refs": [
+       "s15.13"
+      ]
+     },
+     {
+      "term": "Flexibilidad y transparencia",
+      "text": "Adaptación de metas y criterios de premiación claros.",
+      "refs": [
+       "s15.13"
+      ]
+     },
+     {
+      "term": "Autofinanciación",
+      "text": "Productividad y reducción de costos financian el pago variable.",
+      "refs": [
+       "s15.13"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Incentivo, bono y reconocimiento",
+    "leaves": [
+     {
+      "term": "Incentivo",
+      "text": "Condición predeterminada; dinerario o no; presupuestado o autofinanciado; no discrecional.",
+      "refs": [
+       "s15.14:1"
+      ]
+     },
+     {
+      "term": "Bono",
+      "text": "Tarea específica cumplida; siempre dinerario, monto determinado; presupuestado y no discrecional.",
+      "refs": [
+       "s15.14:2"
+      ]
+     },
+     {
+      "term": "Reconocimiento o premio",
+      "text": "Después del hecho; dinerario o no; presupuestado y discrecional.",
+      "refs": [
+       "s15.14:3"
+      ]
+     },
+     {
+      "term": "Diferencia clave",
+      "text": "Cumplir la condición da derecho al incentivo o bono; el jefe decide a quién premiar.",
+      "refs": [
+       "s15.14:1",
+       "s15.14:2",
+       "s15.14:3"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "u4-7",
+  "unit": "u4",
+  "num": "07",
+  "title": "Beneficios sociales, higiene y seguridad",
+  "subtitle": "Calidad de vida, permanencia y protección física y emocional de la fuerza laboral",
+  "kicker": "MANTENIMIENTO",
+  "center": "Beneficios y protección",
+  "recordar": "Beneficios sociales: pertenencia a la organización. Remuneración variable: metas. Higiene: salud. Seguridad: accidentes.",
+  "left": [
+   {
+    "label": "Beneficios sociales",
+    "leaves": [
+     {
+      "term": "Qué son",
+      "text": "Facilidades, ventajas y servicios que ahorran esfuerzos y preocupaciones; remuneración indirecta.",
+      "refs": [
+       "s16.1"
+      ]
+     },
+     {
+      "term": "Pertenencia",
+      "text": "Derechos sin depender de metas; generalmente comunes, con posibles planes por nivel.",
+      "refs": [
+       "s16.2"
+      ]
+     },
+     {
+      "term": "Orígenes",
+      "text": "Demandas del personal, sindicatos, legislación, competencia por RRHH e incentivos tributarios.",
+      "refs": [
+       "s16.3"
+      ]
+     },
+     {
+      "term": "Ámbitos",
+      "text": "Ejercicio del cargo; fuera del cargo dentro de la empresa; comunidad.",
+      "refs": [
+       "s16.4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Clasificación de beneficios",
+    "leaves": [
+     {
+      "term": "Exigencia legal",
+      "text": "Legales o voluntarios.",
+      "refs": [
+       "s16.6:1"
+      ]
+     },
+     {
+      "term": "Naturaleza",
+      "text": "Monetarios o no monetarios.",
+      "refs": [
+       "s16.6:2"
+      ]
+     },
+     {
+      "term": "Asistenciales",
+      "text": "Seguridad y previsión ante emergencias: asistencia médica, préstamos y pensión.",
+      "refs": [
+       "s16.6:3"
+      ]
+     },
+     {
+      "term": "Recreativos",
+      "text": "Descanso, diversión, higiene mental y ocio.",
+      "refs": [
+       "s16.6:3"
+      ]
+     },
+     {
+      "term": "Supletorios",
+      "text": "Comodidad y calidad de vida: transporte, restaurante, horario móvil y estacionamiento.",
+      "refs": [
+       "s16.6:3"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Planeamiento",
+    "leaves": [
+     {
+      "term": "Principios",
+      "text": "Retorno de la inversión y responsabilidad mutua: costos compartidos.",
+      "refs": [
+       "s16.10",
+       "s16.11"
+      ]
+     },
+     {
+      "term": "Requisitos",
+      "text": "Necesidad real, objetivos claros, sostenibilidad, planeación en tiempo, dinero y administración.",
+      "refs": [
+       "s16.12",
+       "s16.13"
+      ]
+     },
+     {
+      "term": "Enfoque",
+      "text": "Evitar paternalismo y elitismo; ventajas a largo plazo para las partes.",
+      "refs": [
+       "s16.12",
+       "s16.13"
+      ]
+     },
+     {
+      "term": "Resultados",
+      "text": "Mejor calidad de vida y clima; menos rotación y ausentismo; atraer, retener y elevar productividad.",
+      "refs": [
+       "s16.14"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Higiene laboral",
+    "leaves": [
+     {
+      "term": "Finalidad",
+      "text": "Proteger integridad física y mental; diagnóstico y previsión de enfermedades ocupacionales.",
+      "refs": [
+       "s17.2"
+      ]
+     },
+     {
+      "term": "Horizonte",
+      "text": "Salud y largo plazo; riesgos químicos, físicos y biológicos.",
+      "refs": [
+       "s17.2"
+      ]
+     },
+     {
+      "term": "Plan organizado",
+      "text": "Servicios médicos, enfermería, primeros auxilios, información y cobertura.",
+      "refs": [
+       "s17.3"
+      ]
+     },
+     {
+      "term": "Condiciones",
+      "text": "Ambientales: luz, ruido, temperatura y humedad. Tiempo: jornada, extras y descansos. Sociales: organización informal y estatus.",
+      "refs": [
+       "s17.5",
+       "s17.6",
+       "s17.7"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Seguridad laboral",
+    "leaves": [
+     {
+      "term": "Finalidad",
+      "text": "Prevenir accidentes a corto plazo y eliminar condiciones inseguras.",
+      "refs": [
+       "s17.8"
+      ]
+     },
+     {
+      "term": "Medidas",
+      "text": "Técnicas, educativas, médicas y psicológicas; instrucción en prácticas preventivas.",
+      "refs": [
+       "s17.8"
+      ]
+     },
+     {
+      "term": "Responsabilidad",
+      "text": "De línea y función de staff; abarca todas las áreas.",
+      "refs": [
+       "s17.8"
+      ]
+     },
+     {
+      "term": "Prevención",
+      "text": "Accidentes, robos e incendios.",
+      "refs": [
+       "s17.8"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Terminales y computadoras",
+    "leaves": [
+     {
+      "term": "Visión",
+      "text": "Molestias visuales, deslumbramiento y ardor señalados por el material.",
+      "refs": [
+       "s17.10"
+      ]
+     },
+     {
+      "term": "Músculos y LER",
+      "text": "Espalda, cuello y hombros; lesiones por esfuerzo repetitivo y alertas de pausas.",
+      "refs": [
+       "s17.10",
+       "s17.11"
+      ]
+     },
+     {
+      "term": "Estrés",
+      "text": "Postura, ruido, capacitación insuficiente, sobrecarga y monotonía.",
+      "refs": [
+       "s17.10"
+      ]
+     },
+     {
+      "term": "Radiación en el apunte",
+      "text": "Menciona problemas atribuidos a la exposición, pero aclara que desconoce sus peligros.",
+      "refs": [
+       "s17.10"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "u5-1",
+  "unit": "u5",
+  "num": "01",
+  "title": "ARH, seguimiento y proceso de control",
+  "subtitle": "Administración de Recursos Humanos: desempeño, objetivos y retroalimentación",
+  "kicker": "SEGUIMIENTO",
+  "center": "ARH y control",
+  "recordar": "Subsistemas interdependientes y contingenciales, sin orden obligatorio. El control sí forma un ciclo.",
+  "left": [
+   {
+    "label": "ARH",
+    "leaves": [
+     {
+      "term": "Contingencial",
+      "text": "Depende de organización, ambiente, tecnología, políticas, filosofía y características de los RRHH.",
+      "refs": [
+       "s20.1"
+      ]
+     },
+     {
+      "term": "Administrar",
+      "text": "Planear, organizar, desarrollar, coordinar y controlar técnicas para promover el desempeño.",
+      "refs": [
+       "s20.2"
+      ]
+     },
+     {
+      "term": "Objetivos",
+      "text": "Personas capaces, motivadas y satisfechas; condiciones para objetivos individuales y organizacionales.",
+      "refs": [
+       "s20.11",
+       "s20.12",
+       "s20.13"
+      ]
+     },
+     {
+      "term": "Finalidad",
+      "text": "Eficacia y eficiencia a través del trabajo de las personas.",
+      "refs": [
+       "s20.2"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Línea y staff",
+    "leaves": [
+     {
+      "term": "Línea",
+      "text": "Cada jefe administra a sus subordinados y responde por los objetivos del grupo.",
+      "refs": [
+       "s20.4"
+      ]
+     },
+     {
+      "term": "Autoridad",
+      "text": "Decidir, actuar y ordenar; preservar unidad de mando.",
+      "refs": [
+       "s20.4"
+      ]
+     },
+     {
+      "term": "Staff de RRHH",
+      "text": "Asesora con normas, datos, propuestas y servicios especializados.",
+      "refs": [
+       "s20.5"
+      ]
+     },
+     {
+      "term": "Relación",
+      "text": "La asesoría se solicita; el staff no ordena a otras áreas de línea.",
+      "refs": [
+       "s20.5",
+       "s20.4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Procesos de ARH",
+    "leaves": [
+     {
+      "term": "Provisión",
+      "text": "Quién trabajará: mercado de RRHH, reclutamiento y selección.",
+      "refs": [
+       "s20.8"
+      ]
+     },
+     {
+      "term": "Aplicación",
+      "text": "Qué hará: integración, cargos y evaluación del desempeño.",
+      "refs": [
+       "s20.8"
+      ]
+     },
+     {
+      "term": "Mantenimiento",
+      "text": "Cómo retener: compensación, beneficios, higiene, seguridad y relaciones laborales.",
+      "refs": [
+       "s20.8"
+      ]
+     },
+     {
+      "term": "Desarrollo",
+      "text": "Cómo preparar: capacitación y desarrollo organizacional.",
+      "refs": [
+       "s20.8"
+      ]
+     },
+     {
+      "term": "Seguimiento y control",
+      "text": "Cómo conocer: bases de datos, SI y controles; esquema de Chiavenato.",
+      "refs": [
+       "s20.8"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Seguimiento",
+    "leaves": [
+     {
+      "term": "Seguimiento",
+      "text": "Desempeño frente a metas y acciones de mejora. Desvíos: evaluación del desempeño y auditoría de RRHH.",
+      "refs": [
+       "s21.1"
+      ]
+     },
+     {
+      "term": "Entradas",
+      "text": "Planes, objetivos, tiempos, proyectos, cargos ocupados y datos del subsistema de aplicación.",
+      "refs": [
+       "s21.2"
+      ]
+     },
+     {
+      "term": "Medios",
+      "text": "Jerarquía = control personal; reglas = impersonal; objetivos = guía. SI verticales: información ascendente y descendente.",
+      "refs": [
+       "s21.14"
+      ]
+     },
+     {
+      "term": "Coordinación",
+      "text": "Pares: sincronización lateral. Matriz: doble subordinación; innovación, cambio y adaptación, con posibles conflictos.",
+      "refs": [
+       "s21.14"
+      ]
+     },
+     {
+      "term": "Evolución",
+      "text": "De control rígido y centralizado a autocontrol, flexibilidad, autonomía y descentralización.",
+      "refs": [
+       "s21.15"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Criterios de control",
+    "leaves": [
+     {
+      "term": "Excepción",
+      "text": "Aceptar pequeñas variaciones normales; atender desviaciones grandes y significativas.",
+      "refs": [
+       "s21.7",
+       "s22.1"
+      ]
+     },
+     {
+      "term": "Actividad apropiada y oportunidad",
+      "text": "Controlar lo necesario y actuar a tiempo.",
+      "refs": [
+       "s21.8",
+       "s21.9"
+      ]
+     },
+     {
+      "term": "Costo/beneficio y precisión",
+      "text": "Beneficio superior al costo; información objetiva, clara y precisa.",
+      "refs": [
+       "s21.10",
+       "s21.11"
+      ]
+     },
+     {
+      "term": "Aceptación",
+      "text": "Comprender y aceptar objetivos y control; favorecer autocontrol.",
+      "refs": [
+       "s21.12"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Ciclo de control",
+    "leaves": [
+     {
+      "term": "1. Estándares",
+      "text": "Patrones de rendimiento normal o deseado: cantidad, calidad, tiempo y costos.",
+      "refs": [
+       "s22.6"
+      ]
+     },
+     {
+      "term": "2. Monitoreo",
+      "text": "Medir el desempeño real por observación y reportes estadísticos, orales o escritos.",
+      "refs": [
+       "s22.12"
+      ]
+     },
+     {
+      "term": "3. Comparación",
+      "text": "Desempeño frente al estándar y su tolerancia. Desvíos significativos repetidos: validar el estándar; si es aceptable, investigar causas.",
+      "refs": [
+       "s22.14"
+      ]
+     },
+     {
+      "term": "Umbral",
+      "text": "En este esquema, supera el límite superior y se vincula con recompensas.",
+      "refs": [
+       "s22.15"
+      ]
+     },
+     {
+      "term": "4. Acción correctiva",
+      "text": "No actuar, corregir el desempeño o revisar el estándar, según la comparación.",
+      "refs": [
+       "s22.17"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "u5-2",
+  "unit": "u5",
+  "num": "02",
+  "title": "Evaluación del desempeño y auditoría de RRHH",
+  "subtitle": "Obtener información para mejorar personas, políticas y prácticas",
+  "kicker": "RRHH",
+  "center": "Evaluación y auditoría",
+  "recordar": "",
+  "left": [
+   {
+    "label": "Evaluación del desempeño",
+    "leaves": [
+     {
+      "term": "Qué es",
+      "text": "Apreciación sistemática de la actuación pasada o presente y del potencial de desarrollo.",
+      "refs": [
+       "s21.5"
+      ]
+     },
+     {
+      "term": "Referencia",
+      "text": "Normas establecidas para personas o equipos; permite localizar problemas.",
+      "refs": [
+       "s21.5"
+      ]
+     },
+     {
+      "term": "Finalidad",
+      "text": "Mejorar los resultados de RRHH y orientar decisiones.",
+      "refs": [
+       "s21.5"
+      ]
+     },
+     {
+      "term": "Comunicación",
+      "text": "Devolver los resultados al empleado; evaluación con retroalimentación.",
+      "refs": [
+       "s21.5"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Técnicas I",
+    "leaves": [
+     {
+      "term": "APO",
+      "text": "Metas acordadas, retroalimentación y medición conjunta; participativa y motivadora. Riesgos: presión, rigidez y papeleo.",
+      "refs": [
+       "s23.1:1"
+      ]
+     },
+     {
+      "term": "360°",
+      "text": "Aportes de distintas personas del entorno, incluidos pares y clientes.",
+      "refs": [
+       "s23.1:2"
+      ]
+     },
+     {
+      "term": "Escalas gráficas",
+      "text": "Filas = factores; columnas = grados. Simples y de poco registro; poco flexibles, con sesgos y generalización.",
+      "refs": [
+       "s23.1:3"
+      ]
+     },
+     {
+      "term": "Elección forzada",
+      "text": "Elegir la frase más descriptiva de cada par; busca reducir subjetividad; elaboración compleja.",
+      "refs": [
+       "s23.1:4"
+      ]
+     },
+     {
+      "term": "Escalas mixtas",
+      "text": "Tres descripciones por característica; sencillas, con poca oportunidad de reforzar deficiencias.",
+      "refs": [
+       "s23.1:5"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Técnicas II",
+    "leaves": [
+     {
+      "term": "Formas narrativas",
+      "text": "Ensayo de fortalezas y debilidades; permite opinión del jefe, pero es subjetivo.",
+      "refs": [
+       "s23.1:6"
+      ]
+     },
+     {
+      "term": "Incidentes críticos",
+      "text": "Observar y registrar hechos excepcionales positivos y negativos.",
+      "refs": [
+       "s23.1:7"
+      ]
+     },
+     {
+      "term": "Competencias",
+      "text": "Observación objetiva de conductas; dificultad para distinguir competencias mínimas y efectivas.",
+      "refs": [
+       "s23.1:8"
+      ]
+     },
+     {
+      "term": "Productividad",
+      "text": "Resultados, como volumen de ventas; alinea con objetivos, aunque influyen factores externos.",
+      "refs": [
+       "s23.1:9"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Efectos sobre subsistemas",
+    "leaves": [
+     {
+      "term": "Aplicación",
+      "text": "Revisar modelos de explotación y decisión; objetivos de planificación y control.",
+      "refs": [
+       "s23.3"
+      ]
+     },
+     {
+      "term": "Provisión",
+      "text": "Ajustar o mantener especificaciones de reclutamiento y selección.",
+      "refs": [
+       "s23.4"
+      ]
+     },
+     {
+      "term": "Desarrollo",
+      "text": "Definir capacitación y desarrollo para adecuar persona y puesto.",
+      "refs": [
+       "s23.5"
+      ]
+     },
+     {
+      "term": "Mantenimiento",
+      "text": "Promociones, carrera, incentivos y remuneración variable.",
+      "refs": [
+       "s23.6"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Auditoría de la función",
+    "leaves": [
+     {
+      "term": "Qué revisa",
+      "text": "Políticas y prácticas de personal, funcionamiento, eficiencia y eficacia; propone mejoras.",
+      "refs": [
+       "s24.1"
+      ]
+     },
+     {
+      "term": "Alcance",
+      "text": "Área de RRHH, funciones de gerentes de línea y satisfacción de empleados.",
+      "refs": [
+       "s24.2"
+      ]
+     },
+     {
+      "term": "Información",
+      "text": "Entrevistas, encuestas, registros, políticas, cargos y habilidades; apoyo de un SI gerencial.",
+      "refs": [
+       "s24.4"
+      ]
+     },
+     {
+      "term": "Comparación",
+      "text": "Resultados al finalizar / desempeño durante la operación; papel educativo y correctivo.",
+      "refs": [
+       "s24.5"
+      ]
+     },
+     {
+      "term": "Cobertura y agente",
+      "text": "Más sistemática a mayor tamaño y descentralización; consultor externo o equipo orientado.",
+      "refs": [
+       "s24.14"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Profundidad de la auditoría",
+    "leaves": [
+     {
+      "term": "1. Resultados",
+      "text": "Realizaciones y solución de problemas.",
+      "refs": [
+       "s24.9"
+      ]
+     },
+     {
+      "term": "2. Programas",
+      "text": "Prácticas y procedimientos de RRHH.",
+      "refs": [
+       "s24.10"
+      ]
+     },
+     {
+      "term": "3. Políticas",
+      "text": "Explícitas e implícitas.",
+      "refs": [
+       "s24.11"
+      ]
+     },
+     {
+      "term": "4. Filosofía",
+      "text": "Prioridades, valores, metas y objetivos.",
+      "refs": [
+       "s24.12"
+      ]
+     },
+     {
+      "term": "5. Teoría",
+      "text": "Explicaciones que sustentan filosofía, políticas y prácticas; comprobar coherencia.",
+      "refs": [
+       "s24.13"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "u5-3",
+  "unit": "u5",
+  "num": "03",
+  "title": "Rendimiento, magnitudes y carga de trabajo",
+  "subtitle": "Evaluar el comportamiento del software y el hardware frente a necesidades de servicio",
+  "kicker": "SI/TI",
+  "center": "Rendimiento y carga",
+  "recordar": "En este bloque, SI significa sistema informático. El rendimiento depende del HW, del SW y de la carga de trabajo utilizada.",
+  "left": [
+   {
+    "label": "Evaluación de prestaciones",
+    "leaves": [
+     {
+      "term": "Rendimiento",
+      "text": "Eficacia con que el SW aprovecha el HW bajo una carga determinada.",
+      "refs": [
+       "s25.2"
+      ]
+     },
+     {
+      "term": "Evaluar",
+      "text": "Medir comportamiento, prestaciones, necesidades de servicio y aceptabilidad.",
+      "refs": [
+       "s25.1",
+       "s25.3"
+      ]
+     },
+     {
+      "term": "Razones",
+      "text": "Diseñar, seleccionar y configurar equipos; planificar capacidad; sintonizar el SO.",
+      "refs": [
+       "s25.4"
+      ]
+     },
+     {
+      "term": "Información de entrada",
+      "text": "Carga, caracterización y planificación de prestaciones del subsistema de aplicación.",
+      "refs": [
+       "s25.1"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Variables externas",
+    "leaves": [
+     {
+      "term": "Productividad o throughput",
+      "text": "Trabajo útil por unidad de tiempo; trabajos/hora o transacciones/segundo.",
+      "refs": [
+       "s25.7:1"
+      ]
+     },
+     {
+      "term": "Capacidad",
+      "text": "Máximo trabajo útil por unidad de tiempo con una carga determinada.",
+      "refs": [
+       "s25.7:2"
+      ]
+     },
+     {
+      "term": "Tiempo de respuesta",
+      "text": "Desde la entrega del trabajo o transacción hasta la recepción del resultado.",
+      "refs": [
+       "s25.7:3"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Variables internas I",
+    "leaves": [
+     {
+      "term": "Factor de utilización",
+      "text": "Proporción o porcentaje de tiempo en que un componente está ocupado.",
+      "refs": [
+       "s25.9:1"
+      ]
+     },
+     {
+      "term": "Solapamiento",
+      "text": "Porcentaje de tiempo de uso simultáneo de dos o más componentes.",
+      "refs": [
+       "s25.9:2"
+      ]
+     },
+     {
+      "term": "Overhead",
+      "text": "Porcentaje de tiempo en tareas del sistema no imputables directamente a los trabajos.",
+      "refs": [
+       "s25.9:3"
+      ]
+     },
+     {
+      "term": "Medición interna",
+      "text": "Requiere monitor: CPU, memoria, E/S, tiempo de ejecución e hilos por proceso.",
+      "refs": [
+       "s25.8"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Variables internas II",
+    "leaves": [
+     {
+      "term": "Carga de multiprogramación",
+      "text": "Respuesta de un trabajo en multiprogramación / respuesta en monoprogramación.",
+      "refs": [
+       "s25.9:4"
+      ]
+     },
+     {
+      "term": "Ganancia de multiprogramación",
+      "text": "Tiempo del conjunto secuencial en monoprogramación / tiempo en multiprogramación.",
+      "refs": [
+       "s25.9:5"
+      ]
+     },
+     {
+      "term": "Fallos de página",
+      "text": "Frecuencia de fallos por unidad de tiempo.",
+      "refs": [
+       "s25.9:6"
+      ]
+     },
+     {
+      "term": "Swapping",
+      "text": "Programas expulsados de memoria por unidad de tiempo.",
+      "refs": [
+       "s25.9:7"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Comportamiento",
+    "leaves": [
+     {
+      "term": "Fiabilidad",
+      "text": "Probabilidad de funcionar sin fallos durante un intervalo. MTBF: tiempo medio entre fallos.",
+      "refs": [
+       "s25.11"
+      ]
+     },
+     {
+      "term": "Disponibilidad",
+      "text": "Probabilidad de estar operativo en un momento; considera fallos y reparaciones.",
+      "refs": [
+       "s25.12"
+      ]
+     },
+     {
+      "term": "Seguridad",
+      "text": "Probabilidad de funcionar sin riesgos para personas u otros sistemas.",
+      "refs": [
+       "s25.13"
+      ]
+     },
+     {
+      "term": "Performabilidad",
+      "text": "Continuar tras fallos con prestaciones reducidas.",
+      "refs": [
+       "s25.14"
+      ]
+     },
+     {
+      "term": "Mantenibilidad",
+      "text": "Facilidad de reparación y probabilidad de volver a operar en un tiempo dado.",
+      "refs": [
+       "s25.15"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Carga de prueba",
+    "leaves": [
+     {
+      "term": "Real / sintética",
+      "text": "Funcionamiento normal difícil de repetir / programas compactos, repetibles y modificables.",
+      "refs": [
+       "s26.2",
+       "s26.3"
+      ]
+     },
+     {
+      "term": "Componente",
+      "text": "Tiempo CPU/trabajo; número y características de E/S (dispositivo, acceso y posición); prioridad; memoria (cantidad, real/virtual); localidad espacial o temporal.",
+      "refs": [
+       "s26.4:1"
+      ]
+     },
+     {
+      "term": "Conjunto",
+      "text": "Tiempo entre llegadas, frecuencia de llegada y proporción de tipos de trabajos.",
+      "refs": [
+       "s26.4:2"
+      ]
+     },
+     {
+      "term": "Conversacional",
+      "text": "Reflexión (leer, pensar y teclear), usuarios simultáneos e intensidad = respuesta/reflexión.",
+      "refs": [
+       "s26.4:3"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "u5-4",
+  "unit": "u5",
+  "num": "04",
+  "title": "Comparación de prestaciones y ley de Amdahl",
+  "subtitle": "Cuantificar aceleración, coste y beneficio de mejorar una parte del sistema",
+  "kicker": "SI/TI",
+  "center": "Comparación y Amdahl",
+  "recordar": "k mejora un recurso; A expresa la mejora global. La parte del tiempo original que queda sin mejorar limita el resultado.",
+  "left": [
+   {
+    "label": "Comparar rendimientos",
+    "leaves": [
+     {
+      "term": "Para la misma tarea",
+      "text": "Menor tiempo de ejecución implica mayor rendimiento.",
+      "refs": [
+       "s27.2"
+      ]
+     },
+     {
+      "term": "Aceleración",
+      "text": "Si X tarda Tx e Y tarda Ty: aceleración de X respecto de Y = Ty/Tx.",
+      "refs": [
+       "s27.2"
+      ]
+     },
+     {
+      "term": "Mejora porcentual",
+      "text": "100 × (aceleración − 1). El factor se expresa en veces.",
+      "refs": [
+       "s27.2"
+      ]
+     },
+     {
+      "term": "Ejemplo del apunte",
+      "text": "Tx = 36 s, Ty = 40 s → 40/36 ≈ 1,11 veces; X es 11% más rápido.",
+      "refs": [
+       "s27.3"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Costes y prestaciones",
+    "leaves": [
+     {
+      "term": "Comparación de costes",
+      "text": "Coste mayor / coste menor; ejemplo: 625/550 ≈ 1,14, un 14% más caro.",
+      "refs": [
+       "s27.5",
+       "s27.6"
+      ]
+     },
+     {
+      "term": "Prestaciones/coste",
+      "text": "1 / (tiempo × coste). Se busca maximizar este índice.",
+      "refs": [
+       "s27.6"
+      ]
+     },
+     {
+      "term": "Incremento de coste",
+      "text": "Nuevo coste / coste original.",
+      "refs": [
+       "s27.5",
+       "s27.6"
+      ]
+     },
+     {
+      "term": "Mejoras pequeñas",
+      "text": "Si afectan poco al coste global, comparar mejoras y costes propios, sin el coste original.",
+      "refs": [
+       "s27.6"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Variables de Amdahl",
+    "leaves": [
+     {
+      "term": "Toriginal",
+      "text": "Tiempo de ejecución antes de la mejora.",
+      "refs": [
+       "s27.9"
+      ]
+     },
+     {
+      "term": "f y 1 − f",
+      "text": "Fracción del tiempo original afectada por la mejora / fracción no afectada.",
+      "refs": [
+       "s27.10",
+       "s27.11"
+      ]
+     },
+     {
+      "term": "k",
+      "text": "Factor de mejora del recurso utilizado exclusivamente durante la fracción f.",
+      "refs": [
+       "s27.12"
+      ]
+     },
+     {
+      "term": "A",
+      "text": "Aceleración global, adimensional, expresada en veces.",
+      "refs": [
+       "s27.13"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Fórmulas",
+    "leaves": [
+     {
+      "term": "Tiempo mejorado",
+      "text": "Tmejorado = Toriginal × [(1 − f) + f/k].",
+      "refs": [
+       "s27.14",
+       "s27.10",
+       "s27.12"
+      ]
+     },
+     {
+      "term": "Aceleración global",
+      "text": "A = Toriginal/Tmejorado = 1 / [(1 − f) + f/k].",
+      "refs": [
+       "s27.13",
+       "s27.15"
+      ]
+     },
+     {
+      "term": "Si se conoce A",
+      "text": "Tmejorado = Toriginal/A.",
+      "refs": [
+       "s27.13"
+      ]
+     },
+     {
+      "term": "Despejar la fracción",
+      "text": "f = k × (A − 1) / [A × (k − 1)], si k ≠ 1.",
+      "refs": [
+       "s27.15",
+       "s27.10"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Casos y límites",
+    "leaves": [
+     {
+      "term": "Si f = 0",
+      "text": "A = 1: no hay aceleración.",
+      "refs": [
+       "s27.15"
+      ]
+     },
+     {
+      "term": "Si f = 1",
+      "text": "A = k: todo el tiempo se beneficia de la mejora.",
+      "refs": [
+       "s27.15"
+      ]
+     },
+     {
+      "term": "Si k → infinito",
+      "text": "A → 1/(1 − f), para f < 1.",
+      "refs": [
+       "s27.15"
+      ]
+     },
+     {
+      "term": "Interpretación",
+      "text": "Cuanto mayor sea f, más efectiva es la mejora; aumentar k no elimina la parte no mejorada.",
+      "refs": [
+       "s27.17"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Varios recursos",
+    "leaves": [
+     {
+      "term": "Fracciones exclusivas",
+      "text": "Cada mejora ki se aplica a una fracción fi del tiempo original, sin solaparlas.",
+      "refs": [
+       "s27.16"
+      ]
+     },
+     {
+      "term": "Parte no mejorada",
+      "text": "f0 = 1 − Σ fi.",
+      "refs": [
+       "s27.16"
+      ]
+     },
+     {
+      "term": "Aceleración conjunta",
+      "text": "A = 1 / [f0 + Σ (fi/ki)].",
+      "refs": [
+       "s27.16"
+      ]
+     },
+     {
+      "term": "Uso",
+      "text": "Acotar beneficios, justificar upgrading y comparar alternativas de mejora.",
+      "refs": [
+       "s27.8"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "u5-5",
+  "unit": "u5",
+  "num": "05",
+  "title": "Modelado y leyes operacionales",
+  "subtitle": "Relaciones entre variables directamente medibles: tiempos, flujos y trabajos",
+  "kicker": "SI/TI",
+  "center": "Modelado y leyes",
+  "recordar": "Flujo equilibrado: Ai = Ci → λi = Xi. Usar unidades de tiempo consistentes; Ui es una proporción (× 100 para porcentaje).",
+  "left": [
+   {
+    "label": "Modelado",
+    "leaves": [
+     {
+      "term": "Uso",
+      "text": "HW o SW aún no instalado. Dificultad: datos precisos para la aproximación exigida.",
+      "refs": [
+       "s28.3",
+       "s28.6"
+      ]
+     },
+     {
+      "term": "Simulación",
+      "text": "Programa de estados y transiciones; estadísticas. Mayor cálculo y puesta a punto.",
+      "refs": [
+       "s28.4"
+      ]
+     },
+     {
+      "term": "Analítico",
+      "text": "Fórmulas o algoritmos de equilibrio; límites en estructuras y comportamientos de colas.",
+      "refs": [
+       "s28.5"
+      ]
+     },
+     {
+      "term": "Estación de servicio",
+      "text": "Servidor + cola; respuesta = servicio + espera.",
+      "refs": [
+       "s28.9"
+      ]
+     },
+     {
+      "term": "Red abierta / cerrada",
+      "text": "Entradas y salidas externas / trabajos constantes que recirculan.",
+      "refs": [
+       "s29.9",
+       "s29.10"
+      ]
+     },
+     {
+      "term": "Análisis operacional",
+      "text": "Variables e hipótesis verificables por mediciones.",
+      "refs": [
+       "s28.8"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Variables medidas",
+    "leaves": [
+     {
+      "term": "T",
+      "text": "Período finito de observación.",
+      "refs": [
+       "s29.1"
+      ]
+     },
+     {
+      "term": "Ai",
+      "text": "Arribos al dispositivo i durante T.",
+      "refs": [
+       "s29.1"
+      ]
+     },
+     {
+      "term": "Ci",
+      "text": "Trabajos completados en el dispositivo i durante T.",
+      "refs": [
+       "s29.1"
+      ]
+     },
+     {
+      "term": "Bi",
+      "text": "Tiempo en que el dispositivo i estuvo ocupado.",
+      "refs": [
+       "s29.1"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Variables deducidas",
+    "leaves": [
+     {
+      "term": "Tasa de llegada y productividad",
+      "text": "λi = Ai/T; Xi = Ci/T. Trabajos por unidad de tiempo.",
+      "refs": [
+       "s29.2:1",
+       "s29.2:2"
+      ]
+     },
+     {
+      "term": "Utilización",
+      "text": "Ui = Bi/T. Sin unidades.",
+      "refs": [
+       "s29.2:3"
+      ]
+     },
+     {
+      "term": "Servicio y tasa de servicio",
+      "text": "Si = Bi/Ci; μi = Ci/Bi = 1/Si.",
+      "refs": [
+       "s29.2:4",
+       "s29.2:6"
+      ]
+     },
+     {
+      "term": "Tiempo entre llegadas",
+      "text": "T′ = T/Ai = 1/λi.",
+      "refs": [
+       "s29.2:5"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Equilibrio y utilización",
+    "leaves": [
+     {
+      "term": "Flujo equilibrado",
+      "text": "Observación suficientemente larga y estado estable: tantos trabajos entran como salen.",
+      "refs": [
+       "s29.4"
+      ]
+     },
+     {
+      "term": "Ley de utilización",
+      "text": "Ui = Xi × Si.",
+      "refs": [
+       "s29.6",
+       "s29.14"
+      ]
+     },
+     {
+      "term": "Si además Ai = Ci",
+      "text": "Ui = λi × Si.",
+      "refs": [
+       "s29.6"
+      ]
+     },
+     {
+      "term": "Alcance",
+      "text": "Las relaciones operacionales no dependen de distribuciones estadísticas específicas.",
+      "refs": [
+       "s29.3"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Flujo forzado y demanda",
+    "leaves": [
+     {
+      "term": "Sistema",
+      "text": "X0 = C0/T; C0: trabajos que completan el sistema o un ciclo.",
+      "refs": [
+       "s29.8",
+       "s29.11"
+      ]
+     },
+     {
+      "term": "Razón de visitas",
+      "text": "Vi = Ci/C0: visitas al dispositivo por trabajo, con flujo equilibrado.",
+      "refs": [
+       "s29.11"
+      ]
+     },
+     {
+      "term": "Ley del flujo forzado",
+      "text": "Xi = X0 × Vi.",
+      "refs": [
+       "s29.12",
+       "s29.13"
+      ]
+     },
+     {
+      "term": "Demanda de servicio",
+      "text": "Di = Vi × Si: servicio total requerido por trabajo en el dispositivo.",
+      "refs": [
+       "s29.15"
+      ]
+     },
+     {
+      "term": "Relación conjunta",
+      "text": "Ui = Xi × Si = X0 × Vi × Si = X0 × Di.",
+      "refs": [
+       "s29.14"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Little y respuesta",
+    "leaves": [
+     {
+      "term": "Ley de Little",
+      "text": "Ni = λi × Ri = Xi × Ri. Ni: número medio de trabajos; Ri: respuesta media.",
+      "refs": [
+       "s29.17",
+       "s29.18"
+      ]
+     },
+     {
+      "term": "Respuesta general",
+      "text": "R = Σ (Vi × Ri). Suma de visitas por respuesta en cada estación.",
+      "refs": [
+       "s29.20",
+       "s29.21"
+      ]
+     },
+     {
+      "term": "Sistema interactivo",
+      "text": "N = X0 × (Z + R) → R = N/X0 − Z.",
+      "refs": [
+       "s29.25"
+      ]
+     },
+     {
+      "term": "Z y R",
+      "text": "Z: reflexión en terminales, sin cola. R: tiempo en el subsistema central.",
+      "refs": [
+       "s29.23",
+       "s29.24"
+      ]
+     },
+     {
+      "term": "Trabajos",
+      "text": "En terminales: Z × X0. En el subsistema central: R × X0.",
+      "refs": [
+       "s29.26"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "u5-6",
+  "unit": "u5",
+  "num": "06",
+  "title": "Monitorización y monitores",
+  "subtitle": "Observar un sistema en funcionamiento procurando no alterar su comportamiento",
+  "kicker": "SI/TI",
+  "center": "Monitorización y monitores",
+  "recordar": "",
+  "left": [
+   {
+    "label": "Finalidad",
+    "leaves": [
+     {
+      "term": "Sistema en funcionamiento",
+      "text": "Supervisar, analizar y evaluar con carga real y usuarios activos.",
+      "refs": [
+       "s30.1"
+      ]
+     },
+     {
+      "term": "Monitorización",
+      "text": "Técnica de observación. Monitor: Herramienta que recolecta estadísticas, analiza y presenta resultados.",
+      "refs": [
+       "s30.1",
+       "s30.2"
+      ]
+     },
+     {
+      "term": "Aplicaciones",
+      "text": "Uso de recursos, cuellos de botella, ajuste de parámetros, caracterización de carga y modelos.",
+      "refs": [
+       "s30.2"
+      ]
+     },
+     {
+      "term": "Repetibilidad",
+      "text": "Mismo resultado con mismas condiciones; en carga real suele ser difícil repetirlas.",
+      "refs": [
+       "s30.3"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Activación",
+    "leaves": [
+     {
+      "term": "Eventos",
+      "text": "Cambio de estado activa código o traps; registra datos e instante; secuencia y cantidad de eventos.",
+      "refs": [
+       "s30.5"
+      ]
+     },
+     {
+      "term": "Muestreo",
+      "text": "Observaciones a intervalos fijos o aleatorios; estima estados y evolución; menor perturbación.",
+      "refs": [
+       "s30.6"
+      ]
+     },
+     {
+      "term": "Frecuencia",
+      "text": "Depende de la aparición del estado y de la resolución buscada.",
+      "refs": [
+       "s30.6",
+       "s31.2"
+      ]
+     },
+     {
+      "term": "Compromiso",
+      "text": "Demasiadas observaciones alteran la carga; pocas pueden omitir actividad.",
+      "refs": [
+       "s31.5"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Implantación",
+    "leaves": [
+     {
+      "term": "Software",
+      "text": "Programas o extensiones del SO; alto nivel, bajo coste y mayor interferencia. Prioridad superior a los eventos observados.",
+      "refs": [
+       "s31.4"
+      ]
+     },
+     {
+      "term": "Hardware",
+      "text": "Dispositivos externos que detectan señales; rápidos, alta resolución, baja interferencia y coste alto.",
+      "refs": [
+       "s31.8"
+      ]
+     },
+     {
+      "term": "Híbrido",
+      "text": "Código pequeño en el SO envía datos al HW; útil para arquitecturas y prototipos.",
+      "refs": [
+       "s31.9"
+      ]
+     },
+     {
+      "term": "Tiempo SW",
+      "text": "Ambos métodos requieren reloj. Inicio/fin: más preciso y complejo. Muestreo: más simple, menos preciso; interrupciones periódicas.",
+      "refs": [
+       "s31.6"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Estructura del monitor",
+    "leaves": [
+     {
+      "term": "Interfaz de instrumentación",
+      "text": "Conexión con los puntos que contienen información relevante.",
+      "refs": [
+       "s30.11"
+      ]
+     },
+     {
+      "term": "Selector o filtro",
+      "text": "Captura selectiva y variables derivadas.",
+      "refs": [
+       "s30.11"
+      ]
+     },
+     {
+      "term": "Procesador",
+      "text": "Comprueba los elementos.",
+      "refs": [
+       "s30.11"
+      ]
+     },
+     {
+      "term": "Registrador",
+      "text": "Almacena los resultados.",
+      "refs": [
+       "s30.11"
+      ]
+     },
+     {
+      "term": "Analizador",
+      "text": "Interpreta los datos durante o después de su recolección.",
+      "refs": [
+       "s30.11"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Características",
+    "leaves": [
+     {
+      "term": "Interferencia y precisión",
+      "text": "Perturbación mínima y medidas exactas.",
+      "refs": [
+       "s30.8:1",
+       "s30.8:2"
+      ]
+     },
+     {
+      "term": "Resolución y ámbito",
+      "text": "Frecuencia/separación de eventos detectables; qué puede observarse.",
+      "refs": [
+       "s30.8:3",
+       "s30.8:4"
+      ]
+     },
+     {
+      "term": "Anchura y reducción",
+      "text": "Bits procesados en paralelo; análisis y síntesis de datos.",
+      "refs": [
+       "s30.8:5",
+       "s30.8:6"
+      ]
+     },
+     {
+      "term": "Compatibilidad y coste",
+      "text": "Adaptación a requerimientos; adquisición, instalación, mantenimiento y operación.",
+      "refs": [
+       "s30.8:7",
+       "s30.8:8"
+      ]
+     },
+     {
+      "term": "Facilidades",
+      "text": "Instalar, retirar y utilizar; interfaz accesible al programador.",
+      "refs": [
+       "s30.8:9",
+       "s30.8:10"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Resultados y tiempo",
+    "leaves": [
+     {
+      "term": "Tiempo real",
+      "text": "Analizar los datos a medida que llegan.",
+      "refs": [
+       "s31.11"
+      ]
+     },
+     {
+      "term": "Batch",
+      "text": "Recolectar toda la información y procesarla después.",
+      "refs": [
+       "s31.11"
+      ]
+     },
+     {
+      "term": "Requisitos adicionales",
+      "text": "Continuidad, presentación orientada a la aplicación, integración y realimentación.",
+      "refs": [
+       "s30.9"
+      ]
+     },
+     {
+      "term": "Errores temporales",
+      "text": "Retardo, asignación de CPU, acceso y resolución del reloj. Según el apunte: error entre 0 y un intervalo T; menor T aumenta precisión y sobrecarga.",
+      "refs": [
+       "s31.6",
+       "s31.7"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "u5-7",
+  "unit": "u5",
+  "num": "07",
+  "title": "Benchmarking y benchmark",
+  "subtitle": "Comparar sistemas con una carga de prueba representativa y resultados verificables",
+  "kicker": "SI/TI",
+  "center": "Benchmarking y benchmark",
+  "recordar": "Benchmarking compara y analiza; no consiste solo en medir. Un benchmark estandarizado permite comparar resultados entre sistemas.",
+  "left": [
+   {
+    "label": "Conceptos y tipos",
+    "leaves": [
+     {
+      "term": "Benchmarking",
+      "text": "Comparar prestaciones ante una carga característica, principalmente por tiempo de ejecución.",
+      "refs": [
+       "s32.1"
+      ]
+     },
+     {
+      "term": "Benchmark",
+      "text": "Herramienta que genera la carga de prueba y evalúa un sistema o sus partes.",
+      "refs": [
+       "s32.1",
+       "s32.2"
+      ]
+     },
+     {
+      "term": "General / de aplicación",
+      "text": "Programa de estudio de prestaciones / programa representativo extraído de la carga real.",
+      "refs": [
+       "s32.24",
+       "s32.25"
+      ]
+     },
+     {
+      "term": "Sintética natural / artificial",
+      "text": "Representa la carga real / no la representa, por ejemplo para planificar capacidad.",
+      "refs": [
+       "s32.26"
+      ]
+     },
+     {
+      "term": "Usos",
+      "text": "Adquisición, configuración, sintonización, capacidad, compiladores y diseño de sistemas.",
+      "refs": [
+       "s32.27"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Selección de la prueba",
+    "leaves": [
+     {
+      "term": "Representatividad",
+      "text": "Carga reducida y manejable que conserve el comportamiento relevante.",
+      "refs": [
+       "s32.17"
+      ]
+     },
+     {
+      "term": "Reproducibilidad",
+      "text": "Posibilidad de repetir el experimento.",
+      "refs": [
+       "s32.17"
+      ]
+     },
+     {
+      "term": "Compacidad",
+      "text": "Según el apunte, las demandas de carga deben aparecer en el mismo tiempo.",
+      "refs": [
+       "s32.17"
+      ]
+     },
+     {
+      "term": "Escalabilidad",
+      "text": "Adecuación de la prueba a distintos niveles de carga.",
+      "refs": [
+       "s32.17"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Pasos de Puigjaner",
+    "leaves": [
+     {
+      "term": "1. Objetivo",
+      "text": "Qué estudiar y por qué.",
+      "refs": [
+       "s32.16"
+      ]
+     },
+     {
+      "term": "2. Selección",
+      "text": "Elegir benchmark según objetivo y características de la carga.",
+      "refs": [
+       "s32.17"
+      ]
+     },
+     {
+      "term": "3. Entorno",
+      "text": "Definir métricas y factores que afectan el experimento.",
+      "refs": [
+       "s32.18"
+      ]
+     },
+     {
+      "term": "4. Ejecución",
+      "text": "Ejecutar el benchmark.",
+      "refs": [
+       "s32.19"
+      ]
+     },
+     {
+      "term": "5. Análisis",
+      "text": "Explicar resultados y variaciones entre sistemas; unidades según el objetivo.",
+      "refs": [
+       "s32.20"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Factores que influyen",
+    "leaves": [
+     {
+      "term": "Sistema operativo",
+      "text": "Tipo y versión; el apunte pide mantener el mismo SO en la comparación.",
+      "refs": [
+       "s32.14"
+      ]
+     },
+     {
+      "term": "Programación",
+      "text": "Compilador, eficiencia del código, lenguaje y librerías.",
+      "refs": [
+       "s32.14"
+      ]
+     },
+     {
+      "term": "Memoria",
+      "text": "Tamaño de caché y accesos a memoria.",
+      "refs": [
+       "s32.14"
+      ]
+     },
+     {
+      "term": "Ejecución correcta",
+      "text": "Verificar los resultados producidos por el programa.",
+      "refs": [
+       "s32.14"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Errores a evitar I",
+    "leaves": [
+     {
+      "term": "1. Solo promedios",
+      "text": "Incluir también la varianza del comportamiento.",
+      "refs": [
+       "s32.4"
+      ]
+     },
+     {
+      "term": "2. Carga mal controlada",
+      "text": "Mantener usuarios, reflexión y demanda representativos.",
+      "refs": [
+       "s32.5"
+      ]
+     },
+     {
+      "term": "3. Ignorar caché",
+      "text": "Considerar caché y orden de llegada de peticiones.",
+      "refs": [
+       "s32.6"
+      ]
+     },
+     {
+      "term": "4. Ignorar el monitor",
+      "text": "Tener en cuenta su overhead.",
+      "refs": [
+       "s32.7"
+      ]
+     },
+     {
+      "term": "5. No validar",
+      "text": "Investigar resultados inexplicables.",
+      "refs": [
+       "s32.8"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Errores a evitar II",
+    "leaves": [
+     {
+      "term": "6. Inicio diferente",
+      "text": "Cada ejecución altera el sistema; asegurar condiciones iniciales comparables.",
+      "refs": [
+       "s32.9"
+      ]
+     },
+     {
+      "term": "7. Omitir el transitorio",
+      "text": "Medir también la fase previa al estado estable.",
+      "refs": [
+       "s32.10"
+      ]
+     },
+     {
+      "term": "8. Solo utilización",
+      "text": "Una utilización menor no implica siempre mejores prestaciones.",
+      "refs": [
+       "s32.11"
+      ]
+     },
+     {
+      "term": "9. Datos sin análisis",
+      "text": "Recoger información debe acompañarse de interpretación suficiente.",
+      "refs": [
+       "s32.12"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "u5-8",
+  "unit": "u5",
+  "num": "08",
+  "title": "Sintonización y modelos de carga",
+  "subtitle": "Detectar restricciones, formular hipótesis, experimentar y verificar mejoras",
+  "kicker": "SI/TI",
+  "center": "Sintonización y carga",
+  "recordar": "Sintonización no es una técnica de evaluación: usa la evaluación para experimentar y mejorar el sistema.",
+  "left": [
+   {
+    "label": "Cuello de botella",
+    "leaves": [
+     {
+      "term": "Qué es",
+      "text": "Componente HW, SW u organización que limita prestaciones y frena el tráfico de procesos.",
+      "refs": [
+       "s33.1"
+      ]
+     },
+     {
+      "term": "Reposición (upgrading)",
+      "text": "Modificar el HW; Amdahl ayuda a justificar el beneficio.",
+      "refs": [
+       "s33.2"
+      ]
+     },
+     {
+      "term": "Sintonización (tuning)",
+      "text": "Cambiar organización o parámetros sin alterar la configuración de HW.",
+      "refs": [
+       "s33.3"
+      ]
+     },
+     {
+      "term": "Prioridad habitual",
+      "text": "Sintonizar suele ser más económico y menos radical; verificar el efecto de cada cambio.",
+      "refs": [
+       "s33.3"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Objetivos y carga",
+    "leaves": [
+     {
+      "term": "Problema",
+      "text": "Síntomas de ineficiencia y objetivos del estudio.",
+      "refs": [
+       "s34.1"
+      ]
+     },
+     {
+      "term": "Definir objetivos",
+      "text": "Datos, método de análisis, recursos e inversión necesaria.",
+      "refs": [
+       "s33.7"
+      ]
+     },
+     {
+      "term": "Caracterizar la carga",
+      "text": "Obtener una carga modelo o de prueba mediante parámetros cuantitativos.",
+      "refs": [
+       "s33.9"
+      ]
+     },
+     {
+      "term": "Hipótesis",
+      "text": "Analizar el funcionamiento y probar ajustes que permitan mejorar las prestaciones.",
+      "refs": [
+       "s33.5"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Instrumentos y experimento",
+    "leaves": [
+     {
+      "term": "Instrumentación",
+      "text": "Elegir técnicas y herramientas para medir variables que influyen en los objetivos.",
+      "refs": [
+       "s33.11"
+      ]
+     },
+     {
+      "term": "Alcance",
+      "text": "HW, SW de base y de usuario, y programas de la carga.",
+      "refs": [
+       "s33.11"
+      ]
+     },
+     {
+      "term": "Sesión de medida",
+      "text": "Conocer evolución y picos; carga conocida, entorno controlado, HW y procedimientos constantes.",
+      "refs": [
+       "s33.13"
+      ]
+     },
+     {
+      "term": "Monitores",
+      "text": "SW: duración y frecuencia, mínima interferencia con confianza dada. HW: sensores, cables y señales.",
+      "refs": [
+       "s33.14"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Validación del estudio",
+    "leaves": [
+     {
+      "term": "Objetivos no alcanzables",
+      "text": "Volver a caracterizar la carga, según el ciclo del apunte.",
+      "refs": [
+       "s33.15"
+      ]
+     },
+     {
+      "term": "Alcanzables, no logrados",
+      "text": "Aplicar sintonización y realizar un nuevo experimento.",
+      "refs": [
+       "s33.15"
+      ]
+     },
+     {
+      "term": "Objetivos logrados",
+      "text": "Finalizar el estudio con los resultados verificados.",
+      "refs": [
+       "s33.15"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Modelo de carga",
+    "leaves": [
+     {
+      "term": "1. Especificación",
+      "text": "Decidir según objetivos; componente básico: aplicación, trabajo, guion u orden.",
+      "refs": [
+       "s34.3"
+      ]
+     },
+     {
+      "term": "Detalle",
+      "text": "Componente de nivel más alto = menor detalle. Parámetros físicos o funcionales: considerar cantidad y homogeneidad de valores.",
+      "refs": [
+       "s34.3"
+      ]
+     },
+     {
+      "term": "2. Construcción",
+      "text": "Analizar datos, obtener valores representativos y reconstruir mezclas significativas.",
+      "refs": [
+       "s34.4"
+      ]
+     },
+     {
+      "term": "3. Validación",
+      "text": "Comparar modelo y carga real en puntos conocidos; calibrar modificando parámetros.",
+      "refs": [
+       "s34.5"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Construcción del modelo",
+    "leaves": [
+     {
+      "term": "Análisis estadístico",
+      "text": "Parámetros y muestras multidimensionales.",
+      "refs": [
+       "s34.4"
+      ]
+     },
+     {
+      "term": "Extracción",
+      "text": "Muestreo de cada parámetro, distribución conjunta o componentes; componentes principales, agrupamiento y modelos markovianos.",
+      "refs": [
+       "s34.6"
+      ]
+     },
+     {
+      "term": "Asignación",
+      "text": "Distribuir valores representativos entre componentes del modelo.",
+      "refs": [
+       "s34.4"
+      ]
+     },
+     {
+      "term": "Reconstrucción de mezclas",
+      "text": "Reproducir situaciones reales; series temporales y grupos activos en cada instante.",
+      "refs": [
+       "s34.7"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "u6-1",
+  "unit": "u6",
+  "num": "01",
+  "title": "Management responsable y riesgo",
+  "subtitle": "Qué se protege, cómo se pierde y cómo decidir las medidas",
+  "kicker": "SEGURIDAD",
+  "center": "Management responsable y riesgo",
+  "recordar": "",
+  "left": [
+   {
+    "label": "Fundamentos",
+    "leaves": [
+     {
+      "term": "Dimensiones",
+      "text": "Organizacional/técnica, social/ética y judicial/legal.",
+      "refs": [
+       "s35.2"
+      ]
+     },
+     {
+      "term": "Atributos",
+      "text": "Integridad: precisión; disponibilidad: acceso; confidencialidad: acceso autorizado.",
+      "refs": [
+       "s35.4",
+       "s35.5",
+       "s35.6"
+      ]
+     },
+     {
+      "term": "Seguridad",
+      "text": "Pérdida = falla de función o servicio previsto. Nunca es total: gestionar el riesgo para un nivel razonable de seguridad.",
+      "refs": [
+       "s35.3",
+       "s35.7"
+      ]
+     },
+     {
+      "term": "Equilibrio óptimo",
+      "text": "Costo de las fallas frente al costo de las medidas de seguridad.",
+      "refs": [
+       "s35.7"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Identificación",
+    "leaves": [
+     {
+      "term": "Orden",
+      "text": "Activos → vulnerabilidades → amenazas; ubicar riesgos. Consultor externo: visión amplia; personal interno: conocimiento de la empresa.",
+      "refs": [
+       "s36.3"
+      ]
+     },
+     {
+      "term": "Activos",
+      "text": "HW, SW, datos, documentos, servicios, personal, fondos y capacidad de procesamiento.",
+      "refs": [
+       "s38.4"
+      ]
+     },
+     {
+      "term": "Vulnerabilidad",
+      "text": "Debilidad explotable. Depende también del personal, la red y la transmisión.",
+      "refs": [
+       "s38.6",
+       "s36.5"
+      ]
+     },
+     {
+      "term": "Amenaza",
+      "text": "Capacidad de daño; física o lógica, accidental o deliberada. Ataque: su realización.",
+      "refs": [
+       "s36.4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Análisis",
+    "leaves": [
+     {
+      "term": "Riesgo",
+      "text": "Una amenaza puede explotar la vulnerabilidad de un activo y ocasionar daño.",
+      "refs": [
+       "s38.3"
+      ]
+     },
+     {
+      "term": "Materialidad",
+      "text": "Magnitud del error según su impacto en la organización. Análisis también cualitativo.",
+      "refs": [
+       "s38.3",
+       "s39.1"
+      ]
+     },
+     {
+      "term": "Frecuencia de pérdida",
+      "text": "Probabilidad de agresión × probabilidad de éxito. Agresión: cualquier falla, incluso no deliberada.",
+      "refs": [
+       "s39.5",
+       "s39.3"
+      ]
+     },
+     {
+      "term": "Pérdida esperada",
+      "text": "Pérdida potencial ($) × frecuencia. Con frecuencia anual: exposición anual (ALE).",
+      "refs": [
+       "s39.4",
+       "s39.8"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Pérdidas y riesgo",
+    "leaves": [
+     {
+      "term": "Primarias",
+      "text": "Daño directo: interrupción, corrupción de registros, revelación o desaparición de datos.",
+      "refs": [
+       "s40.2",
+       "s40.3:1"
+      ]
+     },
+     {
+      "term": "Secundarias",
+      "text": "Derivadas: demoras, menor producción, sanciones, pérdida de confianza o competitividad.",
+      "refs": [
+       "s40.3:1",
+       "s40.2"
+      ]
+     },
+     {
+      "term": "Pérdida total",
+      "text": "Consecuencias primarias + secundarias; reducir las primeras limita las segundas.",
+      "refs": [
+       "s40.4",
+       "s40.5"
+      ]
+     },
+     {
+      "term": "Global",
+      "text": "Elementos del riesgo, impacto y probabilidad de cada amenaza. Residual: Resta tras los controles; revela control insuficiente o excesivo.",
+      "refs": [
+       "s38.8",
+       "s38.9"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Manejo",
+    "leaves": [
+     {
+      "term": "Prevenir",
+      "text": "Intentar evitar la amenaza.",
+      "refs": [
+       "s41.3:1"
+      ]
+     },
+     {
+      "term": "Transferir",
+      "text": "Trasladar costos a terceros: seguros o contratos; alto costo y baja probabilidad.",
+      "refs": [
+       "s41.3:2"
+      ]
+     },
+     {
+      "term": "Reducir",
+      "text": "Disminuir probabilidad y/o pérdidas mediante controles y contramedidas; backup.",
+      "refs": [
+       "s41.3:3"
+      ]
+     },
+     {
+      "term": "Asumir",
+      "text": "Aceptar pérdidas tolerables, considerando su probabilidad.",
+      "refs": [
+       "s41.3:4"
+      ]
+     },
+     {
+      "term": "Portfolio",
+      "text": "Combinar estrategias según costo, tiempo y restricciones; evaluar nuevos riesgos.",
+      "refs": [
+       "s41.4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Caso ANSES",
+    "leaves": [
+     {
+      "term": "Datos",
+      "text": "Integridad del sistema y consistencia de los registros con la realidad.",
+      "refs": [
+       "s37.1",
+       "s37.4"
+      ]
+     },
+     {
+      "term": "Servicio y requisitos",
+      "text": "Derecho al servicio y diferencias de requisitos sobre una misma persona.",
+      "refs": [
+       "s37.6"
+      ]
+     },
+     {
+      "term": "Funcionamiento",
+      "text": "Gestión del trámite, uso del sistema e interoperabilidad.",
+      "refs": [
+       "s37.4"
+      ]
+     },
+     {
+      "term": "Análisis del caso",
+      "text": "Relacionar los siete aspectos con las dimensiones técnica, social/ética y legal.",
+      "refs": [
+       "s37.4",
+       "s37.5",
+       "s37.6",
+       "s37.8"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "u6-2",
+  "unit": "u6",
+  "num": "02",
+  "title": "Controles y continuidad",
+  "subtitle": "Defender los sistemas y recuperar las operaciones",
+  "kicker": "SEGURIDAD",
+  "center": "Controles y continuidad",
+  "recordar": "Primera prioridad de la recuperación: proteger la vida humana. El plan debe mantenerse actualizado y probarse.",
+  "left": [
+   {
+    "label": "Tipos de controles",
+    "leaves": [
+     {
+      "term": "Generales",
+      "text": "Protegen todas las actividades de SI; una debilidad puede afectar varios sistemas.",
+      "refs": [
+       "s41.9"
+      ]
+     },
+     {
+      "term": "De aplicación",
+      "text": "Protegen un área o aplicación específica.",
+      "refs": [
+       "s41.10"
+      ]
+     },
+     {
+      "term": "Lógicos",
+      "text": "Usuarios, contraseñas, integridad de datos y operaciones.",
+      "refs": [
+       "s42.9"
+      ]
+     },
+     {
+      "term": "Físicos",
+      "text": "Vigilancia, cerraduras y tarjetas de acceso a instalaciones y equipos.",
+      "refs": [
+       "s42.10"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Líneas de defensa",
+    "leaves": [
+     {
+      "term": "1. Prevención",
+      "text": "Evitar amenazas; ejemplo: prohibir fumar en el centro de datos.",
+      "refs": [
+       "s42.7:1"
+      ]
+     },
+     {
+      "term": "2. Detección",
+      "text": "Advertir fallas; ejemplo: detector de humo.",
+      "refs": [
+       "s42.7:2"
+      ]
+     },
+     {
+      "term": "3. Recuperación",
+      "text": "Limitar pérdidas y restablecer; ejemplo: backups fuera de la sede (off-site).",
+      "refs": [
+       "s42.7:3"
+      ]
+     },
+     {
+      "term": "Capas",
+      "text": "Dependen de HW, distribución e integración. Contramedidas: respuesta y mitigación.",
+      "refs": [
+       "s42.2"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Tolerancia y prioridades",
+    "leaves": [
+     {
+      "term": "Tiempo",
+      "text": "Inhabilitación: hasta volver a estar disponible. Lapso crítico: límite antes de pérdidas.",
+      "refs": [
+       "s43.2",
+       "s44.3"
+      ]
+     },
+     {
+      "term": "Críticos",
+      "text": "Tolerancia muy baja; alto costo de interrupción; sin reemplazo manual.",
+      "refs": [
+       "s43.8:1"
+      ]
+     },
+     {
+      "term": "Vitales",
+      "text": "Tolerancia moderada; ejecución manual por períodos breves.",
+      "refs": [
+       "s43.8:2"
+      ]
+     },
+     {
+      "term": "Sensibles",
+      "text": "Tolerancia flexible; trabajo manual más prolongado con personal adicional.",
+      "refs": [
+       "s43.8:3"
+      ]
+     },
+     {
+      "term": "No críticos",
+      "text": "Amplia tolerancia; costo escaso o nulo; reemplazo con poco esfuerzo.",
+      "refs": [
+       "s43.8:4"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Emergencias y alternativas",
+    "leaves": [
+     {
+      "term": "Catástrofe",
+      "text": "Destrucción física: instalación alternativa y nueva sede.",
+      "refs": [
+       "s44.2:1"
+      ]
+     },
+     {
+      "term": "Desastre / no desastre",
+      "text": "Más de un día / hasta un día de interrupción, según el apunte.",
+      "refs": [
+       "s44.2:2",
+       "s44.2:3"
+      ]
+     },
+     {
+      "term": "Hot / warm / cold site",
+      "text": "Completo y rápido / parcial / espacio preparado para recibir equipos.",
+      "refs": [
+       "s45.4:1",
+       "s45.4:2",
+       "s45.4:3"
+      ]
+     },
+     {
+      "term": "Otras soluciones",
+      "text": "Centro duplicado propio, centros de terceros e instalaciones móviles.",
+      "refs": [
+       "s45.2",
+       "s45.3",
+       "s44.10"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Plan de contingencias",
+    "leaves": [
+     {
+      "term": "Gerencia superior",
+      "text": "Responsable de formular el plan; prioridades y orden de procesamiento.",
+      "refs": [
+       "s44.5",
+       "s44.6",
+       "s44.7"
+      ]
+     },
+     {
+      "term": "Respaldo",
+      "text": "Mantener sistemas clave operando; prever trabajo manual y entrenar al personal.",
+      "refs": [
+       "s43.3",
+       "s44.8",
+       "s44.9"
+      ]
+     },
+     {
+      "term": "Infraestructura",
+      "text": "Equipos alternativos; telecomunicaciones con rutas alternativas y diversificadas.",
+      "refs": [
+       "s44.10",
+       "s44.11"
+      ]
+     },
+     {
+      "term": "Información",
+      "text": "Backups y documentación off-site; puntos de recuperación en el desarrollo.",
+      "refs": [
+       "s44.12",
+       "s44.13"
+      ]
+     },
+     {
+      "term": "Reinstalación",
+      "text": "Incorporar los datos generados durante la inactividad y volver a la normalidad.",
+      "refs": [
+       "s43.4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Recuperación y revisión",
+    "leaves": [
+     {
+      "term": "Inicio",
+      "text": "Proteger vidas, evaluar daños, estimar tiempos y coordinar actividades.",
+      "refs": [
+       "s45.6",
+       "s45.7",
+       "s45.8"
+      ]
+     },
+     {
+      "term": "Restaurar",
+      "text": "SW de base y aplicaciones, telecomunicaciones y datos en sede alternativa.",
+      "refs": [
+       "s45.9",
+       "s45.10",
+       "s45.11"
+      ]
+     },
+     {
+      "term": "Administrar",
+      "text": "Almacenamiento, seguridad, apoyo administrativo, balanceo y aspectos legales.",
+      "refs": [
+       "s45.12",
+       "s45.13",
+       "s45.14",
+       "s45.15"
+      ]
+     },
+     {
+      "term": "Auditor",
+      "text": "Revisar plan, inventario, capacitación, integración de datos, accesos, contratos, pruebas y seguros.",
+      "refs": [
+       "s45.17"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "u6-3",
+  "unit": "u6",
+  "num": "03",
+  "title": "Políticas de seguridad y ataques",
+  "subtitle": "Reglas para proteger la información y formas de vulnerarla",
+  "kicker": "SEGURIDAD",
+  "center": "Políticas y ataques",
+  "recordar": "Ataque: realización de una amenaza. Delito informático, según el apunte: conducta humana culpable en un entorno informático, tipificada y sancionada por ley; causa perjuicio a terceros o beneficio",
+  "left": [
+   {
+    "label": "Política de seguridad",
+    "leaves": [
+     {
+      "term": "Finalidad",
+      "text": "Indicar lo permitido y prohibido; prevenir. Documenta identificación, análisis del riesgo y estrategias elegidas.",
+      "refs": [
+       "s46.1"
+      ]
+     },
+     {
+      "term": "Cobertura",
+      "text": "Protección, valor, acceso y recuperación; general o específica. Nivel de seguridad según valor protegido, gasto e inconvenientes de las medidas.",
+      "refs": [
+       "s46.1"
+      ]
+     },
+     {
+      "term": "Prohibitiva",
+      "text": "Lo no expresamente permitido está prohibido; más efectiva para la seguridad.",
+      "refs": [
+       "s46.2:1"
+      ]
+     },
+     {
+      "term": "Permisiva",
+      "text": "Lo no expresamente prohibido está permitido.",
+      "refs": [
+       "s46.2:2"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Seis elementos",
+    "leaves": [
+     {
+      "term": "Disponibilidad / utilidad",
+      "text": "Recursos cuando se necesitan / útiles para una función.",
+      "refs": [
+       "s46.4",
+       "s46.5"
+      ]
+     },
+     {
+      "term": "Integridad / autenticidad",
+      "text": "Datos como los almacenó un autorizado / identidad verificable de usuarios y sistema.",
+      "refs": [
+       "s46.6",
+       "s46.7"
+      ]
+     },
+     {
+      "term": "Confidencialidad / posesión",
+      "text": "Acceso solo autorizado / propietarios conservan el control del sistema.",
+      "refs": [
+       "s46.8",
+       "s46.9"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Conceptos normativos",
+    "leaves": [
+     {
+      "term": "Política",
+      "text": "Principios generales, de largo plazo; aprobada por dirección y obligatoria. Excepciones aprobadas.",
+      "refs": [
+       "s46.11:1"
+      ]
+     },
+     {
+      "term": "Estándar",
+      "text": "Regla obligatoria que implementa la política sin crear nuevas políticas.",
+      "refs": [
+       "s46.11:2"
+      ]
+     },
+     {
+      "term": "Mejor práctica",
+      "text": "Regla de seguridad de una plataforma aceptada por la industria.",
+      "refs": [
+       "s46.11:3"
+      ]
+     },
+     {
+      "term": "Guía",
+      "text": "Recomendación no obligatoria; apartamientos documentados y aprobados.",
+      "refs": [
+       "s46.11:4"
+      ]
+     },
+     {
+      "term": "Procedimiento",
+      "text": "Pasos específicos por proceso o tecnología; su dueño suele desarrollarlos, implementarlos y supervisarlos.",
+      "refs": [
+       "s46.11:5"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Ciclo de vida",
+    "leaves": [
+     {
+      "term": "Desarrollo",
+      "text": "Creación → revisión independiente → aprobación.",
+      "refs": [
+       "s47.1:1"
+      ]
+     },
+     {
+      "term": "Implementación",
+      "text": "Comunicación, cumplimiento y documentación de excepciones.",
+      "refs": [
+       "s47.1:2"
+      ]
+     },
+     {
+      "term": "Mantenimiento",
+      "text": "Concientización, monitoreo, garantía de cumplimiento y actualización.",
+      "refs": [
+       "s47.1:3"
+      ]
+     },
+     {
+      "term": "Eliminación",
+      "text": "Retiro cuando cumplió su finalidad y ya no es necesaria.",
+      "refs": [
+       "s47.1:4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Ataque y aspecto afectado",
+    "leaves": [
+     {
+      "term": "Interrupción → disponibilidad",
+      "text": "Destruir o dejar un recurso fuera de servicio.",
+      "refs": [
+       "s48.2:1"
+      ]
+     },
+     {
+      "term": "Intercepción → confidencialidad",
+      "text": "Acceder o copiar sin autorización.",
+      "refs": [
+       "s48.2:2"
+      ]
+     },
+     {
+      "term": "Modificación → integridad",
+      "text": "Manipular datos, programas o mensajes.",
+      "refs": [
+       "s48.2:3"
+      ]
+     },
+     {
+      "term": "Fabricación → autenticidad",
+      "text": "Insertar mensajes u objetos falsificados.",
+      "refs": [
+       "s48.2:4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Pasivos y activos",
+    "leaves": [
+     {
+      "term": "Pasivos",
+      "text": "Escucha y análisis de tráfico sin alterar datos; difíciles de detectar. Protección: cifrado.",
+      "refs": [
+       "s48.4"
+      ]
+     },
+     {
+      "term": "Activos: suplantación",
+      "text": "Hacerse pasar por otra entidad.",
+      "refs": [
+       "s48.7"
+      ]
+     },
+     {
+      "term": "Activos: reactuación",
+      "text": "Capturar y repetir mensajes legítimos para un efecto no deseado.",
+      "refs": [
+       "s48.8"
+      ]
+     },
+     {
+      "term": "Activos: modificación",
+      "text": "Alterar, retrasar o reordenar mensajes.",
+      "refs": [
+       "s48.9"
+      ]
+     },
+     {
+      "term": "Activos: degradación",
+      "text": "Impedir o inhibir el uso normal del servicio.",
+      "refs": [
+       "s48.10"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "u6-4",
+  "unit": "u6",
+  "num": "04",
+  "title": "Auditoría y Control Interno Informático",
+  "subtitle": "Qué evalúa cada función y quién asume las responsabilidades",
+  "kicker": "AUDITORÍA",
+  "center": "Fundamentos y CII",
+  "recordar": "CII: control continuo. Auditoría: evaluación y opinión independiente. Coordinar auditorías interna y externa evita duplicaciones y amplía la cobertura.",
+  "left": [
+   {
+    "label": "Auditoría de SI",
+    "leaves": [
+     {
+      "term": "Opinión profesional",
+      "text": "Procedimientos y evidencia para determinar la fiabilidad de la información.",
+      "refs": [
+       "s49.1"
+      ]
+     },
+     {
+      "term": "Revisión sistemática",
+      "text": "Objetivos vigentes, efectividad, permanencia del diseño, eficiencia y seguridad.",
+      "refs": [
+       "s49.5",
+       "s49.6",
+       "s49.7",
+       "s49.8",
+       "s49.9",
+       "s49.10"
+      ]
+     },
+     {
+      "term": "Finalidad",
+      "text": "Salvaguarda de activos, integridad de datos, cumplimiento de objetivos y uso eficiente de recursos.",
+      "refs": [
+       "s49.11",
+       "s49.12"
+      ]
+     },
+     {
+      "term": "Auditoría global",
+      "text": "Comprende contable y operativa; la auditoría de sistemas forma parte de ella.",
+      "refs": [
+       "s49.3"
+      ]
+     },
+     {
+      "term": "Naturaleza",
+      "text": "Financiera (registros y estados contables), administrativa, RRHH, calidad, operativa (control interno y eficacia de controles) y SI.",
+      "refs": [
+       "s49.2"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Objetos y alcance",
+    "leaves": [
+     {
+      "term": "Objetos",
+      "text": "Recursos, función de SI, aplicaciones, proyectos, contingencias y datos.",
+      "refs": [
+       "s50.1"
+      ]
+     },
+     {
+      "term": "Secciones",
+      "text": "Función informática; sistemas y procedimientos; proceso de datos, sistemas y equipos.",
+      "refs": [
+       "s50.13",
+       "s50.14",
+       "s50.15"
+      ]
+     },
+     {
+      "term": "También comprende",
+      "text": "Seguridad y aspectos legales de sistemas e información.",
+      "refs": [
+       "s50.16",
+       "s50.17"
+      ]
+     },
+     {
+      "term": "Qué asegurar",
+      "text": "Trazabilidad, datos íntegros, excepciones controladas, cambios autorizados y cumplimiento.",
+      "refs": [
+       "s50.3",
+       "s50.4",
+       "s50.5",
+       "s50.8"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "CII",
+    "leaves": [
+     {
+      "term": "CII, unidad",
+      "text": "Control diario de procedimientos, estándares, normas y requisitos legales; colaborar con auditorías y comprobar niveles de servicio adecuados.",
+      "refs": [
+       "s51.1"
+      ]
+     },
+     {
+      "term": "Control interno, actividad",
+      "text": "Acción manual o automática que previene o corrige errores e irregularidades que afectan al sistema y sus objetivos.",
+      "refs": [
+       "s51.7"
+      ]
+     },
+     {
+      "term": "Qué controla",
+      "text": "Producción, cambios de SW, desarrollo, redes, seguridad, licencias y outsourcing.",
+      "refs": [
+       "s51.2",
+       "s51.3",
+       "s51.4"
+      ]
+     },
+     {
+      "term": "Categorías",
+      "text": "Preventivo: evita; detección: advierte; correctivo: corrige y restablece.",
+      "refs": [
+       "s51.8:1",
+       "s51.8:2",
+       "s51.8:3"
+      ]
+     },
+     {
+      "term": "Calidad del control",
+      "text": "Completo, simple, fiable, revisable, adecuado y rentable; evaluar costo-riesgo.",
+      "refs": [
+       "s51.5"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Implantación y responsables",
+    "leaves": [
+     {
+      "term": "Antes de implantar",
+      "text": "Documentar red, ordenador base, aplicaciones, herramientas y seguridad.",
+      "refs": [
+       "s52.1"
+      ]
+     },
+     {
+      "term": "Gerencia / Dirección de SI",
+      "text": "Crea el sistema de control / define políticas y directrices.",
+      "refs": [
+       "s52.3",
+       "s52.4:1"
+      ]
+     },
+     {
+      "term": "Dirección de Informática",
+      "text": "Publica normas, procedimientos, estándares y metodologías.",
+      "refs": [
+       "s52.4:2"
+      ]
+     },
+     {
+      "term": "CII / auditor",
+      "text": "Define controles periódicos / revisa controles y cumplimiento.",
+      "refs": [
+       "s52.4:3",
+       "s52.4:4"
+      ]
+     },
+     {
+      "term": "Gestión del cambio",
+      "text": "Separar pruebas y producción; migrar solo programas probados y autorizados.",
+      "refs": [
+       "s52.2:4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Interna y externa",
+    "leaves": [
+     {
+      "term": "Interna",
+      "text": "Vínculo laboral e informes internos; asesora a la máxima dirección. Sin autoridad de línea fuera de su oficina.",
+      "refs": [
+       "s57.3",
+       "s57.4"
+      ]
+     },
+     {
+      "term": "Externa",
+      "text": "Sin vínculo laboral; opinión independiente para terceros. El apunte destaca su alcance legal, fe pública y certificaciones.",
+      "refs": [
+       "s57.6",
+       "s57.7"
+      ]
+     },
+     {
+      "term": "En ambas",
+      "text": "Examen crítico, sistemático y detallado; independencia de criterio.",
+      "refs": [
+       "s57.1"
+      ]
+     },
+     {
+      "term": "Ubicación",
+      "text": "CII: Dirección de Informática. Auditor: Dirección General; cobertura organizacional.",
+      "refs": [
+       "s51.11:2",
+       "s57.4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Deontología e independencia",
+    "leaves": [
+     {
+      "term": "Deontología",
+      "text": "Principios y reglas éticas: deberes mínimos de la profesión.",
+      "refs": [
+       "s56.9"
+      ]
+     },
+     {
+      "term": "Beneficio del auditado",
+      "text": "No partir de prejuicios.",
+      "refs": [
+       "s56.10"
+      ]
+     },
+     {
+      "term": "Independencia",
+      "text": "Objetividad; no auditar tareas con las que se está vinculado ni operar lo que se evalúa.",
+      "refs": [
+       "s56.11"
+      ]
+     },
+     {
+      "term": "Asesoramiento",
+      "text": "Puede sugerir puntos de control; quien audite después debe ser otra persona.",
+      "refs": [
+       "s56.12"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "u6-5",
+  "unit": "u6",
+  "num": "05",
+  "title": "Proceso auditor, evidencia e informes",
+  "subtitle": "De los objetivos de revisión a una opinión respaldada",
+  "kicker": "AUDITORÍA",
+  "center": "Proceso y evidencia",
+  "recordar": "ISACA: planeación → trabajo de campo y documentación → reporte y seguimiento. Las pruebas obtienen evidencia; la evidencia sustenta conclusiones.",
+  "left": [
+   {
+    "label": "Etapas de la materia",
+    "leaves": [
+     {
+      "term": "1 y 2. Definir y conocer",
+      "text": "Alcance y objetivos; estudio inicial del entorno.",
+      "refs": [
+       "s53.3",
+       "s53.4"
+      ]
+     },
+     {
+      "term": "3. Ejecutar",
+      "text": "Programa de revisión: metodología, datos, controles y hallazgos.",
+      "refs": [
+       "s53.5"
+      ]
+     },
+     {
+      "term": "4 y 5. Cerrar e informar",
+      "text": "Reunir informes, analizar hallazgos y emitir informe final.",
+      "refs": [
+       "s53.6",
+       "s53.7"
+      ]
+     },
+     {
+      "term": "6. Seguimiento",
+      "text": "Verificar adopción y efectividad de las recomendaciones.",
+      "refs": [
+       "s53.8"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Planificación y programa",
+    "leaves": [
+     {
+      "term": "Conocer el negocio",
+      "text": "Ambiente normativo, entrevistas, recorridas, planes y antecedentes.",
+      "refs": [
+       "s54.1"
+      ]
+     },
+     {
+      "term": "Definir",
+      "text": "Área, objetivo, alcance, duración y recursos. Auditabilidad: fuentes verificables. Priorizar impacto en negocio/decisiones, activos y dimensión de la aplicación.",
+      "refs": [
+       "s54.2",
+       "s54.12"
+      ]
+     },
+     {
+      "term": "Programa por área",
+      "text": "Instrucciones derivadas del plan; modificables según hechos observados.",
+      "refs": [
+       "s54.7"
+      ]
+     },
+     {
+      "term": "Registrar la ejecución",
+      "text": "Pruebas, fuentes, responsables, hitos, tiempos, papeles de trabajo, fechas y decisiones.",
+      "refs": [
+       "s54.8",
+       "s54.9",
+       "s54.10"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Riesgos de auditoría",
+    "leaves": [
+     {
+      "term": "Inherente",
+      "text": "Error material por la naturaleza de la actividad; el auditor no puede eliminarlo.",
+      "refs": [
+       "s54.5:1"
+      ]
+     },
+     {
+      "term": "De control",
+      "text": "El control interno no evita ni detecta el error; las recomendaciones ayudan a reducirlo.",
+      "refs": [
+       "s54.5:2"
+      ]
+     },
+     {
+      "term": "De detección",
+      "text": "Prueba inadecuada: no se detecta un error existente. Responsabilidad del auditor.",
+      "refs": [
+       "s54.5:3"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Evidencia",
+    "leaves": [
+     {
+      "term": "Qué es",
+      "text": "Datos, documentos, registros o testimonios para evaluar criterios y objetivos.",
+      "refs": [
+       "s55.4"
+      ]
+     },
+     {
+      "term": "Relevante y fiable",
+      "text": "Relacionada con el objetivo; válida, objetiva y confiable.",
+      "refs": [
+       "s55.5:1",
+       "s55.5:2"
+      ]
+     },
+     {
+      "term": "Suficiente y adecuada",
+      "text": "Cantidad necesaria y calidad para respaldar la opinión profesional.",
+      "refs": [
+       "s55.5:3",
+       "s55.5:4"
+      ]
+     },
+     {
+      "term": "Confiabilidad",
+      "text": "Objetividad, fuente y calidad; las fuentes externas son, en principio, más objetivas. Validar y documentar hallazgos.",
+      "refs": [
+       "s55.6"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Pruebas",
+    "leaves": [
+     {
+      "term": "Cumplimiento",
+      "text": "Comprobar aplicación de controles conforme a políticas y procedimientos documentados.",
+      "refs": [
+       "s56.2"
+      ]
+     },
+     {
+      "term": "Técnicas",
+      "text": "Detalles documentales, observación e indagación.",
+      "refs": [
+       "s56.3",
+       "s56.4"
+      ]
+     },
+     {
+      "term": "Sustantivas",
+      "text": "Examinar tratamiento de información y resultados; comprobar que el sistema haga lo previsto.",
+      "refs": [
+       "s56.6"
+      ]
+     },
+     {
+      "term": "Énfasis según controles",
+      "text": "Buenos: cumplimiento. Débiles o inexistentes: más pruebas sustantivas.",
+      "refs": [
+       "s56.7:1",
+       "s56.7:2"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Informe y opinión",
+    "leaves": [
+     {
+      "term": "Contenido",
+      "text": "Introducción; hallazgos y recomendaciones; acciones correctivas; opinión; anexos.",
+      "refs": [
+       "s58.4",
+       "s58.5",
+       "s58.6",
+       "s58.7",
+       "s58.8"
+      ]
+     },
+     {
+      "term": "Sin / con salvedades",
+      "text": "Sin problemas materiales / excepción expresamente expuesta.",
+      "refs": [
+       "s58.11:1",
+       "s58.11:2"
+      ]
+     },
+     {
+      "term": "Adversa / sin opinión",
+      "text": "Incumplimientos o controles débiles no compensados / limitaciones para opinar.",
+      "refs": [
+       "s58.11:3",
+       "s58.11:4"
+      ]
+     },
+     {
+      "term": "Comunicación",
+      "text": "Alcance, período, resultados y evidencia. Según Soria, presentar primero la opinión.",
+      "refs": [
+       "s58.1",
+       "s58.9"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "u6-6",
+  "unit": "u6",
+  "num": "06",
+  "title": "Áreas y técnicas de auditoría de SI",
+  "subtitle": "Aplicación de la revisión sobre organización, desarrollo, operación y seguridad",
+  "kicker": "AUDITORÍA",
+  "center": "Áreas y técnicas",
+  "recordar": "La certificación de calidad utiliza auditorías; una auditoría también puede realizarse para evaluar cómo se trabaja.",
+  "left": [
+   {
+    "label": "Función informática",
+    "leaves": [
+     {
+      "term": "Organización",
+      "text": "Recursos alineados con los objetivos; estructura y responsabilidades adecuadas.",
+      "refs": [
+       "s59.1",
+       "s59.4"
+      ]
+     },
+     {
+      "term": "Control interno",
+      "text": "Separación de funciones, autorizaciones y protección de archivos.",
+      "refs": [
+       "s59.9",
+       "s59.10",
+       "s59.12"
+      ]
+     },
+     {
+      "term": "Gestión",
+      "text": "Estándares vigentes y formación del personal; eficiencia y efectividad.",
+      "refs": [
+       "s59.13",
+       "s59.14"
+      ]
+     },
+     {
+      "term": "Auditor",
+      "text": "Comprender el ambiente, evaluar y probar controles, detectar debilidades e impacto.",
+      "refs": [
+       "s59.3",
+       "s59.5",
+       "s59.6",
+       "s59.7"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Desarrollo de sistemas",
+    "leaves": [
+     {
+      "term": "Objetivo",
+      "text": "Requerimientos de usuarios, riesgos, exposiciones y puntos de control.",
+      "refs": [
+       "s59.17",
+       "s60.4",
+       "s60.5"
+      ]
+     },
+     {
+      "term": "Ciclo de vida",
+      "text": "Plan Maestro, factibilidad, requerimientos/ERS, diseño, pruebas e implantación.",
+      "refs": [
+       "s60.2:1"
+      ]
+     },
+     {
+      "term": "Documentación",
+      "text": "Documentos por etapa; postinstalación y mantenimiento.",
+      "refs": [
+       "s60.2:2"
+      ]
+     },
+     {
+      "term": "Adquisición de SW",
+      "text": "Solvencia del proveedor; propiedad y recupero del código fuente; documentación; satisfacción de otros clientes y actualización.",
+      "refs": [
+       "s60.2:3"
+      ]
+     },
+     {
+      "term": "Modificaciones",
+      "text": "Cambios autorizados, trazables y documentados; cumplir la metodología.",
+      "refs": [
+       "s60.2:4"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Aplicaciones instaladas",
+    "leaves": [
+     {
+      "term": "Entrada",
+      "text": "Datos completos, exactos, válidos, autorizados y por única vez.",
+      "refs": [
+       "s61.3"
+      ]
+     },
+     {
+      "term": "Proceso",
+      "text": "Actualización segura y procesamiento oportuno según el diseño aprobado.",
+      "refs": [
+       "s61.4",
+       "s61.5"
+      ]
+     },
+     {
+      "term": "Almacenamiento y salida",
+      "text": "Datos protegidos y actualizados; resultados según expectativas del proyecto.",
+      "refs": [
+       "s61.6",
+       "s61.7"
+      ]
+     },
+     {
+      "term": "Auditor",
+      "text": "Comprender el flujo, evaluar y probar controles, analizar eficiencia y eficacia.",
+      "refs": [
+       "s61.9",
+       "s61.10",
+       "s61.11",
+       "s61.12",
+       "s61.13"
+      ]
+     }
+    ]
+   }
+  ],
+  "right": [
+   {
+    "label": "Seguridad",
+    "leaves": [
+     {
+      "term": "Ámbitos",
+      "text": "Seguridad física, lógica, redes, desarrollo y mantenimiento.",
+      "refs": [
+       "s62.1"
+      ]
+     },
+     {
+      "term": "Accesos y amenazas",
+      "text": "Solo usuarios autorizados; protección ante virus, malware y phishing.",
+      "refs": [
+       "s62.3",
+       "s62.4"
+      ]
+     },
+     {
+      "term": "Políticas y continuidad",
+      "text": "Cifrado, backups y plan de recuperación ante desastres.",
+      "refs": [
+       "s62.5",
+       "s62.6"
+      ]
+     },
+     {
+      "term": "Cumplimiento",
+      "text": "Normas de seguridad y privacidad; el apunte menciona ISO 27001.",
+      "refs": [
+       "s62.7"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Documentación y técnicas",
+    "leaves": [
+     {
+      "term": "Siempre revisar",
+      "text": "Segregación de funciones y documentación, con o sin computadora.",
+      "refs": [
+       "s62.9"
+      ]
+     },
+     {
+      "term": "1 y 2. Problema y sistema",
+      "text": "Definición del problema; análisis y diseño lógico.",
+      "refs": [
+       "s62.11",
+       "s62.12"
+      ]
+     },
+     {
+      "term": "3 y 4. Programas y operación",
+      "text": "Diseño físico: registros, diccionarios, BD, pantallas e informes; instrucciones.",
+      "refs": [
+       "s62.13",
+       "s62.14"
+      ]
+     },
+     {
+      "term": "5 y 6. Control y aceptación",
+      "text": "Descripción de controles y registro de aceptación.",
+      "refs": [
+       "s62.15",
+       "s62.16"
+      ]
+     }
+    ]
+   },
+   {
+    "label": "Enfoques y seguimiento",
+    "leaves": [
+     {
+      "term": "Lardent",
+      "text": "Marco flexible, institucional y organizacional; productividad, costos y normas.",
+      "refs": [
+       "s60.12:1"
+      ]
+     },
+     {
+      "term": "Piattini",
+      "text": "Revisión por etapas; organización y proyectos. Plan por proyecto según riesgos, complejidad y recursos.",
+      "refs": [
+       "s60.11"
+      ]
+     },
+     {
+      "term": "Método ISACA",
+      "text": "Objetivos de control → técnicas de control → pruebas.",
+      "refs": [
+       "s53.1",
+       "s60.10"
+      ]
+     },
+     {
+      "term": "Cierre",
+      "text": "Validar hallazgos, documentar riesgos e impactos, preparar y presentar informe, dar seguimiento.",
+      "refs": [
+       "s53.6",
+       "s53.7",
+       "s58.1"
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

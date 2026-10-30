@@ -1,0 +1,5103 @@
+[
+ {
+  "id": "s01",
+  "unit": "u4",
+  "title": "Unidad IV",
+  "page": 3,
+  "orig": "",
+  "blocks": [
+   {
+    "id": "s01.1",
+    "t": "p",
+    "text": "La Administración de Recursos de SI/TI — Subsistema de Desarrollo y Mantenimiento de los recursos humanos"
+   }
+  ]
+ },
+ {
+  "id": "s02",
+  "unit": "u4",
+  "title": "Subsistema de Desarrollo de Recursos Humanos",
+  "page": 3,
+  "orig": "páginas 2-3",
+  "blocks": [
+   {
+    "id": "s02.1",
+    "t": "p",
+    "text": "Su finalidad es generar el equilibrio entre las **competencias (conocimientos y habilidades) actuales y futuras de las personas**, las necesidades presentes del cargo y las necesidades futuras de la organización, en función de su entorno, su misión y su estrategia."
+   },
+   {
+    "id": "s02.2",
+    "t": "p",
+    "text": "El desarrollo debe ser una **evolución progresiva** de una persona hacia sus más altos niveles de capacidades y habilidades. Los RRHH son los únicos susceptibles de autodirección y de desarrollo."
+   },
+   {
+    "id": "s02.3",
+    "t": "li",
+    "text": "**Entrenamiento y desarrollo del personal:** aprendizaje individual; enfoque microscópico."
+   },
+   {
+    "id": "s02.4",
+    "t": "li",
+    "text": "**Desarrollo organizacional:** manera como aprenden y se desarrollan las organizaciones; enfoque macroscópico."
+   },
+   {
+    "id": "s02.5",
+    "t": "li",
+    "text": "El desarrollo permite responder a los fenómenos del cambio, adaptar al individuo a las demandas de su puesto y prepararlo para futuras responsabilidades, independientemente de las actuales."
+   }
+  ]
+ },
+ {
+  "id": "s03",
+  "unit": "u4",
+  "title": "Aprendizaje y educación profesional",
+  "page": 4,
+  "orig": "páginas 3-4",
+  "blocks": [
+   {
+    "id": "s03.1",
+    "t": "p",
+    "text": "El **aprendizaje** es el proceso complejo que permite a los individuos adquirir nuevos comportamientos que les aseguren su supervivencia o adaptación al medio físico o cultural. Es la columna vertebral del desarrollo."
+   },
+   {
+    "id": "s03.2",
+    "t": "p",
+    "text": "Se aprende con conocimientos y experiencias. El aprendizaje afecta actitudes, intereses y motivaciones; refuerza conductas deseables y extingue las indeseables. La práctica y el ejercicio repetido mejoran el comportamiento; lo aprendido se olvida si no se practica. El refuerzo se manifiesta en recompensas (estímulo positivo) o castigos (estímulo negativo)."
+   },
+   {
+    "id": "s03.3",
+    "t": "h",
+    "text": "Leyes del aprendizaje"
+   },
+   {
+    "id": "s03.4",
+    "t": "table",
+    "rows": [
+     [
+      "**Ley**",
+      "**Concepto importante**"
+     ],
+     [
+      "Efecto",
+      "Se mantiene el comportamiento que se percibe recompensador y se elimina el que no trae recompensa. La recompensa debe ser inmediata y constante."
+     ],
+     [
+      "Estímulo",
+      "La recompensa estimula el aprendizaje."
+     ],
+     [
+      "Intensidad",
+      "La intensidad de los ejercicios y de las prácticas determina el aprendizaje."
+     ],
+     [
+      "Frecuencia",
+      "La frecuencia de las prácticas y los ejercicios sirve de refuerzo."
+     ],
+     [
+      "Continuidad",
+      "El tiempo entre aprendizaje y desempeño es importante. Sin práctica y ejercicio constantes, aparece el olvido."
+     ],
+     [
+      "Descongelamiento",
+      "Aprender algo nuevo significa olvidar algo viejo. La sustitución requiere operación diferente, nuevo ambiente y tiempo."
+     ],
+     [
+      "Complejidad creciente",
+      "Las tareas complejas se aprenden comenzando por los aspectos más sencillos: el aprendizaje es progresivo."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s03.5",
+    "t": "h",
+    "text": "Educación y entrenamiento"
+   },
+   {
+    "id": "s03.6",
+    "t": "p",
+    "text": "La **educación** es toda influencia que el ser humano recibe del ambiente social durante su existencia para adaptarse a las normas y valores sociales vigentes y aceptados. Las influencias se asimilan según inclinaciones y predisposiciones. Puede ser organizada y sistemática, con un plan preestablecido, o difusa, desorganizada y asistemática."
+   },
+   {
+    "id": "s03.7",
+    "t": "p",
+    "text": "El **entrenamiento prepara para el cargo**; la **educación prepara para enfrentar el ambiente**, dentro o fuera del trabajo. La educación profesional prepara para la vida profesional y comprende tres etapas interdependientes:"
+   },
+   {
+    "id": "s03.8",
+    "t": "table",
+    "rows": [
+     [
+      "**Etapa**",
+      "**Finalidad**",
+      "**Objetivos y plazo**",
+      "**Dónde se imparte**"
+     ],
+     [
+      "Formación profesional",
+      "Ejercer una profesión.",
+      "Amplios, a largo plazo.",
+      "Escuelas y empresas."
+     ],
+     [
+      "Perfeccionamiento o desarrollo profesional",
+      "Perfeccionar al hombre para una carrera dentro de una profesión.",
+      "Menos amplios, a mediano plazo.",
+      "Empresas o firmas especializadas en desarrollo de personal."
+     ],
+     [
+      "Entrenamiento",
+      "Cumplir un cargo o una función.",
+      "Limitados e inmediatos, a corto plazo.",
+      "Empresas o firmas especializadas en entrenamiento."
+     ]
+    ],
+    "head": true
+   }
+  ]
+ },
+ {
+  "id": "s04",
+  "unit": "u4",
+  "title": "Entrenamiento o capacitación",
+  "page": 5,
+  "orig": "páginas 4-6",
+  "blocks": [
+   {
+    "id": "s04.1",
+    "t": "p",
+    "text": "Es un **proceso educativo a corto plazo**, aplicado de manera sistemática y organizada, mediante el cual las personas aprenden conocimientos, actitudes y habilidades en función de objetivos definidos."
+   },
+   {
+    "id": "s04.2",
+    "t": "h",
+    "text": "Contenido: cuatro tipos de cambio de comportamiento"
+   },
+   {
+    "id": "s04.3",
+    "t": "li",
+    "text": "**Transmisión de información:** distribuir conocimientos entre los entrenados."
+   },
+   {
+    "id": "s04.4",
+    "t": "li",
+    "text": "**Desarrollo de habilidades:** destrezas y conocimientos relacionados con el cargo actual o posibles ocupaciones futuras; orientado directamente a las tareas."
+   },
+   {
+    "id": "s04.5",
+    "t": "li",
+    "text": "**Desarrollo o modificación de actitudes:** sustituir actitudes negativas por otras favorables; adquirir hábitos y actitudes, especialmente frente a clientes o usuarios."
+   },
+   {
+    "id": "s04.6",
+    "t": "li",
+    "text": "**Desarrollo de conceptos:** elevar la abstracción y conceptualización; facilitar la aplicación de conceptos y capacitar gerentes que piensen en términos globales."
+   },
+   {
+    "id": "s04.7",
+    "t": "h",
+    "text": "Objetivos y responsabilidad"
+   },
+   {
+    "id": "s04.8",
+    "t": "li",
+    "text": "1. Preparar al personal para ejecutar inmediatamente las diversas tareas del cargo."
+   },
+   {
+    "id": "s04.9",
+    "t": "li",
+    "text": "2. Proporcionar oportunidades de desarrollo personal continuo, en el cargo actual y en otras funciones."
+   },
+   {
+    "id": "s04.10",
+    "t": "li",
+    "text": "3. Cambiar actitudes para crear un clima más satisfactorio, aumentar la motivación y la receptividad a técnicas de supervisión o gerencia."
+   },
+   {
+    "id": "s04.11",
+    "t": "p",
+    "text": "Es una **responsabilidad del jefe de línea y una función de staff**: la línea asume la responsabilidad y obtiene asesoría especializada del staff."
+   },
+   {
+    "id": "s04.12",
+    "t": "h",
+    "text": "Ciclo del entrenamiento"
+   },
+   {
+    "id": "s04.13",
+    "t": "p",
+    "text": "Como **sistema abierto**, comprende inputs (individuos, recursos, información y habilidades), procesamiento o throughputs (aprendizaje individual y programa), outputs (personal habilitado y eficacia organizacional) y retroalimentación o feedback (evaluación de procedimientos y resultados)."
+   },
+   {
+    "id": "s04.14",
+    "t": "p",
+    "text": "El proceso tiene cuatro etapas: **inventario de necesidades (diagnóstico), programación, implementación y ejecución, evaluación de resultados**."
+   }
+  ]
+ },
+ {
+  "id": "s05",
+  "unit": "u4",
+  "title": "Inventario de necesidades de entrenamiento",
+  "page": 6,
+  "orig": "páginas 6-10",
+  "blocks": [
+   {
+    "id": "s05.1",
+    "t": "p",
+    "text": "Es el **diagnóstico preliminar de lo que debe hacerse**. Analiza problemas y objetivos organizacionales relacionados con las capacidades, habilidades y conductas del personal existente y los requerimientos de los puestos."
+   },
+   {
+    "id": "s05.2",
+    "t": "table",
+    "rows": [
+     [
+      "**Nivel de análisis**",
+      "**Sistema involucrado**",
+      "**Información base y finalidad**"
+     ],
+     [
+      "Organización total",
+      "Sistema organizacional",
+      "Objetivos organizacionales y filosofía del entrenamiento. Determina dónde hacer énfasis; considera planes, fuerza laboral, eficiencia, cultura, entorno, costos y beneficios frente a otras estrategias. Resultado: necesidades a nivel organizacional."
+     ],
+     [
+      "Recursos humanos",
+      "Sistema de entrenamiento",
+      "Análisis de la fuerza laboral: si los RRHH son suficientes cuantitativa y cualitativamente para las actividades actuales y futuras, y si poseen conocimientos, habilidades y actitudes deseados. Resultado: necesidades a nivel de RRHH."
+     ],
+     [
+      "Operaciones y tareas",
+      "Sistema de adquisición de habilidades",
+      "Análisis de cargos: requisitos, habilidades, capacidades, actitudes, comportamientos, cualidades y responsabilidades. Descompone el cargo para determinar el comportamiento necesario. Resultado: necesidades a nivel de tareas o cargo."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s05.4",
+    "t": "callout",
+    "text": "**Requisitos exigidos por el cargo − Habilidades del ocupante del cargo = Necesidades de entrenamiento.**"
+   },
+   {
+    "id": "s05.6",
+    "t": "h",
+    "text": "Medios para inventariar necesidades"
+   },
+   {
+    "id": "s05.7",
+    "t": "p",
+    "text": "Es **responsabilidad de línea y función de staff**. El administrador detecta los problemas provocados por falta de entrenamiento. Medios: evaluación del desempeño; observación; cuestionarios y listas de verificación; solicitud de supervisores y gerentes; entrevistas con supervisores y gerentes; reuniones interdepartamentales; examen de empleados; modificación del trabajo; entrevista de salida; análisis de cargos; informes periódicos de la empresa o de producción."
+   },
+   {
+    "id": "s05.8",
+    "t": "h",
+    "text": "Indicadores a priori y a posteriori"
+   },
+   {
+    "id": "s05.9",
+    "t": "p",
+    "text": "**A priori:** eventos que, si ocurren, producirán necesidades futuras de entrenamiento previsibles: expansión de la empresa y admisión de empleados; reducción de personal; cambios de métodos y procesos; sustituciones o movimientos de personal; expansión de servicios; cambios de programas de trabajo o producción; modernización de maquinaria y equipos; nuevos productos o servicios."
+   },
+   {
+    "id": "s05.10",
+    "t": "p",
+    "text": "**A posteriori:** problemas provocados por necesidades de entrenamiento no atendidas."
+   },
+   {
+    "id": "s05.11",
+    "t": "li",
+    "text": "**Producción:** calidad inadecuada; baja producción; averías frecuentes; comunicaciones defectuosas; aprendizaje e integración prolongados; mantenimiento excesivo; errores y desperdicios; accidentes; poca versatilidad; mal aprovechamiento del espacio."
+   },
+   {
+    "id": "s05.12",
+    "t": "li",
+    "text": "**Personal:** relaciones deficientes; quejas excesivas; poco interés; falta de cooperación; ausencias y sustituciones; dificultad para obtener buenos elementos; atribución de faltas a los demás; errores en la ejecución de órdenes."
+   }
+  ]
+ },
+ {
+  "id": "s06",
+  "unit": "u4",
+  "title": "Programación, técnicas y evaluación del entrenamiento",
+  "page": 8,
+  "orig": "páginas 10-14",
+  "blocks": [
+   {
+    "id": "s06.1",
+    "t": "p",
+    "text": "La **programación** atiende las necesidades inventariadas de forma sistematizada y fundamentada. Debe establecer qué enseñar (contenido), quién aprende (personal), cuándo (época y horario), cuánto (volumen, duración e intensidad), dónde (lugar), cómo (métodos y recursos), quién enseña (instructor), para qué (objetivos), costos y evaluación de contenidos."
+   },
+   {
+    "id": "s06.2",
+    "t": "h",
+    "text": "Planeación del entrenamiento"
+   },
+   {
+    "id": "s06.3",
+    "t": "li",
+    "text": "1. Enfocar una necesidad específica cada vez."
+   },
+   {
+    "id": "s06.4",
+    "t": "li",
+    "text": "2. Definir claramente el objetivo."
+   },
+   {
+    "id": "s06.5",
+    "t": "li",
+    "text": "3. Dividir el trabajo en módulos, paquetes o ciclos."
+   },
+   {
+    "id": "s06.6",
+    "t": "li",
+    "text": "4. Determinar el contenido."
+   },
+   {
+    "id": "s06.7",
+    "t": "li",
+    "text": "5. Elegir métodos y tecnología disponible."
+   },
+   {
+    "id": "s06.8",
+    "t": "li",
+    "text": "6. Definir recursos necesarios."
+   },
+   {
+    "id": "s06.9",
+    "t": "li",
+    "text": "7. Definir población objetivo."
+   },
+   {
+    "id": "s06.10",
+    "t": "li",
+    "text": "8. Determinar lugar: en el puesto o fuera, en la empresa o fuera."
+   },
+   {
+    "id": "s06.11",
+    "t": "li",
+    "text": "9. Determinar época, periodicidad y horario oportuno."
+   },
+   {
+    "id": "s06.12",
+    "t": "li",
+    "text": "10. Calcular relación costo-beneficio."
+   },
+   {
+    "id": "s06.13",
+    "t": "li",
+    "text": "11. Controlar y evaluar resultados."
+   },
+   {
+    "id": "s06.14",
+    "t": "h",
+    "text": "Tecnología educativa: clasificación de técnicas"
+   },
+   {
+    "id": "s06.15",
+    "t": "table",
+    "rows": [
+     [
+      "**Criterio**",
+      "**Tipos y características**"
+     ],
+     [
+      "Uso",
+      "**Orientadas al contenido:** transmisión de conocimientos o información (lectura, audiovisuales, instrucción asistida por computador). **Orientadas al proceso:** cambiar actitudes, desarrollar conciencia y habilidades interpersonales (juego de roles, grupos). **Mixtas:** información y cambio de actitudes y comportamientos (conferencias, casos, simulaciones)."
+     ],
+     [
+      "Tiempo",
+      "**Inducción o integración:** adaptación y ambientación inicial mediante socialización. **Después del ingreso:** en el lugar de trabajo o fuera de él."
+     ],
+     [
+      "Lugar",
+      "**En el lugar de trabajo (on the job):** empleados, supervisores o especialistas de staff; no requiere equipos o acondicionamiento especiales. **Fuera del lugar de trabajo:** generalmente complementario y sin relación directa con el trabajo."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s06.16",
+    "t": "p",
+    "text": "Fuera del lugar de trabajo se utilizan aulas de exposición; películas, diapositivas y videos; estudio de casos; discusión en grupo, paneles y debates; dramatización (role-playing); simulación y juegos; instrucción programada."
+   },
+   {
+    "id": "s06.17",
+    "t": "h",
+    "text": "Ejecución del entrenamiento"
+   },
+   {
+    "id": "s06.18",
+    "t": "p",
+    "text": "Presupone el **binomio instructor-aprendiz**. Los aprendices necesitan aprender o mejorar conocimientos; los instructores son expertos que los transmiten. Ambos pueden estar en cualquier nivel jerárquico."
+   },
+   {
+    "id": "s06.19",
+    "t": "p",
+    "text": "Factores: adecuación del programa a las necesidades de la organización; calidad del material; cooperación y apoyo de jefes y dirigentes; calidad y preparación de instructores; calidad y selección adecuada de aprendices, según programa y objetivos."
+   },
+   {
+    "id": "s06.20",
+    "t": "h",
+    "text": "Evaluación de resultados"
+   },
+   {
+    "id": "s06.21",
+    "t": "p",
+    "text": "Debe determinar si se produjeron las **modificaciones deseadas en el comportamiento**, si los resultados contribuyen a las **metas de la empresa** y si las técnicas empleadas son efectivas."
+   },
+   {
+    "id": "s06.22",
+    "t": "li",
+    "text": "**Nivel organizacional:** eficacia, imagen y clima organizacional."
+   },
+   {
+    "id": "s06.23",
+    "t": "li",
+    "text": "**Nivel de RRHH:** menor rotación y ausentismo; mayor eficiencia individual, habilidades y conocimientos; cambio de actitudes."
+   },
+   {
+    "id": "s06.24",
+    "t": "li",
+    "text": "**Nivel de tareas y operaciones:** productividad, calidad, atención al cliente y reducción de accidentes."
+   }
+  ]
+ },
+ {
+  "id": "s07",
+  "unit": "u4",
+  "title": "Desarrollo Organizacional (DO)",
+  "page": 12,
+  "orig": "páginas 14-17",
+  "blocks": [
+   {
+    "id": "s07.1",
+    "t": "p",
+    "text": "El término **desarrollo** se aplica cuando el cambio es intencional y se proyecta con anticipación. El entrenamiento y desarrollo de personal tienen una noción microscópica e individual; el **DO tiene una noción macroscópica y sistémica**."
+   },
+   {
+    "id": "s07.2",
+    "t": "p",
+    "text": "El DO se basa en las ciencias del comportamiento, estudia la organización como sistema total y busca mejorar su eficacia a largo plazo mediante intervenciones constructivas en procesos y estructura. Es una **actividad de cambio planeado** y un programa educativo a largo plazo para mejorar la solución de problemas y la renovación de la organización, mediante colaboración y efectividad de su cultura."
+   },
+   {
+    "id": "s07.3",
+    "t": "p",
+    "text": "**Elementos:** orientación a largo plazo; esfuerzos para aumentar la eficacia de toda la organización; diagnóstico e intervención conjuntos entre gerentes de línea y consultor."
+   },
+   {
+    "id": "s07.4",
+    "t": "p",
+    "text": "**Condiciones para su surgimiento:** transformación del ambiente; aumento del tamaño organizacional; diversificación y complejidad tecnológica; cambios en los conceptos de hombre, poder y valores organizacionales."
+   },
+   {
+    "id": "s07.5",
+    "t": "p",
+    "text": "Busca el funcionamiento adecuado de toda la organización mediante el desempeño eficaz de sus componentes en un clima de satisfacción. Potencia a las personas como individuos, miembros de equipos y de la organización. Los cambios deben ser planeados, sistémicos y partir de un autodiagnóstico."
+   },
+   {
+    "id": "s07.6",
+    "t": "h",
+    "text": "Cultura, cambio y adaptación"
+   },
+   {
+    "id": "s07.7",
+    "t": "p",
+    "text": "La **cultura organizacional** expresa un modo de vida, creencias, expectativas, valores y formas de interacción y relación. Influye en el clima organizacional. Cambiar la organización implica transformar su cultura."
+   },
+   {
+    "id": "s07.8",
+    "t": "p",
+    "text": "El cambio comienza por fuerzas **exógenas** (ambiente: nuevas tecnologías, valores de la sociedad, oportunidades o limitaciones) o **endógenas** (interacción de participantes y tensiones por diferencias de objetivos e intereses)."
+   }
+  ]
+ },
+ {
+  "id": "s08",
+  "unit": "u4",
+  "title": "Desarrollo Organizacional: cambio y características",
+  "page": 13,
+  "orig": "página 16",
+  "blocks": [
+   {
+    "id": "s08.1",
+    "t": "p",
+    "text": "Individuo, grupo, organización y comunidad deben adaptarse, ajustarse y reorganizarse. El cambio no debe ser aleatorio, sino planeado. Se distinguen cuatro clases:"
+   },
+   {
+    "id": "s08.2",
+    "t": "li",
+    "text": "**Estructurales:** afectan órganos, divisiones y departamentos: creación, eliminación, fusión o subcontratación."
+   },
+   {
+    "id": "s08.3",
+    "t": "li",
+    "text": "**Tecnológicos:** afectan máquinas, equipos, instalaciones y procesos; modifican cómo se ejecutan tareas, se fabrican productos y se prestan servicios."
+   },
+   {
+    "id": "s08.4",
+    "t": "li",
+    "text": "**De productos o servicios:** afectan los resultados o las salidas de la organización."
+   },
+   {
+    "id": "s08.5",
+    "t": "li",
+    "text": "**Culturales:** afectan a las personas: comportamientos, actitudes, expectativas, aspiraciones y necesidades."
+   },
+   {
+    "id": "s08.6",
+    "t": "p",
+    "text": "Los cambios se afectan entre sí, producen un efecto multiplicador y pueden darse en distintas dimensiones y velocidades."
+   },
+   {
+    "id": "s08.7",
+    "t": "h",
+    "text": "Características del DO"
+   },
+   {
+    "id": "s08.8",
+    "t": "li",
+    "text": "**1. Focalización en toda la organización:** considera la organización como un todo para que el cambio sea efectivo."
+   },
+   {
+    "id": "s08.9",
+    "t": "li",
+    "text": "**2. Orientación sistémica:** prioriza el funcionamiento conjunto: todas las partes deben trabajar coordinadamente y con eficacia, más allá de su desempeño individual."
+   },
+   {
+    "id": "s08.10",
+    "t": "li",
+    "text": "**3. Agente de cambio:** utiliza personas que estimulan y coordinan el cambio dentro de un grupo o de toda la organización."
+   },
+   {
+    "id": "s08.11",
+    "t": "li",
+    "text": "**4. Solución de problemas:** se concentra en problemas reales y utiliza la investigación-acción para abordarlos."
+   },
+   {
+    "id": "s08.12",
+    "t": "li",
+    "text": "**5. Aprendizaje experimental:** los participantes resuelven, en el ambiente de entrenamiento, problemas que enfrentarán en el trabajo; luego discuten la experiencia y aprenden de ella."
+   },
+   {
+    "id": "s08.13",
+    "t": "li",
+    "text": "**6. Procesos grupales:** emplea discusiones, debates y otras actividades de grupo para trabajar los problemas y el cambio."
+   },
+   {
+    "id": "s08.14",
+    "t": "li",
+    "text": "**7. Retroalimentación:** brinda información a los participantes sobre el proceso y los resultados para revisar su actuación."
+   },
+   {
+    "id": "s08.15",
+    "t": "li",
+    "text": "**8. Orientación situacional:** es flexible: adapta las acciones a las necesidades específicas de la situación."
+   },
+   {
+    "id": "s08.16",
+    "t": "li",
+    "text": "**9. Desarrollo de equipos:** busca construir mejores equipos mediante integración y cooperación, y ayuda a superar diferencias individuales o grupales."
+   }
+  ]
+ },
+ {
+  "id": "s09",
+  "unit": "u4",
+  "title": "Proceso y objetivos del Desarrollo Organizacional",
+  "page": 14,
+  "orig": "páginas 16-17",
+  "blocks": [
+   {
+    "id": "s09.1",
+    "t": "h",
+    "text": "Proceso del DO"
+   },
+   {
+    "id": "s09.2",
+    "t": "li",
+    "text": "**1. Recolección y análisis de datos:** determinar los datos y métodos necesarios para describir el sistema organizacional, las relaciones entre sus elementos o subsistemas y sus problemas."
+   },
+   {
+    "id": "s09.3",
+    "t": "li",
+    "text": "**2. Diagnóstico organizacional:** interpretar los datos, identificar problemas y consecuencias, establecer prioridades, metas y objetivos, y examinar estrategias y planes para implementarlas."
+   },
+   {
+    "id": "s09.4",
+    "t": "li",
+    "text": "**3. Acción de intervención:** seleccionar e implementar la intervención apropiada para el problema. No es la fase final: el DO es un proceso continuo."
+   },
+   {
+    "id": "s09.5",
+    "t": "li",
+    "text": "**4. Evaluación:** funciona como circuito cerrado; sus resultados permiten modificar el diagnóstico y orientar nuevas acciones."
+   },
+   {
+    "id": "s09.6",
+    "t": "h",
+    "text": "Objetivos del DO"
+   },
+   {
+    "id": "s09.7",
+    "t": "li",
+    "text": "1. Aumentar la confianza y el apoyo entre los miembros de la organización."
+   },
+   {
+    "id": "s09.8",
+    "t": "li",
+    "text": "2. Confrontar los problemas empresariales dentro de los grupos y entre ellos, sin ocultarlos."
+   },
+   {
+    "id": "s09.9",
+    "t": "li",
+    "text": "3. Complementar la autoridad del cargo con la autoridad basada en el conocimiento y la habilidad social."
+   },
+   {
+    "id": "s09.10",
+    "t": "li",
+    "text": "4. Abrir las comunicaciones verticales, laterales y diagonales."
+   },
+   {
+    "id": "s09.11",
+    "t": "li",
+    "text": "5. Aumentar el entusiasmo y la satisfacción personal en la empresa."
+   },
+   {
+    "id": "s09.12",
+    "t": "li",
+    "text": "6. Buscar soluciones sinérgicas a los problemas."
+   },
+   {
+    "id": "s09.13",
+    "t": "li",
+    "text": "7. Aumentar la responsabilidad individual y grupal en la planeación y la implementación."
+   }
+  ]
+ },
+ {
+  "id": "s10",
+  "unit": "u4",
+  "title": "Subsistema de Mantenimiento y Plan de Carrera",
+  "page": 15,
+  "orig": "páginas 18-20",
+  "blocks": [
+   {
+    "id": "s10.1",
+    "t": "p",
+    "text": "Su finalidad es **retener al empleado adecuado**, mantenerlo satisfecho y motivado e inducirlo a permanecer en la organización y sentirla propia. Comprende cuatro dimensiones:"
+   },
+   {
+    "id": "s10.2",
+    "t": "li",
+    "text": "**Plan de carrera:** cargos y funciones a lo largo de la vida laboral; desempeño individual profesional."
+   },
+   {
+    "id": "s10.3",
+    "t": "li",
+    "text": "**Administración de las compensaciones:** salarios, investigación y política salarial, beneficios sociales y remuneración variable."
+   },
+   {
+    "id": "s10.4",
+    "t": "li",
+    "text": "**Higiene y seguridad:** condiciones físicas y ambientales."
+   },
+   {
+    "id": "s10.5",
+    "t": "li",
+    "text": "**Relaciones laborales:** normas y procedimientos de las relaciones con el personal y los sindicatos."
+   },
+   {
+    "id": "s10.6",
+    "t": "h",
+    "text": "Plan de carrera"
+   },
+   {
+    "id": "s10.7",
+    "t": "p",
+    "text": "Es la **sucesión organizada de puestos concatenados** que delinean el avance de una posición dentro de la estructura de la organización."
+   },
+   {
+    "id": "s10.8",
+    "t": "p",
+    "text": "**Objetivos:** organizar sucesiones y reemplazos; equilibrar desajustes entre necesidades de la organización y habilidades y conocimientos de los empleados; disminuir el impacto del cambio, las presiones y problemas del trabajo; equilibrar las necesidades de desarrollo organizacionales e individuales."
+   },
+   {
+    "id": "s10.9",
+    "t": "p",
+    "text": "**Elaboración:** analizar competencias requeridas por los puestos; determinar el avance entre puestos relacionados; determinar talento existente y potencial para ocuparlos."
+   },
+   {
+    "id": "s10.10",
+    "t": "h",
+    "text": "Movimientos de personal"
+   },
+   {
+    "id": "s10.11",
+    "t": "li",
+    "text": "**Ascendentes:** subir un peldaño en la estructura; funciones superiores en la misma área (ascensos y promociones) o en otra área."
+   },
+   {
+    "id": "s10.12",
+    "t": "li",
+    "text": "**Descendentes:** bajar un peldaño; funciones inferiores en la misma área o en otra. Deben asegurar que no se afecten salario y condiciones adquiridas. El apunte señala que algunas legislaciones los consideran temporales y que, en el ámbito público de nuestra legislación, no existen."
+   },
+   {
+    "id": "s10.13",
+    "t": "li",
+    "text": "**Laterales:** cambio de tareas o lugar de trabajo en el mismo nivel o categoría; rotación de puestos y traslado. El **traslado** exige cambio de residencia y es definitivo; el **desplazamiento** es temporal, con período límite (el apunte indica hasta un año)."
+   },
+   {
+    "id": "s10.14",
+    "t": "li",
+    "text": "**Separación:** desvinculación definitiva por renuncia o despido."
+   }
+  ]
+ },
+ {
+  "id": "s11",
+  "unit": "u4",
+  "title": "Recompensas, inequidad y productividad",
+  "page": 17,
+  "orig": "páginas 20-22",
+  "blocks": [
+   {
+    "id": "s11.1",
+    "t": "p",
+    "text": "La organización utiliza **recompensas** (incentivos que estimulan comportamientos) y **castigos** (sanciones o penas que los impiden) para mantener estándares de operación. Las recompensas incluyen salarios, vacaciones, ascensos, estabilidad, transferencias desafiantes y reconocimiento. Los castigos incluyen avisos verbales o escritos, suspensiones y desvinculaciones."
+   },
+   {
+    "id": "s11.2",
+    "t": "h",
+    "text": "Tipos de recompensas"
+   },
+   {
+    "id": "s11.3",
+    "t": "li",
+    "text": "1. Vinculadas a objetivos de realización empresarial, como ganancia o pérdida, principalmente para directivos."
+   },
+   {
+    "id": "s11.4",
+    "t": "li",
+    "text": "2. Por tiempo de servicio, automáticas en ciertos intervalos si el desempeño no fue insatisfactorio; buscan mantener el equilibrio salarial."
+   },
+   {
+    "id": "s11.5",
+    "t": "li",
+    "text": "3. Por desempeño excepcional de una pequeña proporción de individuos."
+   },
+   {
+    "id": "s11.6",
+    "t": "li",
+    "text": "4. Por resultados departamentales, divisionales o globales objetivamente cuantificables."
+   },
+   {
+    "id": "s11.7",
+    "t": "p",
+    "text": "La organización realiza actividades de **alcance de objetivos**, mantenimiento del sistema interno y adaptación al ambiente externo. Las cuatro recompensas anteriores se relacionan con el alcance de objetivos."
+   },
+   {
+    "id": "s11.8",
+    "t": "p",
+    "text": "La recompensa o incentivo es una gratificación tangible o intangible que lleva a la **decisión de participar** (hacerse miembro) y a la **decisión de producir** (contribuir con tiempo, esfuerzo y recursos). Primero la organización ofrece y la persona decide participar; luego la persona contribuye y la organización decide mantenerla. Es fundamental el **equilibrio incentivos/contribuciones**."
+   },
+   {
+    "id": "s11.9",
+    "t": "h",
+    "text": "Teoría de la inequidad"
+   },
+   {
+    "id": "s11.10",
+    "t": "p",
+    "text": "Cada persona compara sus contribuciones y retribuciones con las de los demás:"
+   },
+   {
+    "id": "s11.11",
+    "t": "p",
+    "text": "La equivalencia produce **equidad y satisfacción**. La inequidad produce injusticia e insatisfacción: desmotivación si se recibe menos o culpa si se recibe más. El empleado tiende a reducir el desequilibrio modificando sus contribuciones."
+   },
+   {
+    "id": "s11.12",
+    "t": "h",
+    "text": "Compensación y productividad"
+   },
+   {
+    "id": "s11.13",
+    "t": "p",
+    "text": "El dinero puede motivar si el empleado percibe el aumento como consecuencia de su esfuerzo y productividad."
+   },
+   {
+    "id": "s11.14",
+    "t": "p",
+    "text": "**Lapso de arbitrio (Jaques):** período máximo durante el cual el subordinado puede realizar el trabajo con iniciativa propia sin evaluación del superior. Cuantifica la responsabilidad y se relaciona con la importancia de la tarea y el nivel jerárquico. Tareas con el mismo lapso de arbitrio deben tener igual retribución salarial."
+   },
+   {
+    "id": "s11.15",
+    "t": "p",
+    "text": "La **productividad es un efecto, no una causa**, de la administración de recursos. Es la relación mensurable entre producto obtenido y recursos empleados. La productividad del trabajo humano es el cociente entre producción y tiempo empleado."
+   }
+  ]
+ },
+ {
+  "id": "s12",
+  "unit": "u4",
+  "title": "Administración de las compensaciones y salario",
+  "page": 17,
+  "orig": "páginas 22-24",
+  "blocks": [
+   {
+    "id": "s12.1",
+    "t": "p",
+    "text": "La **compensación** es la remuneración recibida como retorno por tareas, servicios o trabajo; comprende el sistema de incentivos y recompensas de la organización."
+   },
+   {
+    "id": "s12.2",
+    "t": "p",
+    "text": "El esquema presentado para nuestro país comprende **remuneración fija** (salario básico), **beneficios sociales nominales** y **compensación variable** (sujeta a metas). El apunte destaca tres principios: inelasticidad a la baja, igual tarea–igual remuneración y variantes de pago alternativas al salario."
+   },
+   {
+    "id": "s12.3",
+    "t": "callout",
+    "text": "**Compensación total = Remuneración (salario directo + salario indirecto) + recompensas no financieras.**"
+   },
+   {
+    "id": "s12.5",
+    "t": "table",
+    "rows": [
+     [
+      "**Concepto**",
+      "**Definición y distinción**"
+     ],
+     [
+      "Compensación financiera directa",
+      "Salarios, bonos, premios y comisiones. El salario directo es la contraprestación por el servicio en el cargo ocupado."
+     ],
+     [
+      "Compensación financiera indirecta",
+      "Salario indirecto derivado de convenciones colectivas y planes de beneficios y servicios sociales: vacaciones, gratificaciones, propinas, adicionales, etc. DSR: descanso semanal remunerado."
+     ],
+     [
+      "Remuneración",
+      "Suma del salario directo y del salario indirecto."
+     ],
+     [
+      "Recompensas no financieras",
+      "Prestigio, autoestima, reconocimiento y estabilidad en el empleo."
+     ],
+     [
+      "Salario nominal",
+      "Volumen de dinero asignado en el contrato por el cargo. Pierde poder adquisitivo con inflación si no se actualiza."
+     ],
+     [
+      "Salario real",
+      "Cantidad de bienes que puede adquirirse con ese dinero."
+     ],
+     [
+      "Reajuste salarial",
+      "Reconstitución del salario real."
+     ],
+     [
+      "Aumento del salario",
+      "Incremento del salario real."
+     ],
+     [
+      "Salario bruto",
+      "Total antes de descuentos: básico + otros componentes remunerativos o adicionales."
+     ],
+     [
+      "Salario neto",
+      "Bruto − deducciones obligatorias, como jubilación y obra social."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s12.6",
+    "t": "p",
+    "text": "Para la organización, el salario es **costo** (forma parte del producto o servicio final) e **inversión** (dinero en trabajo para obtener un retorno mayor)."
+   },
+   {
+    "id": "s12.7",
+    "t": "h",
+    "text": "Compuesto salarial"
+   },
+   {
+    "id": "s12.8",
+    "t": "p",
+    "text": "Es el conjunto de factores internos y externos que condicionan y determinan los salarios."
+   },
+   {
+    "id": "s12.9",
+    "t": "li",
+    "text": "**Internos:** tipología de cargos, política salarial, capacidad financiera y desempeño general, competitividad de la organización."
+   },
+   {
+    "id": "s12.10",
+    "t": "li",
+    "text": "**Externos:** mercado de trabajo, coyuntura económica, sindicatos y negociaciones colectivas, legislación laboral, mercado de clientes y competencia."
+   }
+  ]
+ },
+ {
+  "id": "s13",
+  "unit": "u4",
+  "title": "Administración de salarios y evaluación de cargos",
+  "page": 19,
+  "orig": "páginas 24-27",
+  "blocks": [
+   {
+    "id": "s13.1",
+    "t": "p",
+    "text": "La administración de salarios reúne normas y procedimientos para establecer y mantener **estructuras salariales equitativas y justas**. Un sistema de remuneración comprende:"
+   },
+   {
+    "id": "s13.2",
+    "t": "li",
+    "text": "1. Medir la contribución del puesto: **equilibrio interno**, mediante evaluación y clasificación de cargos, basadas en análisis y descripción."
+   },
+   {
+    "id": "s13.3",
+    "t": "li",
+    "text": "2. Comparar con el mercado laboral: **equilibrio externo**, mediante investigación salarial."
+   },
+   {
+    "id": "s13.4",
+    "t": "li",
+    "text": "3. Vincular remuneraciones con personas: **franjas salariales** para reconocer contribuciones diferentes."
+   },
+   {
+    "id": "s13.5",
+    "t": "p",
+    "text": "Con esa información se establece la política salarial."
+   },
+   {
+    "id": "s13.6",
+    "t": "h",
+    "text": "Evaluación del cargo"
+   },
+   {
+    "id": "s13.7",
+    "t": "p",
+    "text": "Mide la **importancia relativa de los puestos**, sobre la base de los puestos y no de quienes los ocupan. Considera **carga de tareas** (dimensión cuantitativa) e **impacto en los resultados globales** (dimensión cualitativa). Las diferencias de remuneración deben fundarse en distintas contribuciones: equidad, más que igualdad."
+   },
+   {
+    "id": "s13.8",
+    "t": "p",
+    "text": "La evaluación analiza y compara cargos para jerarquizarlos y determinar su valor relativo, como base del sistema de remuneración. Todos los métodos son comparativos; parten de información obtenida mediante el **análisis de cargos**."
+   },
+   {
+    "id": "s13.9",
+    "t": "table",
+    "rows": [
+     [
+      "**Base de comparación**",
+      "**Cargo como un todo: métodos no analíticos**",
+      "**Partes del cargo o factores: métodos analíticos**"
+     ],
+     [
+      "Cargo versus cargo",
+      "Jerarquización de cargos.",
+      "Comparación por factores."
+     ],
+     [
+      "Cargo versus escala o criterio",
+      "Categorías predeterminadas.",
+      "Evaluación por puntos."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s13.10",
+    "t": "h",
+    "text": "Comité de evaluación de cargos"
+   },
+   {
+    "id": "s13.11",
+    "t": "p",
+    "text": "La evaluación es una recomendación del **staff**, aprobada por **línea y dirección**. El comité incluye responsables de salarios, analistas, directores, gerentes y jefes involucrados."
+   },
+   {
+    "id": "s13.12",
+    "t": "li",
+    "text": "**Objetivo técnico:** participación de quienes conocen los cargos."
+   },
+   {
+    "id": "s13.13",
+    "t": "li",
+    "text": "**Objetivo político:** aceptación de las evaluaciones por las distintas áreas."
+   },
+   {
+    "id": "s13.14",
+    "t": "li",
+    "text": "**Miembros permanentes:** gerente de RRHH y responsable de salarios."
+   },
+   {
+    "id": "s13.15",
+    "t": "li",
+    "text": "**Miembros provisionales:** quienes opinan sobre cargos bajo su supervisión."
+   },
+   {
+    "id": "s13.16",
+    "t": "h",
+    "text": "Clasificación de cargos"
+   },
+   {
+    "id": "s13.17",
+    "t": "p",
+    "text": "Agrupa cargos en clases para facilitar administración salarial y tratamiento genérico de salarios y beneficios. La jerarquización y las categorías predeterminadas clasifican automáticamente; los puntos permiten clases por intervalos de puntos."
+   }
+  ]
+ },
+ {
+  "id": "s14",
+  "unit": "u4",
+  "title": "Investigación salarial y franjas salariales",
+  "page": 22,
+  "orig": "páginas 27-29",
+  "blocks": [
+   {
+    "id": "s14.1",
+    "t": "p",
+    "text": "La comparación con el mercado busca el **equilibrio externo**. Salarios demasiado altos elevan costos y precios; demasiado bajos dificultan proveerse y mantener personal. El material indica respetar el salario mínimo y los básicos del convenio colectivo."
+   },
+   {
+    "id": "s14.2",
+    "t": "p",
+    "text": "La empresa puede utilizar investigaciones en las que haya participado, investigaciones de empresas especializadas o realizar la propia. Debe definir **cargos de referencia, empresas participantes y período o periodicidad**."
+   },
+   {
+    "id": "s14.3",
+    "t": "li",
+    "text": "**Cargos de referencia:** representativos de distintos puntos de la curva salarial, identificables en el mercado y representativos de sectores de actividad."
+   },
+   {
+    "id": "s14.4",
+    "t": "li",
+    "text": "**Empresas participantes:** selección por localización geográfica, sector industrial, tamaño y política salarial; pueden combinarse criterios."
+   },
+   {
+    "id": "s14.5",
+    "t": "li",
+    "text": "**Datos:** salarios, política salarial, beneficios y comportamiento organizacional."
+   },
+   {
+    "id": "s14.6",
+    "t": "li",
+    "text": "**Recolección:** cuestionarios, visitas y entrevistas, reuniones de especialistas o asociaciones, cartas y llamadas telefónicas."
+   },
+   {
+    "id": "s14.7",
+    "t": "li",
+    "text": "**Tabulación y tratamiento:** procesar estadísticamente, comparar con salarios propios y determinar correcciones. Los resultados se comparten con participantes, respetando confidencialidad."
+   },
+   {
+    "id": "s14.8",
+    "t": "h",
+    "text": "Vincular las remuneraciones con las personas"
+   },
+   {
+    "id": "s14.9",
+    "t": "p",
+    "text": "El puesto se incluye en una categoría con **franja salarial: límite inferior y superior**. Permite reconocer diferencias de desempeño sin arriesgar el esquema salarial. Por lo general, el ingreso se fija en el límite inferior y los aumentos individuales permiten avanzar hasta el superior cuando el desempeño lo justifica."
+   }
+  ]
+ },
+ {
+  "id": "s15",
+  "unit": "u4",
+  "title": "Política salarial y remuneración variable",
+  "page": 22,
+  "orig": "páginas 29-32",
+  "blocks": [
+   {
+    "id": "s15.1",
+    "t": "p",
+    "text": "La **política salarial** es el conjunto de principios y directrices que refleja la orientación y filosofía de la organización sobre remuneración. **No es estática.**"
+   },
+   {
+    "id": "s15.2",
+    "t": "p",
+    "text": "Debe contener estructura de cargos y salarios, clases y franjas; salarios de admisión; previsión de reajustes legales o espontáneos. El texto de Chiavenato ubica la admisión en el límite inferior de la clase y contempla un valor menor si no se cumplen todos los requisitos del cargo."
+   },
+   {
+    "id": "s15.3",
+    "t": "li",
+    "text": "**Reajustes colectivos o por costo de vida:** restablecen el valor real ante cambios económicos."
+   },
+   {
+    "id": "s15.4",
+    "t": "li",
+    "text": "**Reajustes individuales:** por **promoción**, **adecuación** al mercado o **méritos** por desempeño superior al normal."
+   },
+   {
+    "id": "s15.5",
+    "t": "h",
+    "text": "Siete criterios de una política eficaz"
+   },
+   {
+    "id": "s15.6",
+    "t": "p",
+    "text": "**Adecuada:** la compensación debe distanciarse de los estándares mínimos del gobierno y del sindicato. **Equitativa:** proporcional a esfuerzo, habilidades y entrenamiento. **Balanceada:** paquete razonable de salarios, beneficios y recompensas. **Eficaz en costos:** compatible con lo que puede pagar la organización. **Segura:** cubre necesidades básicas. **Estimulante:** motiva trabajo productivo. **Aceptable:** comprendida y percibida como razonable por empleados y empresa."
+   },
+   {
+    "id": "s15.7",
+    "t": "h",
+    "text": "Remuneración variable"
+   },
+   {
+    "id": "s15.8",
+    "t": "p",
+    "text": "Es la porción de remuneración total pagada con periodicidad trimestral, semestral o anual, selectiva y dependiente de los resultados de la empresa, área, departamento o cargo, mediante trabajo individual o en equipo. El ingreso puede generarse o no y variar según el grado de logro de las metas."
+   },
+   {
+    "id": "s15.9",
+    "t": "li",
+    "text": "**Estándar de desempeño:** nivel normal o esperable."
+   },
+   {
+    "id": "s15.10",
+    "t": "li",
+    "text": "**Umbral de desempeño:** nivel mínimo para calificar a un pago variable. Quien lo alcanza o excede obtiene un mayor ingreso."
+   },
+   {
+    "id": "s15.11",
+    "t": "li",
+    "text": "Ambos deben basarse en descripción y análisis del cargo y en resultados que dependan del esfuerzo del empleado."
+   },
+   {
+    "id": "s15.12",
+    "t": "li",
+    "text": "Metas, tiempo y monto se fijan previamente y son conocidos por los involucrados."
+   },
+   {
+    "id": "s15.13",
+    "t": "p",
+    "text": "Requiere **estructura de cargos y salarios**, compromiso sostenido y flexibilidad ante cambios en las metas. Se autofinancia con productividad y reducción de costos. Cuatro aspectos básicos: planeación estratégica orientada a **APO**; proceso sencillo con cuantificación objetiva; flexibilidad; transparencia en los criterios de premiación."
+   },
+   {
+    "id": "s15.14",
+    "t": "table",
+    "rows": [
+     [
+      "**Concepto**",
+      "**Condición y finalidad**",
+      "**Forma**",
+      "**Presupuesto y discrecionalidad**"
+     ],
+     [
+      "Incentivo",
+      "Mantener o lograr una conducta; condición predeterminada.",
+      "Dinerario o no dinerario; corto o largo plazo.",
+      "Presupuestado o autofinanciado. **No discrecional:** quien cumple tiene derecho."
+     ],
+     [
+      "Bono",
+      "Compensación variable por una tarea específica cumplida.",
+      "Siempre dinerario, en cantidad determinada.",
+      "Presupuestado. **No discrecional.**"
+     ],
+     [
+      "Reconocimiento o premio",
+      "Estimular comportamientos y reconocer esfuerzo personal o grupal; se otorga después del hecho.",
+      "Dinerario o no dinerario.",
+      "Presupuestado. **Discrecional:** el jefe elige a quién otorgarlo."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s15.16",
+    "t": "p",
+    "text": "Ejemplos del apunte: incentivo del 10% del básico por alcanzar 85 puntos en evaluación de 360°; estadía turística como incentivo no monetario; bono de $X por implementar procesos bajo ISO 27000; un equipo iPhone como premio por gestión destacada."
+   }
+  ]
+ },
+ {
+  "id": "s16",
+  "unit": "u4",
+  "title": "Planes de beneficios sociales",
+  "page": 24,
+  "orig": "páginas 32-36",
+  "blocks": [
+   {
+    "id": "s16.1",
+    "t": "p",
+    "text": "Son facilidades, comodidades, ventajas y servicios que la empresa ofrece para ahorrar esfuerzos y preocupaciones. Constituyen **remuneración indirecta**, generalmente común a los empleados, aunque puede haber planes distintos por nivel."
+   },
+   {
+    "id": "s16.2",
+    "t": "p",
+    "text": "**Beneficios sociales:** derechos por pertenecer a la organización, sin ligarse a una meta o resultado. **Remuneración variable:** depende de metas y resultados."
+   },
+   {
+    "id": "s16.3",
+    "t": "p",
+    "text": "**Orígenes:** actitud del empleado; exigencias sindicales; legislación laboral y seguridad social; competencia por RRHH; controles salariales indirectos del mercado; impuestos y deducciones de obligaciones tributarias."
+   },
+   {
+    "id": "s16.4",
+    "t": "p",
+    "text": "Auxilian en tres áreas: **ejercicio del cargo** (bonificaciones, seguro de vida); **fuera del cargo, dentro de la empresa** (descanso, refrigerio, restaurante, transporte); **fuera de la empresa, en la comunidad** (recreación y actividades comunitarias)."
+   },
+   {
+    "id": "s16.5",
+    "t": "h",
+    "text": "Clasificación"
+   },
+   {
+    "id": "s16.6",
+    "t": "table",
+    "rows": [
+     [
+      "**Criterio**",
+      "**Tipos**"
+     ],
+     [
+      "Exigencia legal",
+      "**Legales:** vacaciones, pensión, seguro de accidentes, salario por maternidad. **Voluntarios:** bonificaciones, restaurante, transporte, préstamos, complementación de pensión."
+     ],
+     [
+      "Naturaleza",
+      "**Monetarios:** vacaciones, pensión, bonificaciones, préstamos. **No monetarios:** restaurante, transporte, asistencia médica, caja navideña."
+     ],
+     [
+      "Objetivos",
+      "**Asistenciales:** seguridad y previsión ante imprevistos o emergencias; asistencia médica, odontológica, préstamos, pensión, aguinaldo. **Recreativos:** descanso, diversión, higiene mental y ocio; clubes, cine, áreas de descanso, música. **Supletorios:** facilidades y comodidades para mejorar calidad de vida; transporte, restaurante, horario móvil, estacionamiento."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s16.7",
+    "t": "p",
+    "text": "Ejemplos: **revisión médica semestral** = no monetario, asistencial, voluntario; **sueldo anual complementario, licencias por enfermedad y vacaciones** = monetario, asistencial, legal; **tiempo para aseo** = no monetario, asistencial, voluntario; **asesoramiento financiero y legal** = no monetario, supletorio, voluntario."
+   },
+   {
+    "id": "s16.8",
+    "t": "h",
+    "text": "Planeamiento, principios y requisitos"
+   },
+   {
+    "id": "s16.9",
+    "t": "p",
+    "text": "Los **objetivos** son expectativas de la organización a corto y largo plazo; los **criterios** son factores que pesan en la ponderación del programa."
+   },
+   {
+    "id": "s16.10",
+    "t": "li",
+    "text": "**Retorno de la inversión:** todo beneficio debe contribuir con un retorno que compense o reduzca costos."
+   },
+   {
+    "id": "s16.11",
+    "t": "li",
+    "text": "**Responsabilidad mutua:** organización y empleados comparten los costos."
+   },
+   {
+    "id": "s16.12",
+    "t": "li",
+    "text": "Deben responder a una necesidad real, orientarse a objetivos, evitar connotaciones paternalistas o elitistas, tener bases económico-financieras sustentables y planificarse en tiempo, dinero y administración."
+   },
+   {
+    "id": "s16.13",
+    "t": "li",
+    "text": "Requisitos: ser ventajosos a largo plazo, sustentables y planeados y costeados entre organización y empleados."
+   },
+   {
+    "id": "s16.14",
+    "t": "p",
+    "text": "**Objetivos básicos:** mejorar calidad de vida y clima organizacional; reducir rotación y ausentismo; facilitar atracción y mantenimiento de RRHH; aumentar productividad. Las ventajas pueden extenderse a la comunidad y no siempre son cuantificables; una mala planeación o administración produce disfunciones."
+   }
+  ]
+ },
+ {
+  "id": "s17",
+  "unit": "u4",
+  "title": "Higiene y seguridad en el trabajo",
+  "page": 26,
+  "orig": "páginas 36-38",
+  "blocks": [
+   {
+    "id": "s17.1",
+    "t": "p",
+    "text": "Preservan la fuerza laboral en lo físico y emocional y protegen frente a riesgos, condiciones insalubres y actos poco seguros."
+   },
+   {
+    "id": "s17.2",
+    "t": "p",
+    "text": "**Higiene:** normas y procedimientos para proteger la integridad física y mental frente a riesgos de salud del cargo y del ambiente. Se relaciona con diagnóstico y previsión de enfermedades ocupacionales: **salud y largo plazo**."
+   },
+   {
+    "id": "s17.3",
+    "t": "p",
+    "text": "Debe comprender plan organizado de servicios médicos, enfermería y primeros auxilios; servicios médicos adecuados; prevención de riesgos químicos, físicos y biológicos; servicios adicionales de salud, información, convenios y cobertura por enfermedad."
+   },
+   {
+    "id": "s17.4",
+    "t": "h",
+    "text": "Condiciones del trabajo"
+   },
+   {
+    "id": "s17.5",
+    "t": "li",
+    "text": "**Ambientales:** temperatura, ruido e iluminación. La higiene se ocupa de este grupo; sus elementos principales son iluminación, ruido y condiciones atmosféricas (temperatura y humedad)."
+   },
+   {
+    "id": "s17.6",
+    "t": "li",
+    "text": "**De tiempo:** jornada, horas extras y descansos."
+   },
+   {
+    "id": "s17.7",
+    "t": "li",
+    "text": "**Sociales:** organización informal y estatus."
+   },
+   {
+    "id": "s17.8",
+    "t": "p",
+    "text": "**Seguridad:** medidas técnicas, educativas, médicas y psicológicas para prevenir accidentes, eliminar condiciones inseguras e instruir sobre prácticas preventivas: **prevención de accidentes a corto plazo**. Es responsabilidad de línea y función de staff; debe alcanzar todas las áreas. Comprende prevención de **accidentes, robos e incendios**."
+   },
+   {
+    "id": "s17.9",
+    "t": "h",
+    "text": "Terminales y computadoras"
+   },
+   {
+    "id": "s17.10",
+    "t": "p",
+    "text": "El apunte presenta cuatro áreas de problemas: **dificultades visuales** (visión borrosa, dolor, deslumbramiento y ardor); **riesgos por radiación** (menciona problemas atribuidos a la exposición, pero aclara que se desconocen sus peligros); **dolores musculares** (espalda, cuello y hombros); **estrés** (postura, ruidos, capacitación insuficiente, sobrecarga y monotonía)."
+   },
+   {
+    "id": "s17.11",
+    "t": "p",
+    "text": "También presenta aplicaciones para prevenir y rehabilitar **RSI o lesiones por esfuerzo repetitivo (LER)**, con alertas de escritorio y recomendaciones de ejercicios."
+   }
+  ]
+ },
+ {
+  "id": "s18",
+  "unit": "u4",
+  "title": "Diagrama Subsistema de Desarrollo de RRHH",
+  "page": 28,
+  "orig": "página 39",
+  "blocks": []
+ },
+ {
+  "id": "s19",
+  "unit": "u5",
+  "title": "Unidad V",
+  "page": 29,
+  "orig": "",
+  "blocks": [
+   {
+    "id": "s19.1",
+    "t": "p",
+    "text": "La Administración de Recursos de SI/TI — Subsistema de Seguimiento"
+   }
+  ]
+ },
+ {
+  "id": "s20",
+  "unit": "u5",
+  "title": "ARH: responsabilidad, proceso y objetivos",
+  "page": 29,
+  "orig": "páginas 40-43",
+  "blocks": [
+   {
+    "id": "s20.1",
+    "t": "p",
+    "text": "La **ARH es contingencial**: depende de situación organizacional, ambiente, tecnología, políticas y directrices, filosofía administrativa, concepción del hombre y calidad y cantidad de RRHH. Si estos elementos cambian, cambia la forma de administrarlos."
+   },
+   {
+    "id": "s20.2",
+    "t": "p",
+    "text": "Es un medio para alcanzar eficacia y eficiencia a través del trabajo de las personas y establecer condiciones favorables para sus objetivos individuales. Consiste en **planear, organizar, desarrollar, coordinar y controlar** técnicas que promuevan el desempeño eficiente y permitan conquistar y mantener personas con actitud positiva."
+   },
+   {
+    "id": "s20.3",
+    "t": "h",
+    "text": "Responsabilidad de línea y función de staff"
+   },
+   {
+    "id": "s20.4",
+    "t": "li",
+    "text": "**Línea:** cada jefe administra a sus subordinados y decide sobre admisiones, ascensos, transferencias, desempeño, méritos, capacitación, retiros, disciplina y métodos de trabajo. Tiene autoridad para decidir, actuar y ordenar; responde por los objetivos del grupo. La unidad de mando exige no fraccionar su autoridad."
+   },
+   {
+    "id": "s20.5",
+    "t": "li",
+    "text": "**Staff de RRHH:** asesora, proporciona normas, datos, propuestas y recomendaciones, y presta servicios especializados de reclutamiento, selección, capacitación, análisis y evaluación de cargos. La asesoría se solicita, no se impone; RRHH no ordena al personal de línea, salvo en su propio departamento."
+   },
+   {
+    "id": "s20.6",
+    "t": "h",
+    "text": "ARH como proceso"
+   },
+   {
+    "id": "s20.7",
+    "t": "p",
+    "text": "**Soria:** provisión; aplicación; seguimiento; desarrollo y mantenimiento; seguridad y auditoría de SI."
+   },
+   {
+    "id": "s20.8",
+    "t": "p",
+    "text": "**Chiavenato:** provisión, aplicación, mantenimiento, desarrollo, seguimiento y control, con los objetivos y actividades del cuadro original:"
+   },
+   {
+    "id": "s20.9",
+    "t": "p",
+    "text": "Son subsistemas **interrelacionados, interdependientes, contingentes y situacionales**. No siguen un orden obligatorio ni una relación única. Un cambio afecta a los demás y genera ajustes, aunque no necesariamente en la misma dirección o medida."
+   },
+   {
+    "id": "s20.10",
+    "t": "h",
+    "text": "Objetivos de ARH"
+   },
+   {
+    "id": "s20.11",
+    "t": "li",
+    "text": "1. Crear, mantener y desarrollar personas con habilidades, motivación y satisfacción para alcanzar los objetivos organizacionales."
+   },
+   {
+    "id": "s20.12",
+    "t": "li",
+    "text": "2. Crear, mantener y desarrollar condiciones que permitan aplicación, desarrollo, satisfacción y logro de objetivos individuales."
+   },
+   {
+    "id": "s20.13",
+    "t": "li",
+    "text": "3. Alcanzar eficiencia y eficacia con los RRHH disponibles."
+   }
+  ]
+ },
+ {
+  "id": "s21",
+  "unit": "u5",
+  "title": "Subsistema de Seguimiento de Recursos Humanos",
+  "page": 30,
+  "orig": "páginas 43-45",
+  "blocks": [
+   {
+    "id": "s21.1",
+    "t": "p",
+    "text": "Comprende procesos, métodos y herramientas que permiten **evaluar la adecuación del desempeño/rendimiento de RRHH a las metas de funcionamiento** y determinar acciones de mejora."
+   },
+   {
+    "id": "s21.2",
+    "t": "p",
+    "text": "Recibe planes, objetivos, tiempos y proyectos del alineamiento y planificación; cargos ocupados de provisión; socialización, descripción de cargos y evaluación del desempeño de aplicación. Detecta desviaciones mediante **evaluación del desempeño y auditoría de la función de RRHH**."
+   },
+   {
+    "id": "s21.3",
+    "t": "p",
+    "text": "El **control** ajusta operaciones a estándares predeterminados, usando información de retorno. Garantiza lo previsto, señala fallas y errores, permite corregirlos y evita reincidencias. Incluye desempeño en tareas, cumplimiento de reglas y aspectos formales: horarios, ausencias y retrasos."
+   },
+   {
+    "id": "s21.4",
+    "t": "h",
+    "text": "Evaluación del desempeño"
+   },
+   {
+    "id": "s21.5",
+    "t": "p",
+    "text": "Califica la actuación pasada o presente de una persona o equipo con normas establecidas. Es una apreciación sistemática del desempeño en el cargo o del potencial de desarrollo futuro y permite localizar problemas. **No es un fin en sí misma:** obtiene datos para mejorar los resultados de RRHH. Es fundamental **comunicar el resultado al empleado**."
+   },
+   {
+    "id": "s21.6",
+    "t": "h",
+    "text": "Seis criterios de control"
+   },
+   {
+    "id": "s21.7",
+    "t": "li",
+    "text": "**Administrar por excepción:** atender lo que no se cumplió."
+   },
+   {
+    "id": "s21.8",
+    "t": "li",
+    "text": "**Controlar actividades apropiadas:** las que requieren control."
+   },
+   {
+    "id": "s21.9",
+    "t": "li",
+    "text": "**Oportunidad:** actuar en el momento adecuado para detectar desvíos y corregirlos."
+   },
+   {
+    "id": "s21.10",
+    "t": "li",
+    "text": "**Costo/beneficio favorable:** el control no debe costar más que el beneficio."
+   },
+   {
+    "id": "s21.11",
+    "t": "li",
+    "text": "**Precisión:** información objetiva, clara y precisa según lo que se necesita conocer."
+   },
+   {
+    "id": "s21.12",
+    "t": "li",
+    "text": "**Aceptación:** las personas deben comprender y aceptar objetivos y control; evolución hacia autocontrol."
+   },
+   {
+    "id": "s21.13",
+    "t": "h",
+    "text": "Medios de control"
+   },
+   {
+    "id": "s21.14",
+    "t": "p",
+    "text": "**Jerarquía de autoridad:** control personal. **Reglas y procedimientos:** controles impersonales. **Objetivos:** guían la acción. **SI verticales:** información ascendente (eventos, resultados y retroalimentación) y descendente (mandatos, decisiones y orientación). **Relaciones laterales:** comunicación entre pares para sincronizarse y reducir discrepancias. **Organizaciones matriciales:** doble subordinación que permite innovación, cambio y adaptación, aunque origine conflictos."
+   },
+   {
+    "id": "s21.15",
+    "t": "p",
+    "text": "Evolución gradual: del **control externo y rígido, restricciones y centralización** hacia **autocontrol y flexibilidad, autonomía y descentralización**."
+   }
+  ]
+ },
+ {
+  "id": "s22",
+  "unit": "u5",
+  "title": "Administración por excepción y proceso de control",
+  "page": 31,
+  "orig": "páginas 45-49",
+  "blocks": [
+   {
+    "id": "s22.1",
+    "t": "p",
+    "text": "Las variaciones pequeñas y sin distorsiones se aceptan como normales. Las variaciones grandes que producen tropiezos son **excepciones** y requieren corrección. El gerente debe concentrarse en lo excepcional, fuera de los estándares."
+   },
+   {
+    "id": "s22.2",
+    "t": "p",
+    "text": "El **principio de excepción (Taylor)** presenta información cuando los resultados se alejan demasiado de lo previsto."
+   },
+   {
+    "id": "s22.3",
+    "t": "h",
+    "text": "Cuatro etapas del control"
+   },
+   {
+    "id": "s22.4",
+    "t": "p",
+    "text": "El proceso es **cíclico y repetitivo**: establecimiento de estándares, seguimiento o monitoreo del desempeño, comparación con estándares y acción correctiva si es necesaria."
+   },
+   {
+    "id": "s22.5",
+    "t": "h",
+    "text": "1. Establecimiento de estándares"
+   },
+   {
+    "id": "s22.6",
+    "t": "p",
+    "text": "El **estándar** es norma, patrón o valor de referencia que define el rendimiento normal o deseado: lo que debe hacerse y lo que se acepta como resultado."
+   },
+   {
+    "id": "s22.7",
+    "t": "li",
+    "text": "**Cantidad:** empleados, producción, ventas, accidentes, rotación."
+   },
+   {
+    "id": "s22.8",
+    "t": "li",
+    "text": "**Calidad:** productos, servicios, asistencia técnica, mantenimiento."
+   },
+   {
+    "id": "s22.9",
+    "t": "li",
+    "text": "**Tiempo:** tiempo estándar, tiempo medio desde el hogar, horas hombre y ciclo de producción."
+   },
+   {
+    "id": "s22.10",
+    "t": "li",
+    "text": "**Costos:** orden de servicio, selección, entrenamiento y salario indirecto."
+   },
+   {
+    "id": "s22.11",
+    "t": "h",
+    "text": "2. Seguimiento o monitoreo del desempeño real"
+   },
+   {
+    "id": "s22.12",
+    "t": "p",
+    "text": "Acompaña y mide el desempeño; obtiene información precisa por observación o verificación. **Aquí interviene la evaluación del desempeño**. Puede realizarse mediante observaciones personales y reportes estadísticos, orales o escritos; sus ventajas y desventajas se conservan en el cuadro:"
+   },
+   {
+    "id": "s22.13",
+    "t": "h",
+    "text": "3. Comparación con estándares"
+   },
+   {
+    "id": "s22.14",
+    "t": "p",
+    "text": "La **tolerancia** establece límites de variación aceptables. Se compara desempeño real y estándar para detectar desvíos y saber si están dentro de esos límites. Ante desvíos significativos repetidos, se revisa si el estándar es aceptable y, de serlo, se investigan las causas."
+   },
+   {
+    "id": "s22.15",
+    "t": "p",
+    "text": "Los **umbrales de desempeño** superan el límite superior y se vinculan con recompensas."
+   },
+   {
+    "id": "s22.16",
+    "t": "h",
+    "text": "4. Acción correctiva"
+   },
+   {
+    "id": "s22.17",
+    "t": "p",
+    "text": "Corrige variaciones, errores o desviaciones para normalizar operaciones; incide sobre casos excepcionales. Según el resultado de la comparación, puede corresponder no hacer nada, corregir el desempeño o revisar el estándar."
+   }
+  ]
+ },
+ {
+  "id": "s23",
+  "unit": "u5",
+  "title": "Técnicas de evaluación e implicancias del seguimiento",
+  "page": 35,
+  "orig": "páginas 49-51",
+  "blocks": [
+   {
+    "id": "s23.1",
+    "t": "table",
+    "rows": [
+     [
+      "**Técnica**",
+      "**Características**",
+      "**Ventajas**",
+      "**Desventajas**"
+     ],
+     [
+      "APO",
+      "Metas acordadas entre ambas partes; retroalimentación intensiva y medición conjunta continua.",
+      "Democrática, participativa, involucradora y motivadora; aumenta la moral.",
+      "Represión sobre subordinados, papeleo y seguimiento rígido de objetivos que podrían desecharse."
+     ],
+     [
+      "360°",
+      "Evalúa el desempeño con aportes de personas de su entorno, incluidos pares y clientes.",
+      "—",
+      "—"
+     ],
+     [
+      "Escalas gráficas",
+      "Factores definidos y graduados: filas = factores; columnas = grados.",
+      "Comprensión y aplicación sencillas; visión integrada y resumida; poco trabajo de registro.",
+      "Poca flexibilidad; distorsiones e interferencias personales; generalización y rutina."
+     ],
+     [
+      "Elección forzada",
+      "Elegir la frase más descriptiva del desempeño en cada par.",
+      "Resultados libres de subjetividad.",
+      "Elaboración e implementación más complejas."
+     ],
+     [
+      "Escalas mixtas",
+      "Tres descripciones específicas de cada característica.",
+      "Fácil comprensión y aplicación.",
+      "Poca oportunidad de mejorar o reforzar aspectos deficientes."
+     ],
+     [
+      "Formas narrativas",
+      "Ensayo sobre fortalezas y debilidades.",
+      "Permite al jefe expresar su opinión.",
+      "Subjetividad."
+     ],
+     [
+      "Incidentes críticos",
+      "Observación y registro de hechos excepcionales positivos y negativos.",
+      "—",
+      "—"
+     ],
+     [
+      "Competencias",
+      "Observación de conductas concretas y comportamiento adecuado.",
+      "Objetivo.",
+      "Distinción poco clara entre competencias mínimas y efectivas."
+     ],
+     [
+      "Mediciones de productividad",
+      "Resultados, por ejemplo volumen de ventas.",
+      "Alineación con objetivos organizacionales.",
+      "Influencia de factores externos."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s23.2",
+    "t": "h",
+    "text": "Implicancias para otros subsistemas"
+   },
+   {
+    "id": "s23.3",
+    "t": "li",
+    "text": "**Aplicación:** modelo de explotación y modelo decisional; evaluación de objetivos para planificación y control."
+   },
+   {
+    "id": "s23.4",
+    "t": "li",
+    "text": "**Provisión:** ajustar o mantener especificaciones de reclutamiento y selección."
+   },
+   {
+    "id": "s23.5",
+    "t": "li",
+    "text": "**Desarrollo:** estrategias de capacitación y desarrollo para adecuar persona y puesto."
+   },
+   {
+    "id": "s23.6",
+    "t": "li",
+    "text": "**Mantenimiento:** promociones, plan de carrera, incentivos y remuneración variable."
+   },
+   {
+    "id": "s23.7",
+    "t": "p",
+    "text": "Ejemplos del apunte: estándar de cumplir al menos 85% de programas de capacitación, desempeño real 80%; aprobar 100% de evaluaciones, resultado 100% y promedio 8,50; no superar $250 de materiales por capacitación, promedio real $170."
+   }
+  ]
+ },
+ {
+  "id": "s24",
+  "unit": "u5",
+  "title": "Auditoría de la función de RRHH",
+  "page": 36,
+  "orig": "páginas 51-53",
+  "blocks": [
+   {
+    "id": "s24.1",
+    "t": "p",
+    "text": "Es el **análisis de políticas y prácticas de personal y la evaluación de su funcionamiento actual, con sugerencias de mejora**. Verifica la gestión de RRHH. Es un sistema de revisión y control que informa sobre eficiencia y eficacia del programa."
+   },
+   {
+    "id": "s24.2",
+    "t": "p",
+    "text": "Evalúa funciones de personal del área de RRHH, funciones realizadas por gerentes de línea y su cumplimiento de políticas y procedimientos, y satisfacción de empleados."
+   },
+   {
+    "id": "s24.3",
+    "t": "h",
+    "text": "Información y patrones de control"
+   },
+   {
+    "id": "s24.4",
+    "t": "p",
+    "text": "**Técnicas:** entrevistas, entrevistas de salida, encuestas y sondeos; análisis de registros, políticas y procedimientos; análisis de cargos y habilidades. Se apoya en verificaciones, seguimiento, registros y estadísticas y requiere, generalmente, un SI gerencial."
+   },
+   {
+    "id": "s24.5",
+    "t": "p",
+    "text": "La comparación con el estándar puede hacerse sobre **resultados** (después de la operación) o sobre **desempeño** (simultáneamente). La auditoría no solo señala fallas: propone sugerencias y soluciones; su papel es educativo."
+   },
+   {
+    "id": "s24.6",
+    "t": "p",
+    "text": "**Ítems:** análisis y descripción de cargos; reclutamiento; selección; entrenamiento; nivel de empleados; ascensos y transferencias; moral y disciplina; salud y seguridad; control de personal; salarios; acuerdos colectivos; registros de investigaciones."
+   },
+   {
+    "id": "s24.7",
+    "t": "h",
+    "text": "Amplitud y profundidad"
+   },
+   {
+    "id": "s24.8",
+    "t": "p",
+    "text": "Puede abarcar uno o todos los niveles:"
+   },
+   {
+    "id": "s24.9",
+    "t": "li",
+    "text": "1. **Resultados:** realizaciones y solución de problemas."
+   },
+   {
+    "id": "s24.10",
+    "t": "li",
+    "text": "2. **Programas:** prácticas y procedimientos de RH."
+   },
+   {
+    "id": "s24.11",
+    "t": "li",
+    "text": "3. **Políticas:** explícitas e implícitas."
+   },
+   {
+    "id": "s24.12",
+    "t": "li",
+    "text": "4. **Filosofía de administración:** prioridades, valores, metas y objetivos."
+   },
+   {
+    "id": "s24.13",
+    "t": "li",
+    "text": "5. **Teoría:** relaciones y explicaciones de filosofía, políticas y prácticas."
+   },
+   {
+    "id": "s24.14",
+    "t": "p",
+    "text": "A mayor tamaño y descentralización, mayor necesidad de cobertura sistemática. Verifica si la teoría que sostiene la política es aceptable y si prácticas y procedimientos se adecuan a ella."
+   },
+   {
+    "id": "s24.15",
+    "t": "p",
+    "text": "Evalúa indicadores de eficiencia y eficacia, entrenamiento y remuneración; claridad de objetivos en calidad, cantidad, tiempo y costos; recursos y resultados; contribución a objetivos organizacionales y clima organizacional. El agente puede ser un **consultor externo** o un **equipo orientado por un consultor**."
+   }
+  ]
+ },
+ {
+  "id": "s25",
+  "unit": "u5",
+  "title": "Seguimiento de SI/TI y magnitudes de rendimiento",
+  "page": 36,
+  "orig": "páginas 53-55",
+  "blocks": [
+   {
+    "id": "s25.1",
+    "t": "p",
+    "text": "El subsistema comprende procesos, métodos y herramientas que evalúan la **adecuación del rendimiento de SW y HW a las metas de funcionamiento** y determinan mejoras. Lo nutre el subsistema de aplicación de SI/TI: carga de trabajo, caracterización de la carga y planificación de prestaciones o modelo de explotación."
+   },
+   {
+    "id": "s25.2",
+    "t": "p",
+    "text": "El rendimiento expresa la **eficacia con que un software aprovecha el hardware bajo una carga de trabajo**. La evaluación mide el comportamiento frente a esa carga y a requisitos de ejecución para determinar prestaciones, satisfacción de necesidades de servicio y aceptabilidad."
+   },
+   {
+    "id": "s25.3",
+    "t": "p",
+    "text": "En este tema, **SI significa sistema informático**. Puigjaner centra el estudio en HW y SO o software de base. **Evaluar prestaciones es evaluar rendimiento.** Las prestaciones orientan diseño, selección, compra y uso."
+   },
+   {
+    "id": "s25.4",
+    "t": "p",
+    "text": "**Razones para evaluar:** diseñar una máquina o un sistema informático; seleccionar y configurar según precio/prestaciones; planificar capacidad ante aumento de carga o nuevas aplicaciones; sintonizar parámetros del SO para adecuar prestaciones al servicio necesario."
+   },
+   {
+    "id": "s25.5",
+    "t": "h",
+    "text": "Magnitudes y variables"
+   },
+   {
+    "id": "s25.6",
+    "t": "p",
+    "text": "Las medidas se relacionan con **consumo de tiempos, utilización de recursos o dispositivos y trabajo realizado**. Cada variable se asocia con una magnitud."
+   },
+   {
+    "id": "s25.7",
+    "t": "table",
+    "rows": [
+     [
+      "**Variables externas**",
+      "**Definición**"
+     ],
+     [
+      "Productividad o throughput",
+      "Trabajo útil ejecutado por unidad de tiempo con una carga determinada; trabajos/hora o transacciones/segundo."
+     ],
+     [
+      "Capacidad",
+      "Máxima cantidad de trabajo útil por unidad de tiempo con una carga determinada."
+     ],
+     [
+      "Tiempo de respuesta",
+      "Tiempo entre entrega del trabajo o transacción y recepción del resultado."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s25.8",
+    "t": "p",
+    "text": "Las **variables internas** requieren monitor: uso de CPU del sistema, usuario o proceso; memoria usada y total; tasas de recepción, transmisión, lectura y escritura; tiempo de ejecución; hilos por proceso."
+   },
+   {
+    "id": "s25.9",
+    "t": "table",
+    "rows": [
+     [
+      "**Variables internas**",
+      "**Definición**"
+     ],
+     [
+      "Factor de utilización",
+      "Porcentaje de tiempo en que un componente fue realmente utilizado."
+     ],
+     [
+      "Solapamiento",
+      "Porcentaje de tiempo de uso simultáneo de dos o más componentes."
+     ],
+     [
+      "Overhead",
+      "Porcentaje de tiempo dedicado a tareas del sistema no imputables directamente a los trabajos en curso."
+     ],
+     [
+      "Factor de carga de multiprogramación",
+      "Tiempo de respuesta de un trabajo en multiprogramación / tiempo de respuesta en monoprogramación."
+     ],
+     [
+      "Factor de ganancia de multiprogramación",
+      "Tiempo total de un conjunto ejecutado secuencialmente en monoprogramación / tiempo en multiprogramación."
+     ],
+     [
+      "Frecuencia de fallo de página",
+      "Fallos de página por unidad de tiempo en memoria virtual paginada."
+     ],
+     [
+      "Frecuencia de swapping",
+      "Programas expulsados de memoria por unidad de tiempo por falta de espacio, reorganización o reducción de paginación."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s25.10",
+    "t": "h",
+    "text": "Comportamiento"
+   },
+   {
+    "id": "s25.11",
+    "t": "li",
+    "text": "**Fiabilidad:** probabilidad de funcionar correctamente durante un intervalo sin fallos; el apunte utiliza fallos por unidad de tiempo y tiempo medio entre fallos (MTBF)."
+   },
+   {
+    "id": "s25.12",
+    "t": "li",
+    "text": "**Disponibilidad:** probabilidad de estar operativo en un momento dado, considerando fallos y reparaciones."
+   },
+   {
+    "id": "s25.13",
+    "t": "li",
+    "text": "**Seguridad:** probabilidad de funcionar sin riesgos para personas u otros sistemas."
+   },
+   {
+    "id": "s25.14",
+    "t": "li",
+    "text": "**Performabilidad:** seguir funcionando, con prestaciones reducidas, tras fallos."
+   },
+   {
+    "id": "s25.15",
+    "t": "li",
+    "text": "**Mantenibilidad:** facilidad de reparación; probabilidad de volver a operar en un tiempo determinado."
+   }
+  ]
+ },
+ {
+  "id": "s26",
+  "unit": "u5",
+  "title": "Magnitudes que caracterizan la carga",
+  "page": 37,
+  "orig": "páginas 55-56",
+  "blocks": [
+   {
+    "id": "s26.1",
+    "t": "p",
+    "text": "La carga del estudio es la **carga de prueba** y debe seleccionarse correctamente."
+   },
+   {
+    "id": "s26.2",
+    "t": "li",
+    "text": "**Real:** observada durante funcionamiento normal; no permite repetir las mismas condiciones para eliminar errores y es difícil de usar como carga de prueba."
+   },
+   {
+    "id": "s26.3",
+    "t": "li",
+    "text": "**Sintética:** conjunto de programas, extraídos o no de la carga real, que la reproduce de forma compacta. Puede repetirse y modificarse sin afectar la operatividad."
+   },
+   {
+    "id": "s26.4",
+    "t": "table",
+    "rows": [
+     [
+      "**Nivel**",
+      "**Magnitudes**"
+     ],
+     [
+      "Componentes de la carga",
+      "**Tiempo de CPU por trabajo. Número de operaciones de E/S por trabajo. Características de E/S:** dispositivos, acceso y posición de datos. **Prioridad:** importancia asignada. **Memoria:** cantidad y tipo real o virtual. **Localidad de referencias:** agrupación espacial o temporal de accesos."
+     ],
+     [
+      "Conjunto de la carga",
+      "**Tiempo entre llegadas:** intervalo entre peticiones. **Frecuencia de llegada:** peticiones por unidad de tiempo. **Distribución de trabajos:** proporción de tipos de trabajos."
+     ],
+     [
+      "Cargas conversacionales",
+      "**Tiempo de reflexión:** leer la respuesta, pensar y teclear la siguiente acción. **Usuarios simultáneos. Intensidad del usuario:** relación entre tiempo de respuesta y tiempo de reflexión."
+     ]
+    ],
+    "head": true
+   }
+  ]
+ },
+ {
+  "id": "s27",
+  "unit": "u5",
+  "title": "Rendimientos, costes y ley de Amdahl",
+  "page": 38,
+  "orig": "páginas 56-60",
+  "blocks": [
+   {
+    "id": "s27.1",
+    "t": "h",
+    "text": "Relación entre rendimientos"
+   },
+   {
+    "id": "s27.2",
+    "t": "p",
+    "text": "Si dos computadores X e Y tardan Tx y Ty, el rendimiento es equivalente si los tiempos son iguales. Si Tx < Ty, X es más rápido. La **aceleración (speedup)** cuantifica cuántas veces y puede expresarse como incremento porcentual n."
+   },
+   {
+    "id": "s27.3",
+    "t": "p",
+    "text": "Ejemplo: Tx = 36 s y Ty = 40 s; X es 40/36 = 1,11 veces, o 11% más rápido."
+   },
+   {
+    "id": "s27.4",
+    "t": "h",
+    "text": "Relación de costes y prestaciones/coste"
+   },
+   {
+    "id": "s27.5",
+    "t": "p",
+    "text": "El incremento de coste divide el coste más alto por el más bajo. Ejemplo: $625/$550 = 1,14 veces, o 14% más caro."
+   },
+   {
+    "id": "s27.6",
+    "t": "p",
+    "text": "Para comparar conjuntamente se calcula **rendimiento/coste = 1/(tiempo × coste)**. Se busca **maximizar** este índice. El incremento del coste de una mejora se calcula como nuevo coste/coste original. Si las alternativas afectan muy poco al coste global, se comparan sus mejoras y costes propios, sin el coste original."
+   },
+   {
+    "id": "s27.7",
+    "t": "h",
+    "text": "Ley de Amdahl"
+   },
+   {
+    "id": "s27.8",
+    "t": "p",
+    "text": "Acota el incremento de prestaciones al mejorar una o varias partes del sistema. Sirve para justificar el **upgrading**, determinar el máximo beneficio real y decidir inversiones mediante modelado analítico."
+   },
+   {
+    "id": "s27.9",
+    "t": "li",
+    "text": "**Toriginal:** tiempo de ejecución original."
+   },
+   {
+    "id": "s27.10",
+    "t": "li",
+    "text": "**f:** fracción del tiempo original en que se utiliza exclusivamente el recurso mejorado."
+   },
+   {
+    "id": "s27.11",
+    "t": "li",
+    "text": "**1 − f:** fracción no afectada por la mejora."
+   },
+   {
+    "id": "s27.12",
+    "t": "li",
+    "text": "**k:** factor de mejora del recurso."
+   },
+   {
+    "id": "s27.13",
+    "t": "li",
+    "text": "**A:** aceleración global, adimensional, expresada en veces."
+   },
+   {
+    "id": "s27.14",
+    "t": "callout",
+    "text": "**Toriginal = Toriginal × (1 − f) + Toriginal × f**"
+   },
+   {
+    "id": "s27.15",
+    "t": "p",
+    "text": "**Conclusiones:** si f = 0, A = 1, sin aceleración; si f = 1, A = k; si k tiende a infinito, A tiende a **1/(1 − f)**. La mejora global está limitada por las operaciones que no se mejoran."
+   },
+   {
+    "id": "s27.16",
+    "t": "p",
+    "text": "Con varios recursos, las mejoras ki se aplican durante fracciones **exclusivas** fi; f0 es la fracción no mejorada."
+   },
+   {
+    "id": "s27.17",
+    "t": "p",
+    "text": "La mejora es más efectiva cuanto mayor es la fracción de utilización. En el gráfico, las diferencias entre curvas se vuelven importantes a partir del 50%: factores altos de mejora tienen efecto significativo con utilizaciones altas."
+   }
+  ]
+ },
+ {
+  "id": "s28",
+  "unit": "u5",
+  "title": "Técnicas de evaluación y modelado",
+  "page": 40,
+  "orig": "páginas 60-62",
+  "blocks": [
+   {
+    "id": "s28.1",
+    "t": "p",
+    "text": "Las técnicas son métodos y herramientas para obtener índices o niveles de prestaciones con una carga y parámetros determinados: **monitorización, modelado–técnicas analíticas y benchmarking**. La **sintonización no se considera una técnica de evaluación**, sino experimentación para mejorar el sistema."
+   },
+   {
+    "id": "s28.2",
+    "t": "h",
+    "text": "Modelado"
+   },
+   {
+    "id": "s28.3",
+    "t": "p",
+    "text": "Se utiliza cuando se evalúa un sistema con algún elemento de HW o SW **todavía no instalado**. Se basa generalmente en teoría de colas, individuales o en redes abiertas o cerradas."
+   },
+   {
+    "id": "s28.4",
+    "t": "li",
+    "text": "**Simulación:** programa que reproduce el comportamiento temporal mediante estados y transiciones; obtiene estadísticas. Puede tratar estructuras que los métodos analíticos no resuelven, pero exige más cálculo y puesta a punto."
+   },
+   {
+    "id": "s28.5",
+    "t": "li",
+    "text": "**Técnicas analíticas:** fórmulas cerradas o algoritmos aproximados para resolver ecuaciones de equilibrio entre eventos o transiciones. Tienen limitaciones para algunas estructuras y comportamientos de colas."
+   },
+   {
+    "id": "s28.6",
+    "t": "li",
+    "text": "Dificultad principal: obtener datos suficientemente precisos para el grado de aproximación exigido."
+   },
+   {
+    "id": "s28.7",
+    "t": "h",
+    "text": "Análisis operacional"
+   },
+   {
+    "id": "s28.8",
+    "t": "p",
+    "text": "Modeliza el sistema mediante variables y ecuaciones cuya resolución da índices de prestaciones a partir de un modelo de colas. **Operacional equivale a directamente medible**: sus hipótesis pueden verificarse mediante medidas."
+   },
+   {
+    "id": "s28.9",
+    "t": "p",
+    "text": "Una **estación de servicio** comprende servidor y cola de trabajos; puede tener varios servidores y colas. Recursos del sistema → servidor; trabajos asociados → cola."
+   },
+   {
+    "id": "s28.10",
+    "t": "p",
+    "text": "**Tiempo de servicio:** desde que un trabajo empieza a usar el recurso hasta que lo libera. **Tiempo de respuesta:** servicio más espera en cola."
+   }
+  ]
+ },
+ {
+  "id": "s29",
+  "unit": "u5",
+  "title": "Variables y leyes operacionales",
+  "page": 41,
+  "orig": "páginas 62-65",
+  "blocks": [
+   {
+    "id": "s29.1",
+    "t": "p",
+    "text": "Las variables operacionales se miden en un período finito. Para un dispositivo i: **T** = período de observación; **Ai** = arribos durante T; **Ci** = trabajos completados; **Bi** = tiempo ocupado."
+   },
+   {
+    "id": "s29.2",
+    "t": "table",
+    "rows": [
+     [
+      "**Variable deducida**",
+      "**Expresión**",
+      "**Unidad**"
+     ],
+     [
+      "Tasa de llegada",
+      "λi = Ai/T",
+      "Trabajos por unidad de tiempo."
+     ],
+     [
+      "Productividad",
+      "Xi = Ci/T",
+      "Trabajos por unidad de tiempo."
+     ],
+     [
+      "Utilización",
+      "Ui = Bi/T",
+      "Sin unidades."
+     ],
+     [
+      "Tiempo de servicio",
+      "Si = Bi/Ci",
+      "Tiempo por trabajo."
+     ],
+     [
+      "Tiempo entre llegadas",
+      "T′ = T/Ai",
+      "Tiempo."
+     ],
+     [
+      "Tasa de servicio",
+      "μi = Ci/Bi",
+      "Trabajos por tiempo ocupado."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s29.3",
+    "t": "p",
+    "text": "Las variables cambian entre períodos, pero las leyes relacionan sus valores sin depender de distribuciones estadísticas de tiempos de servicio o entre llegadas."
+   },
+   {
+    "id": "s29.4",
+    "t": "p",
+    "text": "**Hipótesis del flujo equilibrado de trabajos:** durante una observación suficientemente grande, el sistema opera en estado estable o equilibrio; entran tantos trabajos como salen. **Ai = Ci ⇒ λi = Xi**."
+   },
+   {
+    "id": "s29.5",
+    "t": "h",
+    "text": "Ley de la utilización"
+   },
+   {
+    "id": "s29.6",
+    "t": "p",
+    "text": "Si hay flujo equilibrado, también **Ui = λi × Si**."
+   },
+   {
+    "id": "s29.7",
+    "t": "h",
+    "text": "Ley del flujo forzado"
+   },
+   {
+    "id": "s29.8",
+    "t": "p",
+    "text": "Relaciona productividad global X0 y productividad del dispositivo Xi."
+   },
+   {
+    "id": "s29.9",
+    "t": "li",
+    "text": "**Modelo abierto:** al menos una fuente y uno o más sumideros, con un camino desde cada nodo a un sumidero. La productividad es el número de trabajos que abandona el sistema por unidad de tiempo. El apunte lo relaciona con sistemas transaccionales."
+   },
+   {
+    "id": "s29.10",
+    "t": "li",
+    "text": "**Modelo cerrado:** cantidad constante de trabajos; la productividad se mide en el enlace de salida a entrada, como si salieran y reingresaran. El apunte lo relaciona con sistemas batch."
+   },
+   {
+    "id": "s29.11",
+    "t": "p",
+    "text": "La **razón de visitas Vi** es el número de peticiones o visitas al dispositivo por trabajo. Con flujo equilibrado: **Ci = C0 × Vi** y **Vi = Ci/C0**."
+   },
+   {
+    "id": "s29.12",
+    "t": "callout",
+    "text": "**Xi = X0 × Vi**"
+   },
+   {
+    "id": "s29.13",
+    "t": "p",
+    "text": "El flujo por un dispositivo determina el flujo por cualquier otro. La ley requiere flujo equilibrado. Combinada con utilización:"
+   },
+   {
+    "id": "s29.14",
+    "t": "callout",
+    "text": "**Ui = Xi × Si = X0 × Vi × Si = X0 × Di**"
+   },
+   {
+    "id": "s29.15",
+    "t": "p",
+    "text": "**Di = Vi × Si** es la demanda de servicio de todas las visitas de un trabajo al dispositivo. La utilización es proporcional a la demanda de servicio."
+   },
+   {
+    "id": "s29.16",
+    "t": "h",
+    "text": "Ley de Little"
+   },
+   {
+    "id": "s29.17",
+    "t": "p",
+    "text": "Requiere flujo equilibrado. Relaciona número de trabajos Ni, tasa de llegada o productividad y tiempo de respuesta Ri:"
+   },
+   {
+    "id": "s29.18",
+    "t": "callout",
+    "text": "**Ni = λi × Ri = Xi × Ri**"
+   },
+   {
+    "id": "s29.19",
+    "t": "h",
+    "text": "Ley general del tiempo de respuesta"
+   },
+   {
+    "id": "s29.20",
+    "t": "p",
+    "text": "En una red de K estaciones: **N = N1 + N2 + … + NK**. Aplicando Little y flujo forzado:"
+   },
+   {
+    "id": "s29.21",
+    "t": "p",
+    "text": "El tiempo de permanencia depende de las **visitas a cada dispositivo** y del **tiempo de respuesta por visita**."
+   },
+   {
+    "id": "s29.22",
+    "t": "h",
+    "text": "Ley del tiempo de respuesta interactivo"
+   },
+   {
+    "id": "s29.23",
+    "t": "p",
+    "text": "El sistema se divide en **subsistema de terminales** (reflexión) y **subsistema central** (dispositivos físicos)."
+   },
+   {
+    "id": "s29.24",
+    "t": "p",
+    "text": "**Z (think time):** tiempo desde que un trabajo sale del subsistema central hasta que vuelve a entrar. **R:** tiempo en el subsistema central. Los terminales se modelan con infinitos servidores, sin espera en cola."
+   },
+   {
+    "id": "s29.25",
+    "t": "p",
+    "text": "Aplicando Little al conjunto: **N = (Z + R) × X0**."
+   },
+   {
+    "id": "s29.26",
+    "t": "p",
+    "text": "Trabajos en terminales: **Z × X0**. Trabajos que compiten por recursos del sistema: **R × X0**."
+   }
+  ]
+ },
+ {
+  "id": "s30",
+  "unit": "u5",
+  "title": "Monitorización y monitores",
+  "page": 44,
+  "orig": "páginas 65-68",
+  "blocks": [
+   {
+    "id": "s30.1",
+    "t": "p",
+    "text": "La **monitorización** supervisa, analiza y evalúa un sistema **en funcionamiento y con carga real**, mientras lo utilizan los usuarios. La técnica es monitorización; la herramienta es el **monitor**."
+   },
+   {
+    "id": "s30.2",
+    "t": "p",
+    "text": "El monitor observa, recolecta estadísticas, analiza y presenta resultados. Permite conocer uso de recursos y cuellos de botella; localizar código más utilizado; ajustar parámetros; caracterizar carga; crear cargas de prueba; comprobar aproximación de un benchmark a la carga real; obtener datos para modelos y validarlos."
+   },
+   {
+    "id": "s30.3",
+    "t": "p",
+    "text": "**Repetibilidad:** repetir una medición con el mismo resultado. Como normalmente no pueden repetirse las mismas condiciones de carga e instantes, se habla de seguimiento o monitorización. Los monitores son imprescindibles aunque puedan perturbar el sistema."
+   },
+   {
+    "id": "s30.4",
+    "t": "h",
+    "text": "Tipos de monitorización"
+   },
+   {
+    "id": "s30.5",
+    "t": "li",
+    "text": "**Detección de acontecimientos o eventos:** un evento es un cambio de estado. Se inserta código suplementario o traps en el SO; al producirse el evento se ejecuta una rutina que guarda datos e instante. Se utiliza para conocer secuencia o número de acontecimientos."
+   },
+   {
+    "id": "s30.6",
+    "t": "li",
+    "text": "**Períodos de tiempo o muestreo:** observa una muestra cuando examinar toda la población es imposible, poco práctico o caro; estima parámetros. Se activa por interrupciones de reloj en intervalos fijos o aleatorios y perturba menos. Permite calcular fracciones de tiempo en cada estado o seguir evolución y predecir comportamiento."
+   },
+   {
+    "id": "s30.7",
+    "t": "h",
+    "text": "Características de los monitores"
+   },
+   {
+    "id": "s30.8",
+    "t": "table",
+    "rows": [
+     [
+      "**Característica**",
+      "**Concepto**"
+     ],
+     [
+      "Sobrecarga o interferencia",
+      "Debe ser mínima para no alterar resultados; en HW aparece en la conexión y en SW aumenta la carga."
+     ],
+     [
+      "Precisión",
+      "Exactitud; error por interferencia, instalación, uso o representación de datos."
+     ],
+     [
+      "Resolución",
+      "Máxima frecuencia de detección y registro; separación de eventos consecutivos."
+     ],
+     [
+      "Ámbito o dominio",
+      "Acontecimientos y características observables y medibles."
+     ],
+     [
+      "Anchura de entrada",
+      "Máximo de bits extraídos y procesados en paralelo ante un evento."
+     ],
+     [
+      "Reducción de datos",
+      "Analizar, procesar y empaquetar para facilitar comprensión y reducir almacenamiento."
+     ],
+     [
+      "Compatibilidad",
+      "Adaptación de HW y SW de monitorización a distintos requerimientos."
+     ],
+     [
+      "Coste",
+      "Adquisición, instalación, mantenimiento, formación y operación."
+     ],
+     [
+      "Facilidad de instalación",
+      "Instalar y retirar del sistema."
+     ],
+     [
+      "Facilidad de utilización",
+      "Interfaz utilizable por cualquier programador."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s30.9",
+    "t": "p",
+    "text": "Otros requisitos: monitorización continua, presentación orientada a la aplicación, integración y realimentación."
+   },
+   {
+    "id": "s30.10",
+    "t": "h",
+    "text": "Estructura del monitor"
+   },
+   {
+    "id": "s30.11",
+    "t": "p",
+    "text": "**Interfaz de instrumentación:** conecta con puntos que contienen información relevante. **Selector o filtro:** captura selectivamente y genera variables derivadas. **Procesador:** comprueba los elementos. **Registrador:** almacena resultados. **Analizador:** interpreta. Si el análisis es paralelo a la captura, la medida es en tiempo real; también puede realizarse al finalizar la recolección."
+   }
+  ]
+ },
+ {
+  "id": "s31",
+  "unit": "u5",
+  "title": "Tipos y comparación de monitores",
+  "page": 45,
+  "orig": "páginas 68-71",
+  "blocks": [
+   {
+    "id": "s31.1",
+    "t": "h",
+    "text": "Según activación"
+   },
+   {
+    "id": "s31.2",
+    "t": "p",
+    "text": "**Eventos:** se activan por acontecimientos, incluso por decisión externa; si son frecuentes, aumenta sobrecarga. **Muestreo:** intervalos fijos o aleatorios; la frecuencia depende de aparición del estado y resolución buscada."
+   },
+   {
+    "id": "s31.3",
+    "t": "h",
+    "text": "Según implantación"
+   },
+   {
+    "id": "s31.4",
+    "t": "p",
+    "text": "**Software:** programas o ampliaciones del SO que informan del estado del sistema; adecuados para SO, redes, bases de datos y aplicaciones. Se implantan agregando un programa, modificando el SW observado o modificando el SO. Su prioridad debe ser mayor a la de los acontecimientos observados."
+   },
+   {
+    "id": "s31.5",
+    "t": "p",
+    "text": "Existe una relación entre **precisión e interferencia**: muchas observaciones aumentan sobrecarga y pueden alterar las medidas; pocas pueden omitir actividad."
+   },
+   {
+    "id": "s31.6",
+    "t": "p",
+    "text": "**Consideraciones temporales:** por muestreo se obtienen estadísticas de tiempos medios, con implementación más fácil y menor precisión; las medidas directas capturan inicio y fin, con mayor precisión y complejidad. Ambos requieren reloj; el muestreo necesita interrupciones periódicas."
+   },
+   {
+    "id": "s31.7",
+    "t": "p",
+    "text": "Problemas: retraso de inicio; asignación no exacta de CPU; acceso al reloj; resolución. El error es la diferencia entre tiempo real y medido y puede variar entre 0 y un intervalo T del reloj. Intervalos menores aumentan precisión, pero también sobrecarga."
+   },
+   {
+    "id": "s31.8",
+    "t": "p",
+    "text": "**Hardware:** dispositivos electrónicos externos conectados a puntos del sistema para detectar niveles o señales eléctricas. Son rápidos y no utilizan recursos del sistema. Módulos lógicos filtran; contadores registran ocurrencias; almacenamiento conserva valores; reloj sincroniza captura."
+   },
+   {
+    "id": "s31.9",
+    "t": "p",
+    "text": "**Híbridos:** combinan HW y SW; un código pequeño en el SO envía información al monitor HW. Se usan en diseño de arquitecturas y estudio de prototipos."
+   },
+   {
+    "id": "s31.10",
+    "t": "h",
+    "text": "Según presentación de resultados"
+   },
+   {
+    "id": "s31.11",
+    "t": "p",
+    "text": "**Tiempo real:** analiza datos a medida que llegan; procesamiento continuo o frecuente. **Batch:** recoge toda la información y luego la procesa."
+   },
+   {
+    "id": "s31.12",
+    "t": "h",
+    "text": "Comparación del apunte"
+   },
+   {
+    "id": "s31.13",
+    "t": "table",
+    "rows": [
+     [
+      "**Característica**",
+      "**Hardware**",
+      "**Software**",
+      "**Híbrido**"
+     ],
+     [
+      "Dominio",
+      "Bajo nivel, fijo; observa directamente memoria.",
+      "Alto nivel; lo permitido por el SO.",
+      "Todos."
+     ],
+     [
+      "Resolución",
+      "Alta, fija.",
+      "Baja, variable.",
+      "Alta."
+     ],
+     [
+      "Interferencia",
+      "Baja.",
+      "Alta.",
+      "Media."
+     ],
+     [
+      "Anchura",
+      "Finita.",
+      "Infinita.",
+      "Infinita."
+     ],
+     [
+      "Coste",
+      "Alto.",
+      "Bajo.",
+      "Alto."
+     ],
+     [
+      "Reducción",
+      "No.",
+      "Sí.",
+      "No/Sí."
+     ],
+     [
+      "Portabilidad",
+      "Sí.",
+      "No.",
+      "No."
+     ]
+    ],
+    "head": true
+   }
+  ]
+ },
+ {
+  "id": "s32",
+  "unit": "u5",
+  "title": "Benchmarking y benchmark",
+  "page": 47,
+  "orig": "páginas 71-73",
+  "blocks": [
+   {
+    "id": "s32.1",
+    "t": "p",
+    "text": "El **benchmarking** compara sistemas frente a una carga característica de una instalación, principalmente por tiempo de ejecución. **Benchmarking ≠ medición:** comparar y analizar rendimiento no es solo recolectar datos."
+   },
+   {
+    "id": "s32.2",
+    "t": "p",
+    "text": "Dificultades: seleccionar una carga reducida y manejable, pero suficientemente representativa; valorar cómo los programas aprovechan las particularidades de cada sistema."
+   },
+   {
+    "id": "s32.3",
+    "t": "h",
+    "text": "Errores al aplicar benchmarking"
+   },
+   {
+    "id": "s32.4",
+    "t": "li",
+    "text": "1. Representar solo comportamientos medios: debe incluirse la varianza."
+   },
+   {
+    "id": "s32.5",
+    "t": "li",
+    "text": "2. Controlar mal el nivel de carga: usuarios, reflexión y demanda de servicio deben mantener representatividad."
+   },
+   {
+    "id": "s32.6",
+    "t": "li",
+    "text": "3. Ignorar la caché y el orden de llegada de peticiones."
+   },
+   {
+    "id": "s32.7",
+    "t": "li",
+    "text": "4. Ignorar el overhead del monitor."
+   },
+   {
+    "id": "s32.8",
+    "t": "li",
+    "text": "5. No validar las medidas ni investigar valores inexplicables."
+   },
+   {
+    "id": "s32.9",
+    "t": "li",
+    "text": "6. No asegurar iguales condiciones iniciales: cada ejecución altera el sistema."
+   },
+   {
+    "id": "s32.10",
+    "t": "li",
+    "text": "7. No medir las prestaciones del transitorio previo al estado estable."
+   },
+   {
+    "id": "s32.11",
+    "t": "li",
+    "text": "8. Comparar prestaciones solo por utilización de dispositivos: una utilización menor no siempre es mejor."
+   },
+   {
+    "id": "s32.12",
+    "t": "li",
+    "text": "9. Recoger muchos datos y analizarlos poco."
+   },
+   {
+    "id": "s32.13",
+    "t": "h",
+    "text": "Factores que influyen"
+   },
+   {
+    "id": "s32.14",
+    "t": "p",
+    "text": "Tipo y versión del SO (el apunte indica que tiene que ser el mismo SO); compilador y eficiencia del código; lenguaje de programación; librerías de ejecución; tamaño de caché y accesos a memoria; verificación de resultados para comprobar ejecución correcta."
+   },
+   {
+    "id": "s32.15",
+    "t": "h",
+    "text": "Pasos de Puigjaner"
+   },
+   {
+    "id": "s32.16",
+    "t": "li",
+    "text": "1. Determinar qué estudiar y por qué."
+   },
+   {
+    "id": "s32.17",
+    "t": "li",
+    "text": "2. Seleccionar benchmark según objetivo: **representatividad, reproducibilidad, compacidad** (las demandas de carga deben aparecer en el mismo tiempo) **y escalabilidad**."
+   },
+   {
+    "id": "s32.18",
+    "t": "li",
+    "text": "3. Determinar entorno, métricas y aspectos que afectan el experimento."
+   },
+   {
+    "id": "s32.19",
+    "t": "li",
+    "text": "4. Ejecutar el benchmark."
+   },
+   {
+    "id": "s32.20",
+    "t": "li",
+    "text": "5. Analizar resultados y causas de variaciones entre sistemas."
+   },
+   {
+    "id": "s32.21",
+    "t": "p",
+    "text": "El resultado es un número o conjunto de números que expresa el ajuste del equipo a la carga. Las unidades dependen del objetivo y nivel estudiado."
+   },
+   {
+    "id": "s32.22",
+    "t": "h",
+    "text": "Benchmark: herramienta"
+   },
+   {
+    "id": "s32.23",
+    "t": "p",
+    "text": "Genera la carga de prueba y evalúa el sistema o partes. Si está estandarizado, permite comparar resultados entre sistemas."
+   },
+   {
+    "id": "s32.24",
+    "t": "li",
+    "text": "**General:** programas diseñados para estudiar prestaciones; ejemplo, TAURUS."
+   },
+   {
+    "id": "s32.25",
+    "t": "li",
+    "text": "**De aplicación:** programas extraídos de la carga real y representativos; ejemplo, un juego."
+   },
+   {
+    "id": "s32.26",
+    "t": "li",
+    "text": "La carga sintética puede ser **natural**, si representa la real, o **artificial**, si no lo hace, como en planificación de capacidad."
+   },
+   {
+    "id": "s32.27",
+    "t": "p",
+    "text": "**Usos:** adquisición y configuración; sintonización; planificación de capacidad; comparación de compiladores; diseño de procesadores y sistemas."
+   }
+  ]
+ },
+ {
+  "id": "s33",
+  "unit": "u5",
+  "title": "Cuellos de botella y sintonización",
+  "page": 48,
+  "orig": "páginas 73-76",
+  "blocks": [
+   {
+    "id": "s33.1",
+    "t": "p",
+    "text": "Un **cuello de botella** limita las prestaciones por un componente HW, un componente SW o la organización del sistema; ralentiza considerablemente el tráfico de procesos."
+   },
+   {
+    "id": "s33.2",
+    "t": "li",
+    "text": "**Terapia de reposición (upgrading):** modifica HW; puede justificarse con Amdahl."
+   },
+   {
+    "id": "s33.3",
+    "t": "li",
+    "text": "**Terapia de sintonización (tuning):** cambia organización sin alterar configuración, por ejemplo mover ficheros de disco. Suele tener prioridad por ser más económica y menos radical."
+   },
+   {
+    "id": "s33.4",
+    "t": "h",
+    "text": "Sintonización o experimentación"
+   },
+   {
+    "id": "s33.5",
+    "t": "p",
+    "text": "Es ajustar parámetros probando en función de una hipótesis. Primero se analiza el funcionamiento mediante evaluación de prestaciones. Fases: **definición de objetivos, caracterización de carga, selección de instrumentación, diseño del experimento y validación**."
+   },
+   {
+    "id": "s33.6",
+    "t": "h",
+    "text": "Definición de objetivos"
+   },
+   {
+    "id": "s33.7",
+    "t": "p",
+    "text": "Determina objetivos, datos, método de análisis, recursos necesarios y justificación de inversión."
+   },
+   {
+    "id": "s33.8",
+    "t": "h",
+    "text": "Caracterización de la carga"
+   },
+   {
+    "id": "s33.9",
+    "t": "p",
+    "text": "Obtiene una carga modelo, de prueba o test. Está correctamente caracterizada si el resultado es un conjunto de parámetros cuantitativos seleccionados según los objetivos de caracterización."
+   },
+   {
+    "id": "s33.10",
+    "t": "h",
+    "text": "Selección de instrumentación"
+   },
+   {
+    "id": "s33.11",
+    "t": "p",
+    "text": "Se miden los elementos que influyen en los objetivos mediante técnicas e instrumentos apropiados. El estudio comprende **hardware, software** (SO, programas de sistema y usuario) y **carga** (programas a procesar en un período)."
+   },
+   {
+    "id": "s33.12",
+    "t": "h",
+    "text": "Diseño y planificación de la sesión de medida"
+   },
+   {
+    "id": "s33.13",
+    "t": "p",
+    "text": "Se debe conocer carga y evolución, especialmente **picos de carga**. Se trabaja con carga conocida y entorno controlado, sin modificar HW ni procedimientos de operación durante la sesión."
+   },
+   {
+    "id": "s33.14",
+    "t": "p",
+    "text": "Con monitor SW se seleccionan duración y frecuencia para minimizar interferencia con un nivel de confianza dado. Con monitor HW se controla conexión de sensores, cables y selección de señales."
+   },
+   {
+    "id": "s33.15",
+    "t": "p",
+    "text": "La validación interpreta resultados: si los objetivos no son alcanzables se vuelve a caracterizar la carga; si son alcanzables pero no se lograron, se realizan acciones de sintonización y un nuevo experimento; si se lograron, finaliza el estudio."
+   }
+  ]
+ },
+ {
+  "id": "s34",
+  "unit": "u5",
+  "title": "Estudios de sintonización y modelo de carga",
+  "page": 51,
+  "orig": "página 77",
+  "blocks": [
+   {
+    "id": "s34.1",
+    "t": "p",
+    "text": "Los estudios de sintonización comprenden **planteamiento del problema** (síntomas de ineficiencia y objetivos), **medidas e interpretaciones**, y **acciones emprendidas y verificación de efectos**."
+   },
+   {
+    "id": "s34.2",
+    "t": "h",
+    "text": "Fases de implantación de un modelo de carga"
+   },
+   {
+    "id": "s34.3",
+    "t": "li",
+    "text": "1. **Especificación.** Decisiones según objetivos. Se selecciona el componente básico o menor unidad de trabajo: aplicaciones, trabajos, guiones, órdenes. Cuanto más alto es el nivel del componente, menor es el detalle de la carga. Se eligen parámetros según detalle del modelo, a nivel de recursos físicos o funcional, considerando cantidad de parámetros y homogeneidad de valores."
+   },
+   {
+    "id": "s34.4",
+    "t": "li",
+    "text": "2. **Construcción.** Comprende cuatro operaciones: análisis estadístico de parámetros y muestras multidimensionales; extracción de valores representativos; asignación a componentes del modelo; reconstrucción de mezclas significativas."
+   },
+   {
+    "id": "s34.5",
+    "t": "li",
+    "text": "3. **Validación.** Compara comportamiento del modelo con carga real en puntos conocidos. Puede calibrarse modificando parámetros."
+   },
+   {
+    "id": "s34.6",
+    "t": "p",
+    "text": "Para **extraer valores representativos** se utiliza muestreo de la distribución de cada parámetro, de la distribución conjunta o de componentes de la carga; análisis de componentes principales; algoritmos de agrupamiento; modelos markovianos."
+   },
+   {
+    "id": "s34.7",
+    "t": "p",
+    "text": "La **reconstrucción de mezclas** reproduce situaciones de carga real. Se analizan secuencias como series temporales; pueden agruparse componentes e identificar grupos en ejecución en cada instante de muestreo."
+   }
+  ]
+ },
+ {
+  "id": "s35",
+  "unit": "u6",
+  "title": "Management responsable y seguridad de los IS",
+  "page": 52,
+  "orig": "páginas 78-80",
+  "blocks": [
+   {
+    "id": "s35.1",
+    "t": "p",
+    "text": "Los **procesos de control del ambiente informático** comprenden la seguridad, la auditoría y los controles aplicados sobre el área de SI, sus recursos y todos los sectores asociados al procesamiento de información, aunque sea en papel. Son la **gestión de la seguridad de los SI/TI** y la **auditoría de los SI/TI**."
+   },
+   {
+    "id": "s35.2",
+    "t": "p",
+    "text": "El management de la seguridad consiste en administrar los SI/TI de un **modo seguro**: desde el punto de vista **organizacional o técnico**, **social o ético** y **judicial o legal**. Estos aspectos se superponen y pueden plantear dilemas legales y éticos."
+   },
+   {
+    "id": "s35.3",
+    "t": "p",
+    "text": "**Pérdida de seguridad:** falla de los elementos de un sistema de información computarizado para realizar la función o brindar los servicios para los cuales estaba destinado."
+   },
+   {
+    "id": "s35.4",
+    "t": "li",
+    "text": "**Integridad:** capacidad de confiar en los datos y en su precisión."
+   },
+   {
+    "id": "s35.5",
+    "t": "li",
+    "text": "**Operatividad/disponibilidad:** capacidad de acceder a datos e información."
+   },
+   {
+    "id": "s35.6",
+    "t": "li",
+    "text": "**Confidencialidad:** posesión exclusiva de datos y acceso a la información que corresponde al rol según sus responsabilidades."
+   },
+   {
+    "id": "s35.7",
+    "t": "p",
+    "text": "La pérdida de un aspecto puede impactar en otros. **La seguridad total es imposible:** se administra el nivel de riesgo y se logra un nivel razonable de seguridad. El management busca el **equilibrio óptimo** entre el costo de las fallas y el costo de las medidas de seguridad."
+   }
+  ]
+ },
+ {
+  "id": "s36",
+  "unit": "u6",
+  "title": "Metodología e identificación del riesgo",
+  "page": 52,
+  "orig": "páginas 80-81",
+  "blocks": [
+   {
+    "id": "s36.1",
+    "t": "callout",
+    "text": "**Identificación del riesgo → Análisis del riesgo → Manejo del riesgo → Recuperación ante el desastre**"
+   },
+   {
+    "id": "s36.2",
+    "t": "p",
+    "text": "La **identificación del riesgo** busca todos los riesgos a los que es vulnerable un sistema, un conjunto de sistemas, una función o una empresa. Requiere conocimiento del trabajo de la organización y reconocimiento de las áreas vulnerables. Los consultores externos aportan conocimiento amplio; el personal interno, comprensión de la empresa."
+   },
+   {
+    "id": "s36.3",
+    "t": "p",
+    "text": "Se identifican **fuentes de amenazas potenciales, activos vulnerables a la pérdida y ubicación de los riesgos**. El orden es: **activos, vulnerabilidades de los activos y amenazas**."
+   },
+   {
+    "id": "s36.4",
+    "t": "p",
+    "text": "**Amenaza:** condición del entorno del SI (persona, máquina, suceso o idea) que, dada una oportunidad, podría producir una violación de seguridad: confidencialidad, integridad, disponibilidad, autenticidad o no repudio. Es algo con capacidad de daño. **Un ataque es la realización de una amenaza.**"
+   },
+   {
+    "id": "s36.5",
+    "t": "p",
+    "text": "La vulnerabilidad de un área depende del **personal de la organización, tamaño de la red y calidad de la transmisión de datos**."
+   }
+  ]
+ },
+ {
+  "id": "s37",
+  "unit": "u6",
+  "title": "Caso introductorio de ANSES",
+  "page": 54,
+  "orig": "página 118 | Observaciones de la primera clase",
+  "blocks": [
+   {
+    "id": "s37.1",
+    "t": "p",
+    "text": "El apunte señala los siguientes problemas o aspectos que no se cumplen en el caso introductorio de ANSES. La columna derecha explica qué revisar en cada uno como guía para el análisis."
+   },
+   {
+    "id": "s37.2",
+    "t": "table",
+    "rows": [
+     [
+      "**Aspecto señalado en clase**",
+      "**Qué se revisa**"
+     ],
+     [
+      "**Integridad de los datos del sistema**",
+      "La precisión y confiabilidad de los datos utilizados por el sistema."
+     ],
+     [
+      "**Consistencia de los datos con la realidad**",
+      "La correspondencia entre los registros del sistema y la situación real de las personas."
+     ],
+     [
+      "**Derecho al servicio**",
+      "Las normativas y leyes aplicables y la pregunta planteada en clase: «¿Quién está cobrando?». Se vincula el funcionamiento del sistema con el derecho a recibir el servicio."
+     ],
+     [
+      "**Diferencia de requisitos sobre el mismo sujeto**",
+      "La coherencia de los requisitos exigidos a una misma persona en las distintas instancias del trámite."
+     ],
+     [
+      "**Gestión del trámite**",
+      "La organización y continuidad del procedimiento necesario para prestar el servicio previsto."
+     ],
+     [
+      "**Uso del sistema**",
+      "La forma en que se utiliza el sistema para realizar las tareas y gestionar el trámite."
+     ],
+     [
+      "**Interoperabilidad**",
+      "El intercambio y uso de información entre los sistemas que intervienen en el servicio."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s37.3",
+    "t": "h",
+    "text": "Relación con el management responsable de SI/TI"
+   },
+   {
+    "id": "s37.4",
+    "t": "li",
+    "text": "**Organizacional o técnico:** calidad de los datos, gestión del trámite, uso del sistema e interoperabilidad."
+   },
+   {
+    "id": "s37.5",
+    "t": "li",
+    "text": "**Social o ético:** consecuencias del funcionamiento del sistema para las personas que necesitan el servicio."
+   },
+   {
+    "id": "s37.6",
+    "t": "li",
+    "text": "**Judicial o legal:** normas aplicables, requisitos y derecho al servicio."
+   },
+   {
+    "id": "s37.7",
+    "t": "h",
+    "text": "Para analizar el caso en el parcial"
+   },
+   {
+    "id": "s37.8",
+    "t": "p",
+    "text": "Identificá el aspecto afectado, explicá su relación con los datos o la prestación del servicio y vinculalo con las dimensiones técnica, social/ética y legal. Los siete puntos son las observaciones que conserva el apunte; el desarrollo de esta página sirve como guía de interpretación."
+   }
+  ]
+ },
+ {
+  "id": "s38",
+  "unit": "u6",
+  "title": "Activos vulnerables y elementos del riesgo",
+  "page": 55,
+  "orig": "páginas 82-83",
+  "blocks": [
+   {
+    "id": "s38.1",
+    "t": "table",
+    "rows": [
+     [
+      "**Activo**",
+      "**Aspectos para evaluar la pérdida**"
+     ],
+     [
+      "Hardware",
+      "Pérdida relativamente fácil de evaluar; estos elementos suelen estar asegurados."
+     ],
+     [
+      "Software",
+      "El valor intrínseco o costo de reemplazo no se relaciona con el costo original de desarrollo. Debe incluirse la pérdida de capacidad de procesamiento."
+     ],
+     [
+      "Datos e información",
+      "Pérdida más seria y más difícil de cuantificar."
+     ],
+     [
+      "Capacidad de procesamiento",
+      "La duración de la interrupción es la variable clave para determinar la pérdida."
+     ],
+     [
+      "Personal",
+      "Pérdida de conocimiento teórico o de competencia práctica."
+     ],
+     [
+      "Fondos",
+      "Activos vulnerables a pérdidas por amenazas."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s38.2",
+    "t": "h",
+    "text": "2. Análisis del riesgo"
+   },
+   {
+    "id": "s38.3",
+    "t": "p",
+    "text": "**Riesgo:** potencial de que una amenaza determinada explote las vulnerabilidades de un activo o grupo de activos, ocasionando su pérdida o daño (ISACA). **Materialidad:** magnitud del error en términos del impacto potencial para toda la organización, generalmente expresada en términos monetarios."
+   },
+   {
+    "id": "s38.4",
+    "t": "li",
+    "text": "**Activos:** datos e información, HW, SW, servicios, documentos, personal, capacidad de procesamiento y fondos."
+   },
+   {
+    "id": "s38.5",
+    "t": "li",
+    "text": "**Amenazas:** errores, ataque malicioso, fraude, robo, fallas de equipos y de SW."
+   },
+   {
+    "id": "s38.6",
+    "t": "li",
+    "text": "**Vulnerabilidades:** lo que es atacable; por donde entra la amenaza. Ejemplos: falta de conocimientos, falta de funcionalidad de la seguridad, mala elección de contraseñas, tecnología no probada y transmisiones no seguras."
+   },
+   {
+    "id": "s38.7",
+    "t": "li",
+    "text": "**Impactos:** pérdidas consecuentes de una amenaza: dinero, violación de leyes o confianza, pérdida de reputación u oportunidades, reducción de eficiencia e interrupción del negocio."
+   },
+   {
+    "id": "s38.8",
+    "t": "li",
+    "text": "**Riesgo global:** combinación de los elementos del riesgo y del impacto y probabilidad de cada amenaza."
+   },
+   {
+    "id": "s38.9",
+    "t": "li",
+    "text": "**Riesgo residual:** riesgo restante una vez aplicados los controles. Permite identificar áreas que necesitan más control y puntos que están siendo sobrecontrolados."
+   }
+  ]
+ },
+ {
+  "id": "s39",
+  "unit": "u6",
+  "title": "Análisis del riesgo y pérdida esperada",
+  "page": 55,
+  "orig": "páginas 83-84",
+  "blocks": [
+   {
+    "id": "s39.1",
+    "t": "p",
+    "text": "Consiste en analizar el **impacto potencial** de cada amenaza para determinar la **pérdida esperada**. Es un proceso estructurado, que puede ser cualitativo y no cuantitativo. Se relacionan activos, vulnerabilidades y lugares donde se producen para formular, expresar y calcular el riesgo."
+   },
+   {
+    "id": "s39.2",
+    "t": "li",
+    "text": "1. **Evaluar los costos empresariales** de una brecha de seguridad. Incluir cálculos financieros, al menos aproximados, incluso para los costos conceptuales."
+   },
+   {
+    "id": "s39.3",
+    "t": "li",
+    "text": "2. **Estimar la frecuencia de ocurrencia** mediante la probabilidad de agresión y la probabilidad de que la agresión prospere. Agresión es cualquier falla de seguridad, no necesariamente un abuso humano deliberado."
+   },
+   {
+    "id": "s39.4",
+    "t": "callout",
+    "text": "**Pérdida esperada = Pérdida potencial ($) × Frecuencia de pérdida**"
+   },
+   {
+    "id": "s39.5",
+    "t": "callout",
+    "text": "**Frecuencia de pérdida = Probabilidad de agresión × Probabilidad de éxito**"
+   },
+   {
+    "id": "s39.6",
+    "t": "p",
+    "text": "Se calcula por cada activo o grupo de activos identificado en la primera etapa."
+   },
+   {
+    "id": "s39.7",
+    "t": "table",
+    "rows": [
+     [
+      "**Amenaza**",
+      "**Probabilidad de agresión**",
+      "**Probabilidad de éxito**",
+      "**Frecuencia**"
+     ],
+     [
+      "Entrada de datos incorrecta",
+      "Muy alta: 90%",
+      "Mediana: 50%",
+      "45%"
+     ],
+     [
+      "Incendio",
+      "Mediana: 50%",
+      "Alta: 70%",
+      "35%"
+     ],
+     [
+      "Hacking",
+      "Baja: 20%",
+      "Mediana: 50%",
+      "10%"
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s39.8",
+    "t": "callout",
+    "text": "**Costo (de las consecuencias) × Frecuencia = Exposición anual de pérdidas**"
+   },
+   {
+    "id": "s39.9",
+    "t": "p",
+    "text": "El análisis establece el costo de las pérdidas; el manejo del riesgo identifica y elige las contramedidas para alcanzar el equilibrio con el costo de las medidas de seguridad. Se necesita una valoración realista de la **magnitud de las pérdidas** y de la **posibilidad de que la amenaza se convierta en realidad**."
+   }
+  ]
+ },
+ {
+  "id": "s40",
+  "unit": "u6",
+  "title": "Pérdidas resultantes de una falla de seguridad",
+  "page": 56,
+  "orig": "páginas 84-85",
+  "blocks": [
+   {
+    "id": "s40.1",
+    "t": "p",
+    "text": "Las pérdidas se relacionan con los atributos de valor agregado de la información: **disponibilidad** (acceso), **integridad/precisión** (confianza en los datos) y **confidencialidad/seguridad** (posesión exclusiva). La incertidumbre sobre la precisión o la confidencialidad agrava la pérdida."
+   },
+   {
+    "id": "s40.2",
+    "t": "p",
+    "text": "**Consecuencias primarias:** se desprenden directamente y, por lo general, de forma inmediata de la falla. **Consecuencias secundarias:** surgen de las pérdidas primarias, no de la falla en sí misma."
+   },
+   {
+    "id": "s40.3",
+    "t": "table",
+    "rows": [
+     [
+      "**Consecuencias primarias**",
+      "**Consecuencias secundarias**"
+     ],
+     [
+      "Interrupción del procesamiento. Corrupción de registros. Destrucción de medios de almacenamiento. Uso de software no autorizado. Revelación de información confidencial. Desaparición de equipos, datos o software. Pérdida de registros contables.",
+      "Pérdida de producción. Retraso en entregas. Problemas de flujo de efectivo. Pérdida de confianza del cliente. Declaraciones de impuestos imprecisas. Información gerencial inútil, imprecisa o inoportuna. Sanciones legales. Incapacidad de continuar la función del sistema o el negocio. Pérdida de posición competitiva."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s40.4",
+    "t": "callout",
+    "text": "**Pérdida total = Consecuencias primarias + Consecuencias secundarias**"
+   },
+   {
+    "id": "s40.5",
+    "t": "p",
+    "text": "Al minimizar las pérdidas primarias también se minimizan las secundarias."
+   }
+  ]
+ },
+ {
+  "id": "s41",
+  "unit": "u6",
+  "title": "Manejo del riesgo y política de seguridad",
+  "page": 57,
+  "orig": "páginas 85-87",
+  "blocks": [
+   {
+    "id": "s41.1",
+    "t": "p",
+    "text": "El **manejo del riesgo** aplica controles y contramedidas apropiadas según tiempo, dinero y otras restricciones. Busca el método más efectivo en cuanto al costo, manteniendo el equilibrio deseado."
+   },
+   {
+    "id": "s41.2",
+    "t": "p",
+    "text": "Los pasos previos son enumerar amenazas, cuantificar las pérdidas de las amenazas exitosas y determinar **ALE (tabla de pérdida anual)** u otra medida de probabilidad o gravedad. Sirven para seleccionar las estrategias."
+   },
+   {
+    "id": "s41.3",
+    "t": "table",
+    "rows": [
+     [
+      "**Estrategia**",
+      "**Finalidad y aplicación**"
+     ],
+     [
+      "Prevenir el riesgo",
+      "Intentar evitar la amenaza: alejar sistemas de áreas peligrosas, proteger datos delicados, no descentralizar, utilizar antivirus."
+     ],
+     [
+      "Transferir el riesgo",
+      "Transferir a un tercero los costos de una falla, mediante seguros o contratos de mantenimiento. Efectivo ante alto costo y baja probabilidad."
+     ],
+     [
+      "Reducir el riesgo",
+      "Introducir controles y contramedidas para reducir la probabilidad de ocurrencia y/o las pérdidas. Ejemplo: backup."
+     ],
+     [
+      "Asumir el riesgo",
+      "Aceptar pérdidas totales tolerables para la organización, considerando también su probabilidad de ocurrencia."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s41.4",
+    "t": "p",
+    "text": "Un **portfolio de management de riesgo** es un conjunto heterogéneo de estrategias seleccionadas a partir de la identificación y el análisis sistemáticos del riesgo."
+   },
+   {
+    "id": "s41.5",
+    "t": "p",
+    "text": "La seguridad de los SI es un tema estratégico. Si las **pérdidas prevenidas o reducidas superan el costo de seguridad**, existe una contribución neta a las ganancias."
+   },
+   {
+    "id": "s41.6",
+    "t": "h",
+    "text": "Política de seguridad"
+   },
+   {
+    "id": "s41.7",
+    "t": "p",
+    "text": "Define el nivel de seguridad ajustado al **valor de lo que se protege** y al **gasto e inconveniencia de las medidas**. Documenta la identificación y el análisis del riesgo y las estrategias elegidas. Debe cubrir: **protección, valor, acceso y recuperación de la información**."
+   },
+   {
+    "id": "s41.8",
+    "t": "h",
+    "text": "Controles generales y de aplicación"
+   },
+   {
+    "id": "s41.9",
+    "t": "li",
+    "text": "**Generales:** reducen amenazas sobre todas las actividades de SI. Una debilidad puede afectar cualquier sistema y su costo se comparte entre las áreas protegidas."
+   },
+   {
+    "id": "s41.10",
+    "t": "li",
+    "text": "**De aplicación:** protegen un área específica de las amenazas."
+   },
+   {
+    "id": "s41.11",
+    "t": "p",
+    "text": "Las medidas deben evaluarse por sus **costos netos** y por los **nuevos riesgos potenciales** que pueda producir su adopción."
+   }
+  ]
+ },
+ {
+  "id": "s42",
+  "unit": "u6",
+  "title": "Controles, contramedidas y líneas de defensa",
+  "page": 58,
+  "orig": "páginas 87-88",
+  "blocks": [
+   {
+    "id": "s42.1",
+    "t": "p",
+    "text": "**Controles:** prevención y detección; se implementan antes de un incidente para reducir su probabilidad o detectarlo tempranamente. **Contramedidas:** respuesta y mitigación; limitan daños y permiten recuperar la normalidad después del incidente."
+   },
+   {
+    "id": "s42.2",
+    "t": "p",
+    "text": "Las amenazas deben combatirse por **capas de controles** dirigidas a diferentes aspectos del uso y management de los IS. Su naturaleza depende de:"
+   },
+   {
+    "id": "s42.3",
+    "t": "li",
+    "text": "**Plataforma de HW:** influye en tipo y cantidad de controles disponibles."
+   },
+   {
+    "id": "s42.4",
+    "t": "li",
+    "text": "**Grado de distribución:** influye en el énfasis de los controles."
+   },
+   {
+    "id": "s42.5",
+    "t": "li",
+    "text": "**Integración de la infraestructura:** influye en la naturaleza de la amenaza."
+   },
+   {
+    "id": "s42.6",
+    "t": "p",
+    "text": "Un cambio en estos aspectos extiende sus consecuencias de seguridad por todas las capas."
+   },
+   {
+    "id": "s42.7",
+    "t": "table",
+    "rows": [
+     [
+      "**Línea de defensa**",
+      "**Finalidad**",
+      "**Ejemplo**"
+     ],
+     [
+      "Primera: prevención",
+      "Evitar la ocurrencia de amenazas.",
+      "Prohibir fumar en el centro de datos."
+     ],
+     [
+      "Segunda: detección",
+      "Detectar fallas pese a la primera línea.",
+      "Detector de humo."
+     ],
+     [
+      "Tercera: recuperación",
+      "Recuperarse con pérdidas mínimas.",
+      "Backups de datos off-site."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s42.8",
+    "t": "h",
+    "text": "Controles lógicos y físicos"
+   },
+   {
+    "id": "s42.9",
+    "t": "li",
+    "text": "**Lógicos:** aseguran el desarrollo, la integridad de los datos y las operaciones. Ejemplo: identificación de usuarios y contraseñas para restringir el acceso."
+   },
+   {
+    "id": "s42.10",
+    "t": "li",
+    "text": "**Físicos:** filtran el acceso físico a los elementos de IS. Incluyen personal de seguridad, vigilancia, cerraduras y tarjetas con clave. Sus costos y efectos sobre el personal requieren evaluación."
+   },
+   {
+    "id": "s42.11",
+    "t": "p",
+    "text": "Otros ejemplos: estándares de operatividad, división de responsabilidades, seguridad de red, encriptación, antivirus y detección y prevención de incendios. Las herramientas se complementan con **políticas y buenas prácticas de seguridad**."
+   }
+  ]
+ },
+ {
+  "id": "s43",
+  "unit": "u6",
+  "title": "Recuperación ante el desastre",
+  "page": 59,
+  "orig": "páginas 88-90",
+  "blocks": [
+   {
+    "id": "s43.1",
+    "t": "p",
+    "text": "La **planificación de contingencias** parte de que la prevención total es imposible o poco práctica. Define planes para **asegurar la continuidad de las operaciones** y procesos para la recuperación. Primero se incrementa la seguridad, se minimizan daños y se facilita el regreso al trabajo; luego se minimizan los efectos secundarios."
+   },
+   {
+    "id": "s43.2",
+    "t": "li",
+    "text": "**Tiempo de inhabilitación:** tiempo hasta que los sistemas vuelvan a estar disponibles."
+   },
+   {
+    "id": "s43.3",
+    "t": "li",
+    "text": "**Respaldo:** mantener la empresa funcionando mediante los sistemas claves, críticos y vitales, hasta volver a la normalidad."
+   },
+   {
+    "id": "s43.4",
+    "t": "li",
+    "text": "**Reinstalación:** actualizar los sistemas con los datos generados durante la inactividad de la sede central."
+   },
+   {
+    "id": "s43.5",
+    "t": "p",
+    "text": "La recuperación debe ser rápida. Cuando las consecuencias del riesgo son bajas, puede constituir una estrategia adecuada de manejo del riesgo."
+   },
+   {
+    "id": "s43.6",
+    "t": "h",
+    "text": "Clasificación de sistemas y aplicaciones (Lardent)"
+   },
+   {
+    "id": "s43.7",
+    "t": "p",
+    "text": "El primer paso es clasificarlos por necesidad de las operaciones y **grado de tolerancia**, para establecer prioridades. El plan debe cubrir todos los aspectos del uso y management de los SI."
+   },
+   {
+    "id": "s43.8",
+    "t": "table",
+    "rows": [
+     [
+      "**Sistema**",
+      "**Tolerancia y reemplazo**"
+     ],
+     [
+      "Críticos",
+      "Muy baja; costo de interrupción muy alto. No pueden reemplazarse por métodos manuales."
+     ],
+     [
+      "Vitales",
+      "Moderada; costo de interrupción ligeramente menor. Pueden ejecutarse manualmente por períodos breves."
+     ],
+     [
+      "Sensibles",
+      "Flexible; costos tolerables. Admiten trabajo manual por períodos relativamente largos, con mano de obra adicional."
+     ],
+     [
+      "No críticos",
+      "Amplia; costo escaso o nulo. Pueden reemplazarse con poco esfuerzo."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s43.9",
+    "t": "p",
+    "text": "Una mayor automatización implica mayores riesgos y dificultades para restaurar procedimientos. La planificación forma parte del management estratégico de los SI. Debe mantenerse actualizada respecto de los tiempos de desastre y los cronogramas de prioridades."
+   }
+  ]
+ },
+ {
+  "id": "s44",
+  "unit": "u6",
+  "title": "Evaluación de riesgos y plan de contingencias",
+  "page": 60,
+  "orig": "páginas 89-91",
+  "blocks": [
+   {
+    "id": "s44.1",
+    "t": "p",
+    "text": "**Desastre:** suceso de ocurrencia incierta que puede interrumpir o afectar seriamente la operación normal del negocio. Los riesgos se priorizan según la **sensibilidad al tiempo** necesario para reanudarlo. La **tolerancia del sistema** es su capacidad de enfrentar una interrupción y puede expresarse como valor monetario."
+   },
+   {
+    "id": "s44.2",
+    "t": "table",
+    "rows": [
+     [
+      "**Nivel de emergencia**",
+      "**Interrupción y respuesta**"
+     ],
+     [
+      "Catástrofe",
+      "Destrucción de instalaciones y componentes físicos. Se requiere una instalación alternativa y equipar una nueva para restablecer el servicio continuo a muy corto plazo."
+     ],
+     [
+      "Desastre",
+      "Interrupción superior a un día, con posibilidad de reanudar en la sede original. Se utiliza una instalación alternativa y copias de SW y datos conservadas fuera de la sede."
+     ],
+     [
+      "No desastres",
+      "Interrupciones que no duran más de un día por fallas de dispositivos o SW; requieren corrección inmediata."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s44.3",
+    "t": "p",
+    "text": "**Lapso crítico de recuperación:** tiempo hasta el cual puede extenderse una interrupción antes de que exista riesgo de pérdidas. Depende de la naturaleza del negocio y de los sistemas."
+   },
+   {
+    "id": "s44.4",
+    "t": "h",
+    "text": "Contenido del plan de contingencias"
+   },
+   {
+    "id": "s44.5",
+    "t": "p",
+    "text": "La formulación es responsabilidad de la **gerencia superior**. Debe prever tiempo de inhabilitación, respaldo, reinstalación y tolerancia del sistema. Incluye:"
+   },
+   {
+    "id": "s44.6",
+    "t": "li",
+    "text": "1. Prioridades para recuperar aplicaciones, SW de base y archivos según tolerancia a la interrupción."
+   },
+   {
+    "id": "s44.7",
+    "t": "li",
+    "text": "2. Orden de procesamiento de tareas."
+   },
+   {
+    "id": "s44.8",
+    "t": "li",
+    "text": "3. Acoplamiento a sistemas manuales en interrupciones cortas."
+   },
+   {
+    "id": "s44.9",
+    "t": "li",
+    "text": "4. Equipos de todo el ambiente informático y sedes remotas; entrenamiento del personal."
+   },
+   {
+    "id": "s44.10",
+    "t": "li",
+    "text": "5. Hardware alternativo: centro duplicado propio o centros en otra sede contratados con terceros."
+   },
+   {
+    "id": "s44.11",
+    "t": "li",
+    "text": "6. Telecomunicaciones para los procesos críticos: **rutas alternativas** cuando se interrumpe la red normal y **rutas diversificadas** en distinto lugar físico."
+   },
+   {
+    "id": "s44.12",
+    "t": "li",
+    "text": "7. Sede alternativa para medios magnéticos, datos de backup y documentación."
+   },
+   {
+    "id": "s44.13",
+    "t": "p",
+    "text": "Los **backups deben mantenerse off-site** para que el desastre no los afecte. Todos los enfoques de desarrollo de SI deben ofrecer puntos de recuperación."
+   }
+  ]
+ },
+ {
+  "id": "s45",
+  "unit": "u6",
+  "title": "Respaldo, recuperación y revisión de continuidad",
+  "page": 61,
+  "orig": "páginas 89-92",
+  "blocks": [
+   {
+    "id": "s45.1",
+    "t": "h",
+    "text": "Soluciones de respaldo y hardware alternativo"
+   },
+   {
+    "id": "s45.2",
+    "t": "li",
+    "text": "**Instalaciones de emergencia:** todo instalado; operación inmediata si hay backups disponibles. **Intermedias:** centro de datos vacío pero equipado; menor costo y activación más lenta. **Móviles:** vehículos o edificaciones prefabricadas semimóviles."
+   },
+   {
+    "id": "s45.3",
+    "t": "li",
+    "text": "**Centro duplicado propio:** eficaz para aplicaciones críticas, pero costoso. Los centros contratados con terceros se clasifican por tiempo de activación y costo:"
+   },
+   {
+    "id": "s45.4",
+    "t": "table",
+    "rows": [
+     [
+      "**Alternativa**",
+      "**Características**"
+     ],
+     [
+      "Hot Sites",
+      "Instalaciones completas, similares a la sede primaria; activación rápida."
+     ],
+     [
+      "Warm Sites",
+      "Parcialmente configuradas; generalmente sin unidad central de procesamiento. Más económicas."
+     ],
+     [
+      "Cold Sites",
+      "Espacios preparados para recibir equipamiento, sin instalaciones específicas."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s45.5",
+    "t": "h",
+    "text": "Metodología de recuperación (Lardent)"
+   },
+   {
+    "id": "s45.6",
+    "t": "li",
+    "text": "1. Protección de la vida humana."
+   },
+   {
+    "id": "s45.7",
+    "t": "li",
+    "text": "2. Evaluación de daños y estimación del tiempo de recuperación."
+   },
+   {
+    "id": "s45.8",
+    "t": "li",
+    "text": "3. Coordinación de actividades: datos vitales y críticos, reconstrucción de la base de datos, instalación y prueba de SW en sede alternativa."
+   },
+   {
+    "id": "s45.9",
+    "t": "li",
+    "text": "4. Restauración del SW de base y de aplicación en la sede alternativa."
+   },
+   {
+    "id": "s45.10",
+    "t": "li",
+    "text": "5. Recuperación de telecomunicaciones."
+   },
+   {
+    "id": "s45.11",
+    "t": "li",
+    "text": "6. Preparación de datos y registros: obtención, carga y actualización de la base de datos."
+   },
+   {
+    "id": "s45.12",
+    "t": "li",
+    "text": "7. Almacenamiento en sede alternativa: cronograma y vigilancia de la información inicial y de la generada durante la recuperación."
+   },
+   {
+    "id": "s45.13",
+    "t": "li",
+    "text": "8. Administración de condiciones de seguridad."
+   },
+   {
+    "id": "s45.14",
+    "t": "li",
+    "text": "9. Apoyo administrativo, control y balanceo de datos."
+   },
+   {
+    "id": "s45.15",
+    "t": "li",
+    "text": "10. Gestión de aspectos legales derivados de la emergencia."
+   },
+   {
+    "id": "s45.16",
+    "t": "h",
+    "text": "Funciones del auditor en la continuidad de operaciones"
+   },
+   {
+    "id": "s45.17",
+    "t": "p",
+    "text": "Revisar la **adecuación y actualización del plan**, distintos grados de desastre y tolerancia de cada aplicación; inventario en sede alternativa; capacitación; fusión de datos anteriores y del período de emergencia; seguridad física y accesos; contrato con el proveedor alternativo; resultados de pruebas anteriores y cobertura de seguros."
+   }
+  ]
+ },
+ {
+  "id": "s46",
+  "unit": "u6",
+  "title": "Políticas de seguridad",
+  "page": 61,
+  "orig": "páginas 92-94",
+  "blocks": [
+   {
+    "id": "s46.1",
+    "t": "p",
+    "text": "Son requisitos definidos por los responsables de un sistema que indican, en términos generales, **qué está permitido y qué no** durante su operación. Son medidas preventivas de la primera línea de defensa. Pueden ser **generales** o **específicas** para activos, situaciones o perfiles de usuario. La política de aplicación específica convierte requisitos generales en indicaciones precisas."
+   },
+   {
+    "id": "s46.2",
+    "t": "table",
+    "rows": [
+     [
+      "**Tipo**",
+      "**Criterio**"
+     ],
+     [
+      "Prohibitiva",
+      "Todo lo que no está expresamente permitido está prohibido. Más efectiva para la seguridad del sistema."
+     ],
+     [
+      "Permisiva",
+      "Todo lo que no está expresamente prohibido está permitido."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s46.3",
+    "t": "h",
+    "text": "Seis elementos claves"
+   },
+   {
+    "id": "s46.4",
+    "t": "li",
+    "text": "**Disponibilidad:** recursos disponibles cuando se necesitan, especialmente información crítica."
+   },
+   {
+    "id": "s46.5",
+    "t": "li",
+    "text": "**Utilidad:** recursos e información útiles para alguna función."
+   },
+   {
+    "id": "s46.6",
+    "t": "li",
+    "text": "**Integridad:** información disponible tal como la almacenó un agente autorizado."
+   },
+   {
+    "id": "s46.7",
+    "t": "li",
+    "text": "**Autenticidad:** verificar la identidad de los usuarios y la del sistema."
+   },
+   {
+    "id": "s46.8",
+    "t": "li",
+    "text": "**Confidencialidad:** información disponible solo para agentes autorizados."
+   },
+   {
+    "id": "s46.9",
+    "t": "li",
+    "text": "**Posesión:** los propietarios deben controlar el sistema en todo momento."
+   },
+   {
+    "id": "s46.10",
+    "t": "h",
+    "text": "Política, estándar, mejor práctica, guía y procedimiento"
+   },
+   {
+    "id": "s46.11",
+    "t": "table",
+    "rows": [
+     [
+      "**Concepto**",
+      "**Definición**"
+     ],
+     [
+      "Política",
+      "Declaración general de principios de la administración para un área de control. Pocas, de largo plazo, aprobadas por la dirección y obligatorias; el incumplimiento requiere una excepción aprobada."
+     ],
+     [
+      "Estándar",
+      "Regla obligatoria que especifica una acción o respuesta. Implementa las políticas sin crear nuevas políticas."
+     ],
+     [
+      "Mejor práctica",
+      "Regla de seguridad específica de una plataforma, aceptada por la industria. Busca configuración y administración uniformes y seguridad consistente."
+     ],
+     [
+      "Guía",
+      "Recomendación para implementar políticas, estándares y buenas prácticas. No obligatoria; se sigue salvo argumentos documentados y aprobados."
+     ],
+     [
+      "Procedimiento",
+      "Pasos específicos para implementar los anteriores en una tecnología, aplicación o proceso. Generalmente los desarrolla, implementa y supervisa el dueño del proceso o sistema."
+     ]
+    ],
+    "head": true
+   }
+  ]
+ },
+ {
+  "id": "s47",
+  "unit": "u6",
+  "title": "Ciclo de vida de una política",
+  "page": 63,
+  "orig": "páginas 94-95",
+  "blocks": [
+   {
+    "id": "s47.1",
+    "t": "table",
+    "rows": [
+     [
+      "**Fase**",
+      "**Actividades**"
+     ],
+     [
+      "Desarrollo",
+      "**Creación:** planificar, investigar y redactar; identificar necesidad, alcance y aplicabilidad. **Revisión:** revisión independiente antes de la aprobación final. **Aprobación:** obtener apoyo de la administración para iniciar la implementación."
+     ],
+     [
+      "Implementación",
+      "**Comunicación:** difundir y concientizar. **Cumplimiento:** seguimiento de su aplicación. **Excepciones:** documentar situaciones en que no pueda cumplirse de la forma prevista."
+     ],
+     [
+      "Mantenimiento",
+      "**Concientización:** trabajo continuo para comprender su importancia y cumplirla. **Monitoreo:** seguir y reportar efectividad. **Garantía de cumplimiento:** identificar omisiones, analizar causas y prevenir su repetición. **Mantenimiento:** la política es contingencial."
+     ],
+     [
+      "Eliminación",
+      "**Retiro:** se elimina cuando cumplió su finalidad y ya no es necesaria."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s47.2",
+    "t": "h",
+    "text": "Ejemplo del apunte: correo electrónico confidencial"
+   },
+   {
+    "id": "s47.3",
+    "t": "table",
+    "rows": [
+     [
+      "**Concepto**",
+      "**Aplicación**"
+     ],
+     [
+      "Política",
+      "Garantizar seguridad en el correo electrónico cuyo contenido sea información confidencial."
+     ],
+     [
+      "Estándares",
+      "Utilizar un sistema de criptografía aprobado y borrar los mensajes de forma segura después del envío."
+     ],
+     [
+      "Mejor práctica",
+      "Configurar el correo en un sistema específico, como Windows o Linux, para cumplir política y estándar."
+     ],
+     [
+      "Procedimientos",
+      "Especificar cómo aplicar la política y los estándares en una dependencia determinada."
+     ],
+     [
+      "Guías",
+      "Recomendar técnicas, configuraciones y secuencias de comandos para asegurar información enviada y recibida."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s47.4",
+    "t": "p",
+    "text": "Las políticas guían reglas y criterios más específicos. Los **estándares, mejores prácticas, procedimientos y guías** despliegan y soportan la política."
+   }
+  ]
+ },
+ {
+  "id": "s48",
+  "unit": "u6",
+  "title": "Clasificación y tipos de ataques",
+  "page": 63,
+  "orig": "páginas 95-97",
+  "blocks": [
+   {
+    "id": "s48.1",
+    "t": "p",
+    "text": "**Delito informático:** acción culpable humana realizada en un entorno informático, tipificada por la ley y sancionada con una pena, que causa perjuicio a otras personas o produce un beneficio ilícito al autor. **Ataque:** realización de una amenaza."
+   },
+   {
+    "id": "s48.2",
+    "t": "table",
+    "rows": [
+     [
+      "**Ataque**",
+      "**Aspecto afectado**",
+      "**Qué ocurre**"
+     ],
+     [
+      "Interrupción",
+      "Disponibilidad",
+      "Un recurso es destruido o deja de estar disponible: destrucción de HW, corte de una línea o deshabilitación de un sistema."
+     ],
+     [
+      "Intercepción",
+      "Confidencialidad",
+      "Acceso de una entidad no autorizada: copia ilícita, lectura de datos de red o de cabeceras para identificar usuarios."
+     ],
+     [
+      "Modificación",
+      "Integridad",
+      "Una entidad no autorizada accede y manipula: cambia datos, programas o mensajes."
+     ],
+     [
+      "Fabricación",
+      "Autenticidad",
+      "Inserción de objetos falsificados: mensajes espurios o registros añadidos a un archivo."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s48.3",
+    "t": "h",
+    "text": "Ataques pasivos"
+   },
+   {
+    "id": "s48.4",
+    "t": "p",
+    "text": "El atacante **no altera la comunicación**: escucha o monitoriza para obtener información. Busca **intercepción de datos y análisis de tráfico**. Son difíciles de detectar porque no alteran los datos; el cifrado y otros mecanismos pueden evitar su éxito."
+   },
+   {
+    "id": "s48.5",
+    "t": "h",
+    "text": "Ataques activos"
+   },
+   {
+    "id": "s48.6",
+    "t": "p",
+    "text": "Implican modificación del flujo de datos transmitido o creación de un falso flujo. Se subdividen en:"
+   },
+   {
+    "id": "s48.7",
+    "t": "li",
+    "text": "**Suplantación de identidad:** el intruso se hace pasar por otra entidad. Puede capturar y repetir secuencias de autenticación o robar contraseñas para acceder a recursos privilegiados."
+   },
+   {
+    "id": "s48.8",
+    "t": "li",
+    "text": "**Reactuación:** captura y repetición de mensajes legítimos para producir un efecto no deseado, como ingresar dinero repetidamente."
+   },
+   {
+    "id": "s48.9",
+    "t": "li",
+    "text": "**Modificación de mensajes:** alterar, retardar o reordenar mensajes para producir un efecto no autorizado."
+   },
+   {
+    "id": "s48.10",
+    "t": "li",
+    "text": "**Degradación fraudulenta del servicio:** impedir o inhibir el uso normal o la gestión de recursos; suprimir mensajes o inundar la red con mensajes espurios."
+   }
+  ]
+ },
+ {
+  "id": "s49",
+  "unit": "u6",
+  "title": "Auditoría y auditoría de sistemas",
+  "page": 65,
+  "orig": "páginas 98-100",
+  "blocks": [
+   {
+    "id": "s49.1",
+    "t": "p",
+    "text": "La **auditoría** es una **opinión profesional**, sustentada en determinados **procedimientos**, sobre información obtenida en un soporte. Su finalidad es determinar si presenta adecuadamente la realidad o responde a las expectativas atribuidas: su **fiabilidad**."
+   },
+   {
+    "id": "s49.2",
+    "t": "p",
+    "text": "Según su naturaleza puede ser **financiera, administrativa, de gestión de RRHH, de calidad, operativa y de sistemas de información**. La financiera evalúa registros y estados contables; la operativa evalúa la estructura de control interno y la eficacia de otros controles. La auditoría global incluye la contable y la operativa; la auditoría de sistemas forma parte de ella."
+   },
+   {
+    "id": "s49.3",
+    "t": "p",
+    "text": "La auditoría general comprende auditoría interna y externa. Coordinarlas evita duplicaciones y desperdicio de recursos y permite una cobertura más completa."
+   },
+   {
+    "id": "s49.4",
+    "t": "h",
+    "text": "Auditoría de sistemas/informática (Lardent)"
+   },
+   {
+    "id": "s49.5",
+    "t": "p",
+    "text": "Revisión sistemática y organizada de los sistemas en funcionamiento para verificar:"
+   },
+   {
+    "id": "s49.6",
+    "t": "li",
+    "text": "**Vigencia de los objetivos** que dieron base al diseño original."
+   },
+   {
+    "id": "s49.7",
+    "t": "li",
+    "text": "**Concordancia del sistema con los objetivos:** efectividad."
+   },
+   {
+    "id": "s49.8",
+    "t": "li",
+    "text": "**Permanencia del diseño:** ausencia de alteraciones que lo degraden operativamente."
+   },
+   {
+    "id": "s49.9",
+    "t": "li",
+    "text": "**Eficiencia:** relación costo-beneficio y uso óptimo de recursos."
+   },
+   {
+    "id": "s49.10",
+    "t": "li",
+    "text": "**Seguridad del sistema.**"
+   },
+   {
+    "id": "s49.11",
+    "t": "p",
+    "text": "Su finalidad es evaluar si los sistemas operan de forma **efectiva, fiable y segura** según normas establecidas. La información debe ser certera para la toma de decisiones."
+   },
+   {
+    "id": "s49.12",
+    "t": "p",
+    "text": "La auditoría informática evalúa periódicamente **eficacia, eficiencia e integridad**, recolectando evidencias y evaluando controles internos para verificar la salvaguarda de activos, integridad de datos, cumplimiento de objetivos y uso eficiente de recursos."
+   }
+  ]
+ },
+ {
+  "id": "s50",
+  "unit": "u6",
+  "title": "Objetos, áreas y alcance de la auditoría de SI",
+  "page": 65,
+  "orig": "páginas 99 y 108",
+  "blocks": [
+   {
+    "id": "s50.1",
+    "t": "p",
+    "text": "**Objeto de audito:** recursos informáticos, función de SI como unidad organizativa, aplicaciones, proyectos, planes de contingencia y almacenamientos de datos, entre otros."
+   },
+   {
+    "id": "s50.2",
+    "t": "h",
+    "text": "Qué debe asegurar la auditoría de sistemas"
+   },
+   {
+    "id": "s50.3",
+    "t": "li",
+    "text": "**Pistas de auditoría:** trazabilidad para rastrear operaciones."
+   },
+   {
+    "id": "s50.4",
+    "t": "li",
+    "text": "Controles adecuados de entrada de datos, mantenimiento de su integridad y transacciones."
+   },
+   {
+    "id": "s50.5",
+    "t": "li",
+    "text": "Manejo de excepciones y rechazos de los controles de entrada; incorporación al sistema cuando corresponda."
+   },
+   {
+    "id": "s50.6",
+    "t": "li",
+    "text": "Cumplimiento de políticas corporativas y reglamentos gubernamentales incorporados."
+   },
+   {
+    "id": "s50.7",
+    "t": "li",
+    "text": "Comportamiento de los sistemas según su definición e interconexión adecuada."
+   },
+   {
+    "id": "s50.8",
+    "t": "li",
+    "text": "Modificaciones autorizadas por el nivel jerárquico correspondiente."
+   },
+   {
+    "id": "s50.9",
+    "t": "li",
+    "text": "Condiciones y procedimientos de seguridad para proteger datos."
+   },
+   {
+    "id": "s50.10",
+    "t": "h",
+    "text": "Aspectos a revisar"
+   },
+   {
+    "id": "s50.11",
+    "t": "p",
+    "text": "Controles generales sobre estructura, políticas, procedimientos y ambiente de control; operaciones de procesamiento; seguridad y accesos lógicos y físicos; software del sistema operativo; metodología de desarrollo; controles de aplicaciones; existencia de un plan de contingencias coherente con sus objetivos."
+   },
+   {
+    "id": "s50.12",
+    "t": "h",
+    "text": "Secciones de la auditoría de SI (Lardent)"
+   },
+   {
+    "id": "s50.13",
+    "t": "li",
+    "text": "1. **Función informática:** organización y administración del ambiente informático."
+   },
+   {
+    "id": "s50.14",
+    "t": "li",
+    "text": "2. **Sistemas y procedimientos:** desarrollo de sistemas y sistemas instalados."
+   },
+   {
+    "id": "s50.15",
+    "t": "li",
+    "text": "3. **Proceso de datos, sistemas y equipos.**"
+   },
+   {
+    "id": "s50.16",
+    "t": "li",
+    "text": "4. **Seguridad.**"
+   },
+   {
+    "id": "s50.17",
+    "t": "li",
+    "text": "5. **Aspectos legales de los sistemas y la información.**"
+   }
+  ]
+ },
+ {
+  "id": "s51",
+  "unit": "u6",
+  "title": "Control interno informático",
+  "page": 66,
+  "orig": "páginas 100-101 y 103",
+  "blocks": [
+   {
+    "id": "s51.1",
+    "t": "p",
+    "text": "Como unidad organizativa, el **Control Interno Informático (CII)** controla diariamente que las actividades de SI/TI cumplan procedimientos, estándares, normas de la dirección y requerimientos legales. Su misión es asegurar que las medidas implementadas por cada responsable sean correctas, válidas y se cumplan."
+   },
+   {
+    "id": "s51.2",
+    "t": "li",
+    "text": "Colaborar con auditorías internas y externas; controlar cumplimiento y asesorar sobre normas."
+   },
+   {
+    "id": "s51.3",
+    "t": "li",
+    "text": "Intervenir en definición, implementación y ejecución de mecanismos que comprueben niveles de servicio adecuados."
+   },
+   {
+    "id": "s51.4",
+    "t": "li",
+    "text": "Controlar producción diaria, cambios de SW, calidad y eficiencia del desarrollo y mantenimiento, redes, SW de base, seguridad, licencias y contratos de outsourcing."
+   },
+   {
+    "id": "s51.5",
+    "t": "p",
+    "text": "Los controles deben ser **completos, simples, fiables, revisables, adecuados y rentables**. Se analiza el costo-riesgo de implantación. Para integridad, disponibilidad y eficacia se requieren mecanismos de control, muchos automáticos."
+   },
+   {
+    "id": "s51.6",
+    "t": "h",
+    "text": "Control interno como actividad"
+   },
+   {
+    "id": "s51.7",
+    "t": "p",
+    "text": "Cualquier acción manual o automática para prevenir o corregir errores o irregularidades que afecten el funcionamiento del sistema y sus objetivos."
+   },
+   {
+    "id": "s51.8",
+    "t": "table",
+    "rows": [
+     [
+      "**Categoría**",
+      "**Finalidad y ejemplo**"
+     ],
+     [
+      "Preventivo",
+      "Evita errores, omisiones o actos maliciosos. Acceso lógico solo a personas y desde lugares autorizados."
+     ],
+     [
+      "De detección",
+      "Detecta e informa errores, omisiones o actos maliciosos cuando fallan los preventivos. Registro de intentos de acceso no autorizado."
+     ],
+     [
+      "Correctivo",
+      "Corrige errores, omisiones o actos maliciosos y restablece el funcionamiento. Corrección del formato de fecha o recuperación de archivos mediante backup."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s51.9",
+    "t": "h",
+    "text": "CII y auditor informático: similitudes y diferencias"
+   },
+   {
+    "id": "s51.10",
+    "t": "p",
+    "text": "Ambos requieren personal especializado en TI y verifican controles, normativa y procedimientos establecidos por la dirección."
+   },
+   {
+    "id": "s51.11",
+    "t": "table",
+    "rows": [
+     [
+      "**Control interno informático**",
+      "**Auditor informático**"
+     ],
+     [
+      "Análisis continuo, día a día.",
+      "Análisis de un momento informático determinado."
+     ],
+     [
+      "Informa a la Dirección de Informática.",
+      "Informa a la Dirección General."
+     ],
+     [
+      "Personal interno; alcance en el Departamento de Informática.",
+      "Personal interno y/o externo; cobertura de todos los componentes de SI de la organización."
+     ],
+     [
+      "Opera según procedimientos de control. Funciones propias, control dual, función normativa y cumplimiento jurídico.",
+      "Vigilancia y evaluación mediante dictámenes; opera según el plan auditor."
+     ]
+    ],
+    "head": true
+   }
+  ]
+ },
+ {
+  "id": "s52",
+  "unit": "u6",
+  "title": "Implantación del CII y responsabilidades",
+  "page": 67,
+  "orig": "páginas 102-103",
+  "blocks": [
+   {
+    "id": "s52.1",
+    "t": "p",
+    "text": "Antes de implantar controles se debe conocer y documentar la **configuración del ambiente informático**: entorno de red, ordenador base, aplicaciones, productos y herramientas, y seguridad del ordenador base."
+   },
+   {
+    "id": "s52.2",
+    "t": "table",
+    "rows": [
+     [
+      "**Aspecto**",
+      "**Qué debe definirse**"
+     ],
+     [
+      "Gestión de SI",
+      "Políticas, pautas y normas técnicas para diseñar e implantar SI y sus controles."
+     ],
+     [
+      "Administración de sistemas",
+      "Controles de centros de datos y funciones de apoyo, incluida la administración de redes."
+     ],
+     [
+      "Seguridad",
+      "Integridad del sistema, confidencialidad mediante control de acceso y disponibilidad."
+     ],
+     [
+      "Gestión del cambio",
+      "Separación de pruebas y producción; procedimientos de migración de programas probados y aprobados. Autorización de cambios que preserven el diseño original."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s52.3",
+    "t": "p",
+    "text": "La implantación de la política y cultura de seguridad se realiza **por fases y con respaldo de la Dirección**. Crear el sistema de control informático es responsabilidad de la **Gerencia**."
+   },
+   {
+    "id": "s52.4",
+    "t": "table",
+    "rows": [
+     [
+      "**Función**",
+      "**Responsabilidad**"
+     ],
+     [
+      "Dirección de SI",
+      "Define políticas y directrices según exigencias internas y externas del negocio."
+     ],
+     [
+      "Dirección de Informática",
+      "Define normas de funcionamiento; publica procedimientos, estándares, metodología y normas de las áreas informáticas."
+     ],
+     [
+      "Control Interno Informático",
+      "Define controles periódicos en cada función informática."
+     ],
+     [
+      "Auditor interno/externo",
+      "Revisa controles y cumplimiento de normativa interna y externa."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s52.5",
+    "t": "p",
+    "text": "La auditoría utiliza pruebas y metodologías de evaluación cualitativa; puede establecer ciclos quinquenales y repetir revisiones según **exposición del área y resultado de la última auditoría**. El soporte informático a otros auditores es opcional y no agota su función. El CII también puede brindar soporte al control interno no informático."
+   }
+  ]
+ },
+ {
+  "id": "s53",
+  "unit": "u6",
+  "title": "Etapas y ejecución de la auditoría",
+  "page": 68,
+  "orig": "páginas 103-105",
+  "blocks": [
+   {
+    "id": "s53.1",
+    "t": "callout",
+    "text": "**ISACA: Planeación → Trabajo de campo y documentación → Reporte y seguimiento**"
+   },
+   {
+    "id": "s53.2",
+    "t": "p",
+    "text": "En la materia se consideran estas etapas generales:"
+   },
+   {
+    "id": "s53.3",
+    "t": "li",
+    "text": "1. **Alcance y objetivos:** qué se audita, qué no y para qué."
+   },
+   {
+    "id": "s53.4",
+    "t": "li",
+    "text": "2. **Estudio inicial del entorno:** conocer el objeto, controles claves y fuentes."
+   },
+   {
+    "id": "s53.5",
+    "t": "li",
+    "text": "3. **Ejecución del programa de revisión:** aplicar la metodología."
+   },
+   {
+    "id": "s53.6",
+    "t": "li",
+    "text": "4. **Cierre de la revisión:** reunir informes y analizar hallazgos."
+   },
+   {
+    "id": "s53.7",
+    "t": "li",
+    "text": "5. **Informe final.**"
+   },
+   {
+    "id": "s53.8",
+    "t": "li",
+    "text": "6. **Seguimiento:** verificar adopción y efectividad de las recomendaciones."
+   }
+  ]
+ },
+ {
+  "id": "s54",
+  "unit": "u6",
+  "title": "Planificación, riesgos y programa de revisión",
+  "page": 69,
+  "orig": "páginas 104-106",
+  "blocks": [
+   {
+    "id": "s54.1",
+    "t": "p",
+    "text": "La planificación requiere **conocer el negocio y su ambiente normativo** mediante recorridas, entrevistas a gerentes usuarios y personal de sistemas, planes estratégicos y antecedentes. También requiere **auditabilidad**: fuentes verificables de evidencia para probar controles y realizar pruebas de sustanciación."
+   },
+   {
+    "id": "s54.2",
+    "t": "p",
+    "text": "Se determina **área o aplicación, objetivo, alcance y recursos**. El alcance delimita sistemas, aplicaciones, módulos y duración. Las prioridades consideran impacto en el negocio y las decisiones, activos controlados y dimensión de la aplicación."
+   },
+   {
+    "id": "s54.3",
+    "t": "h",
+    "text": "Evaluación de riesgos globales"
+   },
+   {
+    "id": "s54.4",
+    "t": "p",
+    "text": "En auditoría, riesgo es la posibilidad de que la información contenga **errores materiales** o de que el auditor no detecte errores ocurridos."
+   },
+   {
+    "id": "s54.5",
+    "t": "table",
+    "rows": [
+     [
+      "**Riesgo**",
+      "**Origen y responsabilidad**"
+     ],
+     [
+      "Inherente",
+      "Error material debido a la naturaleza de la actividad. El auditor no puede eliminarlo; el estudio inicial permite conocer el entorno y los riesgos."
+     ],
+     [
+      "De control",
+      "Error material no evitado ni detectado oportunamente por deficiencias del control interno. El auditor no lo elimina, pero sus recomendaciones deben contribuir a reducirlo."
+     ],
+     [
+      "De detección",
+      "El auditor aplica un procedimiento de prueba inadecuado y concluye que no hay errores cuando sí existen. Es propio de su tarea y responsabilidad."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s54.6",
+    "t": "h",
+    "text": "Programa de revisión o de auditoría"
+   },
+   {
+    "id": "s54.7",
+    "t": "p",
+    "text": "Conjunto de instrucciones que guía al equipo y permite **controlar y registrar la ejecución**. Deriva del plan general; se elabora uno por área o sección. Se prepara en la planeación y puede modificarse según los hechos observados durante el trabajo."
+   },
+   {
+    "id": "s54.8",
+    "t": "li",
+    "text": "Naturaleza, oportunidad y alcance de los procedimientos."
+   },
+   {
+    "id": "s54.9",
+    "t": "li",
+    "text": "Descripción de objetivos, fuentes de evidencia y equipo de auditoría."
+   },
+   {
+    "id": "s54.10",
+    "t": "li",
+    "text": "Para cada objetivo: pruebas, actividades, hitos, informes parciales, tiempo estimado y real, referencia al papel de trabajo, rúbrica de quien ejecutó cada paso y fecha."
+   },
+   {
+    "id": "s54.11",
+    "t": "li",
+    "text": "Condiciones o situaciones que exigen decisiones."
+   },
+   {
+    "id": "s54.12",
+    "t": "p",
+    "text": "Antes de ejecutar deben quedar definidos tema y área, objetivo, alcance, habilidades técnicas, recursos y fuentes de información para pruebas y revisiones."
+   }
+  ]
+ },
+ {
+  "id": "s55",
+  "unit": "u6",
+  "title": "Programa, procedimientos y evidencia",
+  "page": 70,
+  "orig": "páginas 106-108",
+  "blocks": [
+   {
+    "id": "s55.1",
+    "t": "h",
+    "text": "Importancia de los procedimientos (Soria Ojeda)"
+   },
+   {
+    "id": "s55.2",
+    "t": "p",
+    "text": "Son **fundamento y justificación de la opinión profesional**: proporcionan seguridad razonable para obtener evidencias y conclusiones y determinan la trascendencia de la auditoría. Deben establecerse para **planificar y supervisar, estudiar y evaluar el control interno y obtener evidencia suficiente y adecuada**."
+   },
+   {
+    "id": "s55.3",
+    "t": "h",
+    "text": "Evidencia en la auditoría (Lardent)"
+   },
+   {
+    "id": "s55.4",
+    "t": "p",
+    "text": "Conjunto de información (datos, documentos, registros o testimonios) reunida por el auditor para determinar si el ente o los datos cumplieron los criterios u objetivos de auditoría."
+   },
+   {
+    "id": "s55.5",
+    "t": "table",
+    "rows": [
+     [
+      "**Condición**",
+      "**Significado**"
+     ],
+     [
+      "Relevante",
+      "Relación lógica con los objetivos de auditoría."
+     ],
+     [
+      "Fiable",
+      "Válida y objetiva, con un nivel de confianza."
+     ],
+     [
+      "Suficiente",
+      "Cantidad necesaria para soportar la opinión profesional."
+     ],
+     [
+      "Adecuada",
+      "Calidad necesaria para las conclusiones del auditor."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s55.6",
+    "t": "p",
+    "text": "La confiabilidad depende de las **fuentes externas** (en principio, más objetivas), la **objetividad** frente al juicio de valor y la **calidad de la fuente**, según las características de quien aporta la información."
+   },
+   {
+    "id": "s55.7",
+    "t": "callout",
+    "text": "**Las pruebas son el método o proceso para obtener evidencia. La evidencia es el fundamento de las conclusiones.**"
+   }
+  ]
+ },
+ {
+  "id": "s56",
+  "unit": "u6",
+  "title": "Pruebas y deontología del auditor",
+  "page": 71,
+  "orig": "páginas 98 y 108-109",
+  "blocks": [
+   {
+    "id": "s56.1",
+    "t": "h",
+    "text": "Pruebas de cumplimiento"
+   },
+   {
+    "id": "s56.2",
+    "t": "p",
+    "text": "Determinan si los controles **se ajustan a políticas y procedimientos** y si se aplican conforme a la documentación de los programas. Su insumo es la documentación. Ejemplo: comprobar que la versión del programa en uso coincide con las versiones fuente y objeto de la biblioteca."
+   },
+   {
+    "id": "s56.3",
+    "t": "li",
+    "text": "**Pruebas de detalles:** revisión de documentos."
+   },
+   {
+    "id": "s56.4",
+    "t": "li",
+    "text": "**Pruebas de observación e indagación:** acciones para detectar errores, indagar al personal y aplicar programas de revisión de archivos."
+   },
+   {
+    "id": "s56.5",
+    "t": "h",
+    "text": "Pruebas sustantivas"
+   },
+   {
+    "id": "s56.6",
+    "t": "p",
+    "text": "Verifican la **adecuación de los controles existentes** para proteger frente a actividades fraudulentas. Se concentran en el tratamiento de la información y prueban que los sistemas hagan lo que deben hacer. Se pueden usar herramientas informáticas y procesamiento en paralelo para evaluar la resistencia de controles manuales y automatizados frente a alteraciones."
+   },
+   {
+    "id": "s56.7",
+    "t": "table",
+    "rows": [
+     [
+      "**Situación de los controles**",
+      "**Énfasis de las pruebas**"
+     ],
+     [
+      "Controles y procedimientos buenos",
+      "Pruebas de cumplimiento."
+     ],
+     [
+      "Controles débiles o inexistentes",
+      "Más pruebas sustantivas."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s56.8",
+    "t": "h",
+    "text": "Deontología del auditor (Piattini)"
+   },
+   {
+    "id": "s56.9",
+    "t": "p",
+    "text": "Conjunto de principios y reglas éticas que regulan y guían la actividad profesional y determinan los deberes mínimamente exigibles."
+   },
+   {
+    "id": "s56.10",
+    "t": "li",
+    "text": "**Principio de beneficio del auditado:** no partir de un prejuicio."
+   },
+   {
+    "id": "s56.11",
+    "t": "li",
+    "text": "**Principio de independencia:** asegurar objetividad e independencia de criterio. No auditar aquello con lo que se está vinculado. En auditoría interna se garantiza mediante la estructura organizativa; el auditor no debe estar involucrado en el área de desarrollo."
+   },
+   {
+    "id": "s56.12",
+    "t": "p",
+    "text": "La función del auditor puede ser **asesora para definir puntos de control**, pero quien audite después debe ser distinto de quien ayudó a definirlos. No debe involucrarse en el desarrollo e instalación de procedimientos que luego tenga que evaluar."
+   }
+  ]
+ },
+ {
+  "id": "s57",
+  "unit": "u6",
+  "title": "Auditoría interna y externa",
+  "page": 72,
+  "orig": "páginas 109-110",
+  "blocks": [
+   {
+    "id": "s57.1",
+    "t": "p",
+    "text": "Ambas realizan un examen **crítico, sistemático y detallado** de un sistema de información mediante técnicas determinadas. Se distinguen por la relación del auditor con la empresa."
+   },
+   {
+    "id": "s57.2",
+    "t": "h",
+    "text": "Auditoría interna"
+   },
+   {
+    "id": "s57.3",
+    "t": "p",
+    "text": "La realiza un profesional con **vínculo laboral**. Emite informes de circulación interna y sugerencias para mejorar. Busca descubrir deficiencias o irregularidades y posibles soluciones, ayudando a la dirección a ejercer sus funciones con efectividad."
+   },
+   {
+    "id": "s57.4",
+    "t": "p",
+    "text": "Reporta al **más alto nivel de la dirección** y es una función asesora de control. No debe tener autoridad de línea fuera de su propia oficina ni comprometerse con operaciones de los sistemas. Su independencia de criterio exige **estructura organizacional y objetividad**, y autoridad suficiente para dar curso a hallazgos y recomendaciones."
+   },
+   {
+    "id": "s57.5",
+    "t": "h",
+    "text": "Auditoría externa"
+   },
+   {
+    "id": "s57.6",
+    "t": "p",
+    "text": "La realiza un profesional **sin vínculo laboral**, para emitir opinión independiente sobre el sistema y su control interno y formular sugerencias. Acompaña información publicada para que los usuarios puedan confiar en ella."
+   },
+   {
+    "id": "s57.7",
+    "t": "p",
+    "text": "Su objetivo es comprobar **razonabilidad, integridad y autenticidad** de estados, expedientes, documentos e información producida por los sistemas. Reporta a organismos oficiales o empresas y tiene implicancias legales. El apunte señala que está habilitada legalmente para **dar fe pública** y que es imprescindible para obtener certificaciones."
+   },
+   {
+    "id": "s57.8",
+    "t": "p",
+    "text": "La comparación del apunte distingue el vínculo organizacional; en ambos casos debe mantenerse la **independencia de criterio** del auditor."
+   }
+  ]
+ },
+ {
+  "id": "s58",
+  "unit": "u6",
+  "title": "Informes de auditoría",
+  "page": 73,
+  "orig": "páginas 110-111",
+  "blocks": [
+   {
+    "id": "s58.1",
+    "t": "p",
+    "text": "La auditoría concluye con un **informe, seguimiento y cursos de acción** derivados de sus recomendaciones. El informe comunica formalmente al cliente el alcance, objetivos, período, naturaleza y extensión del trabajo, resultados y conclusiones respaldadas por evidencias."
+   },
+   {
+    "id": "s58.2",
+    "t": "p",
+    "text": "El auditor debe separar lo significativo de lo no significativo según importancia y riesgo. No existe un formato vinculante; hay esquemas recomendados. Puede ser corto o largo y complementarse con informes de debilidades de control interno y anexos."
+   },
+   {
+    "id": "s58.3",
+    "t": "h",
+    "text": "Estructura básica (Lardent)"
+   },
+   {
+    "id": "s58.4",
+    "t": "li",
+    "text": "1. **Introducción:** objetivos, áreas o funciones, período y alcance de los procedimientos."
+   },
+   {
+    "id": "s58.5",
+    "t": "li",
+    "text": "2. **Hallazgos y recomendaciones:** incluir fuentes de evidencia."
+   },
+   {
+    "id": "s58.6",
+    "t": "li",
+    "text": "3. **Acciones correctivas** a desarrollar."
+   },
+   {
+    "id": "s58.7",
+    "t": "li",
+    "text": "4. **Opinión:** adecuación y cumplimiento de controles y conclusión sobre los procedimientos revisados, respaldada por evidencias."
+   },
+   {
+    "id": "s58.8",
+    "t": "li",
+    "text": "5. **Anexos:** información detallada cuya inclusión en el texto principal distraería del tema básico. Deben referenciarse desde el informe."
+   },
+   {
+    "id": "s58.9",
+    "t": "callout",
+    "text": "**Según Soria, primero debería presentarse la opinión y después los hallazgos.**"
+   },
+   {
+    "id": "s58.10",
+    "t": "h",
+    "text": "Tipos de informes (Lardent)"
+   },
+   {
+    "id": "s58.11",
+    "t": "table",
+    "rows": [
+     [
+      "**Tipo**",
+      "**Condición**"
+     ],
+     [
+      "Sin salvedades",
+      "No se encuentran problemas materiales ni controles débiles no compensados. En el ejemplo contable, los estados cumplen los principios generalmente aceptados."
+     ],
+     [
+      "Con salvedades",
+      "Se cumplen las normas, pero existe una condición de excepción que debe exponerse expresamente."
+     ],
+     [
+      "Con opinión adversa",
+      "Los estados no cumplen las normas contables o no se compensan los controles débiles encontrados."
+     ],
+     [
+      "Sin opinión",
+      "Alcance limitado o, según el apunte, situación financiera que permite pensar en una posible disolución."
+     ]
+    ],
+    "head": true
+   }
+  ]
+ },
+ {
+  "id": "s59",
+  "unit": "u6",
+  "title": "Auditoría de la función informática",
+  "page": 74,
+  "orig": "páginas 111-112",
+  "blocks": [
+   {
+    "id": "s59.1",
+    "t": "p",
+    "text": "Evalúa la **organización y administración del ambiente informático** para asegurar que los recursos de TI estén bien gestionados, alineados con los objetivos y operen con eficiencia y efectividad."
+   },
+   {
+    "id": "s59.2",
+    "t": "h",
+    "text": "Funciones del auditor"
+   },
+   {
+    "id": "s59.3",
+    "t": "li",
+    "text": "Comprender el ambiente informático: áreas que procesan información, asignaciones y responsabilidades."
+   },
+   {
+    "id": "s59.4",
+    "t": "li",
+    "text": "Evaluar la estructura organizacional y su adecuación a las políticas institucionales."
+   },
+   {
+    "id": "s59.5",
+    "t": "li",
+    "text": "Evaluar el ambiente de control y la confiabilidad del procesamiento."
+   },
+   {
+    "id": "s59.6",
+    "t": "li",
+    "text": "Efectuar pruebas de controles y evaluar sus resultados."
+   },
+   {
+    "id": "s59.7",
+    "t": "li",
+    "text": "Detectar debilidades de gestión y su impacto en los procedimientos de auditoría; identificar dónde se requieren más esfuerzos."
+   },
+   {
+    "id": "s59.8",
+    "t": "h",
+    "text": "Propósitos de la auditoría de organización"
+   },
+   {
+    "id": "s59.9",
+    "t": "li",
+    "text": "Adecuada **separación de funciones** según principios de control interno."
+   },
+   {
+    "id": "s59.10",
+    "t": "li",
+    "text": "Protección de archivos para mantener continuidad en condiciones normales."
+   },
+   {
+    "id": "s59.11",
+    "t": "li",
+    "text": "Buen diseño de control interno para limitar deficiencias y riesgos de procesamiento."
+   },
+   {
+    "id": "s59.12",
+    "t": "li",
+    "text": "Control eficaz de niveles de autorización de datos y procedimientos."
+   },
+   {
+    "id": "s59.13",
+    "t": "li",
+    "text": "Existencia, adecuación y vigencia de estándares de actuación."
+   },
+   {
+    "id": "s59.14",
+    "t": "li",
+    "text": "Formación del personal suficiente para alcanzar los estándares."
+   },
+   {
+    "id": "s59.15",
+    "t": "callout",
+    "text": "**Elementos a auditar: plan de organización y división de responsabilidades; segregación de funciones; ambiente informático.**"
+   },
+   {
+    "id": "s59.16",
+    "t": "h",
+    "text": "Auditoría del desarrollo de sistemas"
+   },
+   {
+    "id": "s59.17",
+    "t": "p",
+    "text": "Busca identificar, analizar y evaluar **requerimientos del usuario, riesgos, exposiciones y controles** a incorporar durante el desarrollo. Verifica metodologías establecidas y requisitos del negocio, y contribuye a la calidad y confiabilidad del SW."
+   },
+   {
+    "id": "s59.18",
+    "t": "p",
+    "text": "Es fundamental identificar **puntos de control**. El auditor puede asesorar sobre su incorporación y sobre módulos que permitan revisiones mediante pistas de auditoría. Debe preservarse la independencia de quien realice la revisión posterior."
+   }
+  ]
+ },
+ {
+  "id": "s60",
+  "unit": "u6",
+  "title": "Auditoría del desarrollo de sistemas",
+  "page": 75,
+  "orig": "páginas 112-114",
+  "blocks": [
+   {
+    "id": "s60.1",
+    "t": "h",
+    "text": "Cuatro niveles (Lardent)"
+   },
+   {
+    "id": "s60.2",
+    "t": "table",
+    "rows": [
+     [
+      "**Nivel**",
+      "**Aspectos a revisar**"
+     ],
+     [
+      "Ciclo de vida",
+      "Plan maestro, evaluación de factibilidad de cada proyecto y fases del desarrollo."
+     ],
+     [
+      "Documentación de sistemas",
+      "Documentos que deben existir por etapa."
+     ],
+     [
+      "Adquisición de SW",
+      "Solvencia del proveedor; propiedad y mecanismos de recupero del código fuente; documentación de respaldo; satisfacción de otros clientes; capacidad de actualización."
+     ],
+     [
+      "Modificación de programas",
+      "Autorización y trazabilidad de cambios; documentación de programas y sistemas."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s60.3",
+    "t": "h",
+    "text": "Funciones del auditor (Lardent)"
+   },
+   {
+    "id": "s60.4",
+    "t": "li",
+    "text": "Determinar objetivos y requerimientos básicos de usuarios y áreas afectadas."
+   },
+   {
+    "id": "s60.5",
+    "t": "li",
+    "text": "Clasificar riesgos y exposiciones e identificar controles para minimizarlos."
+   },
+   {
+    "id": "s60.6",
+    "t": "li",
+    "text": "Asesorar sobre controles en el diseño y módulos de auditoría para revisiones de rutina."
+   },
+   {
+    "id": "s60.7",
+    "t": "li",
+    "text": "Asegurar cumplimiento de la metodología de desarrollo."
+   },
+   {
+    "id": "s60.8",
+    "t": "li",
+    "text": "Verificar que la evaluación de factibilidad exista y sea consistente y completa."
+   },
+   {
+    "id": "s60.9",
+    "t": "h",
+    "text": "Enfoque de Piattini"
+   },
+   {
+    "id": "s60.10",
+    "t": "p",
+    "text": "Comprueba existencia, definición y aplicación de procedimientos de control; identifica deficiencias y riesgos asociados. Propone metodología ISACA: **objetivos de control → técnicas de control → pruebas**. Cada objetivo puede tener varias técnicas y cada técnica una o varias pruebas."
+   },
+   {
+    "id": "s60.11",
+    "t": "p",
+    "text": "Distingue **auditoría de la organización**, con ocho objetivos de control, y **auditoría de proyectos**, con un plan por proyecto según riesgos, complejidad y recursos."
+   },
+   {
+    "id": "s60.12",
+    "t": "table",
+    "rows": [
+     [
+      "**Lardent**",
+      "**Piattini**"
+     ],
+     [
+      "Propuestas generales y flexibles; el auditor decide el foco. Marco institucional y organizacional, productividad, costos y normas.",
+      "Enfoque más estructurado y técnico; auditoría detallada del ciclo de vida, herramientas y listas de verificación por etapa."
+     ]
+    ],
+    "head": true
+   },
+   {
+    "id": "s60.13",
+    "t": "p",
+    "text": "**Elementos a auditar:** Plan Maestro de SI/TI y concordancia de sus sistemas; factibilidad; documentación; ERS; metodología; definición y análisis de requerimientos; diseño lógico; diseño físico; pruebas; implantación; postinstalación y mantenimiento."
+   },
+   {
+    "id": "s60.14",
+    "t": "callout",
+    "text": "**No confundir auditoría con certificación de calidad: la certificación utiliza la auditoría, pero una auditoría puede realizarse para evaluar cómo se trabaja.**"
+   }
+  ]
+ },
+ {
+  "id": "s61",
+  "unit": "u6",
+  "title": "Auditoría de sistemas de aplicación instalados",
+  "page": 75,
+  "orig": "página 114",
+  "blocks": [
+   {
+    "id": "s61.1",
+    "t": "p",
+    "text": "Los componentes comprenden **captura e ingreso de datos, procesamiento, almacenamiento y salida de información**. Deben activarse controles sobre estas funciones."
+   },
+   {
+    "id": "s61.2",
+    "t": "h",
+    "text": "Qué intentan asegurar los controles"
+   },
+   {
+    "id": "s61.3",
+    "t": "li",
+    "text": "1. Ingresar únicamente datos **completos, exactos, válidos y autorizados, por única vez**."
+   },
+   {
+    "id": "s61.4",
+    "t": "li",
+    "text": "2. Actualizar datos cuando corresponde y bajo las mismas condiciones de seguridad."
+   },
+   {
+    "id": "s61.5",
+    "t": "li",
+    "text": "3. Procesar a tiempo y según el diseño aprobado y sus objetivos."
+   },
+   {
+    "id": "s61.6",
+    "t": "li",
+    "text": "4. Mantener los datos protegidos y actualizados."
+   },
+   {
+    "id": "s61.7",
+    "t": "li",
+    "text": "5. Obtener salidas que cumplan las expectativas definidas en el proyecto."
+   },
+   {
+    "id": "s61.8",
+    "t": "h",
+    "text": "Funciones del auditor"
+   },
+   {
+    "id": "s61.9",
+    "t": "li",
+    "text": "Comprender cada aplicación mediante documentación e investigación; identificar componentes significativos y flujo de datos para definir estrategias de prueba."
+   },
+   {
+    "id": "s61.10",
+    "t": "li",
+    "text": "Evaluar controles incorporados, fortalezas y debilidades, y definir objetivos de control."
+   },
+   {
+    "id": "s61.11",
+    "t": "li",
+    "text": "Probar controles con procedimientos adecuados para evaluar su funcionalidad."
+   },
+   {
+    "id": "s61.12",
+    "t": "li",
+    "text": "Evaluar el ambiente de control y, a partir de los resultados de pruebas, determinar si se alcanzaron sus objetivos."
+   },
+   {
+    "id": "s61.13",
+    "t": "li",
+    "text": "Analizar eficiencia y eficacia de operaciones frente a estándares de programación, tecnología y procedimientos."
+   },
+   {
+    "id": "s61.14",
+    "t": "li",
+    "text": "Verificar cumplimiento de objetivos de la gerencia formulados al definir el sistema."
+   },
+   {
+    "id": "s61.15",
+    "t": "callout",
+    "text": "**Elementos a auditar: entrada y captura de datos; procesos y métodos de procesamiento; control de la salida.**"
+   }
+  ]
+ },
+ {
+  "id": "s62",
+  "unit": "u6",
+  "title": "Auditoría de seguridad y técnicas de evaluación",
+  "page": 76,
+  "orig": "páginas 114-115",
+  "blocks": [
+   {
+    "id": "s62.1",
+    "t": "p",
+    "text": "La **auditoría de seguridad** verifica el funcionamiento correcto, eficaz y eficiente de los sistemas, con atención a seguridad física, lógica, redes, desarrollo y mantenimiento. Revisa cumplimiento de políticas, normas y estándares para proteger la información crítica."
+   },
+   {
+    "id": "s62.2",
+    "t": "h",
+    "text": "Funciones y elementos a auditar"
+   },
+   {
+    "id": "s62.3",
+    "t": "li",
+    "text": "**Controles de acceso** a sistemas y datos sensibles: acceso solo de usuarios autorizados."
+   },
+   {
+    "id": "s62.4",
+    "t": "li",
+    "text": "**Protección contra amenazas internas y externas:** virus, malware y phishing."
+   },
+   {
+    "id": "s62.5",
+    "t": "li",
+    "text": "**Políticas de seguridad**, protocolos de encriptación y sistemas de respaldo."
+   },
+   {
+    "id": "s62.6",
+    "t": "li",
+    "text": "**Plan de recuperación ante desastres y copias de seguridad.**"
+   },
+   {
+    "id": "s62.7",
+    "t": "li",
+    "text": "**Cumplimiento de normativas** de seguridad y privacidad de datos; el apunte menciona ISO 27001."
+   },
+   {
+    "id": "s62.8",
+    "t": "h",
+    "text": "Técnicas de evaluación y auditoría"
+   },
+   {
+    "id": "s62.9",
+    "t": "p",
+    "text": "Con independencia de la estrategia de revisión, **con o sin computadora**, el auditor debe verificar la segregación de funciones y revisar la documentación de sistemas."
+   },
+   {
+    "id": "s62.10",
+    "t": "h",
+    "text": "Plan de documentación"
+   },
+   {
+    "id": "s62.11",
+    "t": "li",
+    "text": "1. **Definición del problema.**"
+   },
+   {
+    "id": "s62.12",
+    "t": "li",
+    "text": "2. **Descripción del sistema:** análisis y diseño lógico."
+   },
+   {
+    "id": "s62.13",
+    "t": "li",
+    "text": "3. **Descripción de programas:** diseño físico; configuración de registros, diccionarios de datos, esquemas de bases de datos, pantallas e informes."
+   },
+   {
+    "id": "s62.14",
+    "t": "li",
+    "text": "4. **Instrucciones de operación.**"
+   },
+   {
+    "id": "s62.15",
+    "t": "li",
+    "text": "5. **Descripción de controles.**"
+   },
+   {
+    "id": "s62.16",
+    "t": "li",
+    "text": "6. **Registro de aceptación.**"
+   }
+  ]
+ },
+ {
+  "id": "s63",
+  "unit": "u6",
+  "title": "Etapas de auditoría de ISACA",
+  "page": 77,
+  "orig": "página 116",
+  "blocks": []
+ }
+]
