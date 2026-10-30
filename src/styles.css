@@ -1772,3 +1772,330 @@ kbd {
     transition-duration: 0.01ms !important;
   }
 }
+
+/* ───────────── Crucigramas ───────────── */
+.cw-art-cell {
+  fill: var(--surface);
+  stroke: var(--ink);
+  stroke-width: 1.5;
+}
+.cw-art-hot .cw-art-cell {
+  fill: var(--accent-soft);
+}
+.cw-art-letter {
+  font-size: 22px;
+  font-weight: 500;
+  fill: var(--ink);
+}
+.cw-art-cursor {
+  fill: none;
+  stroke: var(--accent);
+  stroke-width: 3;
+  stroke-dasharray: 6 6;
+  animation: cw-march 1.6s linear infinite;
+}
+@keyframes cw-march {
+  to {
+    stroke-dashoffset: -24;
+  }
+}
+
+.cw-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 20px;
+}
+.cw-card {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-height: 210px;
+  padding: 24px 24px 20px;
+  border-radius: var(--radius);
+  border: 1px solid var(--line);
+  background: var(--surface);
+  transition: transform 0.35s var(--ease), border-color 0.35s;
+}
+.cw-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--line-strong);
+}
+.cw-card-n {
+  font-size: 44px;
+  line-height: 1;
+  letter-spacing: -0.05em;
+  font-weight: 500;
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
+}
+.cw-card.is-solved .cw-card-n {
+  color: var(--ok);
+}
+.cw-card-title {
+  font-size: 19px;
+  font-weight: 500;
+  letter-spacing: -0.025em;
+  line-height: 1.25;
+  margin: 0;
+}
+.cw-card-foot {
+  margin-top: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-top: 16px;
+}
+.cw-card-meta {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  color: var(--ink-2);
+}
+
+/* Juego */
+.cw-head {
+  padding-bottom: 16px;
+}
+.cw-clue-bar {
+  position: sticky;
+  top: 63px;
+  z-index: 15;
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  padding: 14px 18px;
+  margin-bottom: 20px;
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  font-size: 18px;
+  letter-spacing: -0.015em;
+  line-height: 1.35;
+}
+.cw-clue-key {
+  font-weight: 600;
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+.cw-clue-text {
+  flex: 1;
+  font-weight: 500;
+}
+.cw-clue-len {
+  font-size: 13px;
+  white-space: nowrap;
+}
+
+.cw-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr);
+  gap: 32px;
+  align-items: start;
+}
+.cw-board-col {
+  min-width: 0;
+}
+.cw-board {
+  --line-c: var(--ink);
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(var(--cols), 1fr);
+  width: min(100%, calc(var(--cols) * 42px));
+  container-type: inline-size;
+  user-select: none;
+  -webkit-user-select: none;
+}
+.cw-cell {
+  position: relative;
+  aspect-ratio: 1;
+  display: grid;
+  place-items: center;
+}
+.cw-cell:not(.void) {
+  background: var(--surface);
+  outline: 1px solid var(--line-c);
+  outline-offset: -0.5px;
+  cursor: pointer;
+  transition: background 0.12s;
+}
+.cw-cell.word {
+  background: color-mix(in srgb, var(--accent) 13%, var(--surface));
+}
+.cw-cell.cursor {
+  background: color-mix(in srgb, var(--accent) 34%, var(--surface));
+  box-shadow: inset 0 0 0 2px var(--accent);
+  z-index: 1;
+}
+.cw-num {
+  position: absolute;
+  top: 1px;
+  left: 2px;
+  font-size: max(8px, calc(100cqw / var(--cols) * 0.25));
+  line-height: 1;
+  color: var(--ink-2);
+  font-variant-numeric: tabular-nums;
+}
+.cw-letter {
+  font-size: calc(100cqw / var(--cols) * 0.56);
+  font-weight: 500;
+  line-height: 1;
+  margin-top: 8%;
+}
+.cw-cell.wrong .cw-letter {
+  color: var(--bad);
+}
+.cw-cell.wrong::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top right, transparent calc(50% - 1px), var(--bad) 50%, transparent calc(50% + 1px));
+  opacity: 0.55;
+}
+.cw-cell.revealed .cw-letter {
+  color: var(--accent);
+}
+.cw-cell.revealed::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: 4px solid transparent;
+  border-top-color: var(--warn);
+  border-right-color: var(--warn);
+}
+.cw-board.solved .cw-cell:not(.void) {
+  animation: cw-solved 0.6s var(--ease) both;
+}
+.cw-board.solved .cw-cell:not(.void):not(.revealed) .cw-letter {
+  color: var(--ok);
+}
+@keyframes cw-solved {
+  40% {
+    background: var(--ok-soft);
+    transform: scale(1.08);
+  }
+  100% {
+    background: color-mix(in srgb, var(--ok) 8%, var(--surface));
+  }
+}
+.cw-input {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  border: 0;
+  opacity: 0;
+  pointer-events: none;
+  font-size: 16px;
+}
+
+.cw-tools {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 22px;
+}
+.cw-hints {
+  margin: 14px 0 0;
+  line-height: 1.8;
+}
+
+.cw-clues {
+  position: sticky;
+  top: 140px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+}
+.cw-clue-col {
+  min-width: 0;
+}
+.cw-clue-title {
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  margin: 0 0 10px;
+}
+.cw-clue-list {
+  list-style: none;
+  margin: 0;
+  padding: 0 6px 0 0;
+  max-height: calc(100vh - 210px);
+  overflow: auto;
+  scrollbar-width: thin;
+}
+.cw-clue {
+  display: grid;
+  grid-template-columns: 26px 1fr;
+  gap: 6px;
+  width: 100%;
+  padding: 7px 10px 7px 4px;
+  border: 0;
+  border-radius: var(--radius-sm);
+  background: transparent;
+  text-align: left;
+  font-size: 14.5px;
+  line-height: 1.35;
+  color: var(--ink);
+  transition: background 0.15s, color 0.15s;
+}
+.cw-clue:hover {
+  background: var(--surface);
+}
+.cw-clue-n {
+  font-weight: 600;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+.cw-clue.cross {
+  background: var(--surface-2);
+}
+.cw-clue.active {
+  background: var(--accent-soft);
+}
+.cw-clue.done {
+  color: var(--ink-3);
+}
+.cw-clue.done .cw-clue-n {
+  color: var(--ok);
+}
+.cw-clue.done span:last-child {
+  text-decoration: line-through;
+  text-decoration-color: var(--line-strong);
+}
+.cw-verdict {
+  font-size: 56px;
+  letter-spacing: -0.05em;
+  font-weight: 500;
+  margin: 4px 0 20px;
+}
+
+@media (max-width: 1000px) {
+  .cw-layout {
+    grid-template-columns: 1fr;
+  }
+  .cw-board {
+    margin: 0 auto;
+  }
+  .cw-clues {
+    position: static;
+  }
+  .cw-clue-list {
+    max-height: 340px;
+  }
+}
+@media (max-width: 680px) {
+  .cw-clue-bar {
+    top: 57px;
+    font-size: 15.5px;
+    padding: 11px 14px;
+    margin: 0 -4px 14px;
+  }
+  .cw-clues {
+    grid-template-columns: 1fr;
+  }
+  .cw-hints {
+    display: none;
+  }
+}

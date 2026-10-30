@@ -4,6 +4,9 @@ import { Home } from './components/Home'
 import { DiagramView } from './components/DiagramView'
 import { Editor } from './components/Editor'
 import { Series } from './components/Series'
+import { Crosswords } from './components/Crosswords'
+import { Crossword } from './components/Crossword'
+import { findPuzzle } from './crucigramas'
 
 const readRoute = () => window.location.hash.replace(/^#\/?/, '').split('/').filter(Boolean)
 
@@ -26,6 +29,7 @@ export function App() {
   const [section, id, sub] = route
   const diagram = section === 'g' && id ? findDiagram(id) : undefined
   const group = section === 'serie' && id ? findGroup(id) : undefined
+  const puzzle = section === 'cruci' && id ? findPuzzle(id) : undefined
 
   return (
     <div className="app">
@@ -36,6 +40,10 @@ export function App() {
         <DiagramView key={diagram.id} diagram={diagram} />
       ) : group ? (
         <Series key={group.key} group={group} />
+      ) : puzzle ? (
+        <Crossword key={puzzle.def.id} def={puzzle.def} unit={puzzle.unit} index={puzzle.index} />
+      ) : section === 'cruci' ? (
+        <Crosswords />
       ) : section === 'mc' ? (
         <ComingSoon />
       ) : (
@@ -53,8 +61,11 @@ function TopBar({ section }: { section?: string }) {
         repaso<span className="muted">/asi</span>
       </a>
       <nav className="topnav">
-        <a href="#/" className={section !== 'mc' ? 'active' : ''}>
+        <a href="#/" className={section !== 'mc' && section !== 'cruci' ? 'active' : ''}>
           Gráficos
+        </a>
+        <a href="#/cruci" className={section === 'cruci' ? 'active' : ''}>
+          Crucigramas
         </a>
         <a href="#/mc" className={section === 'mc' ? 'active' : ''}>
           Multiple choice
