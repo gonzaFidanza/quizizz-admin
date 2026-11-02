@@ -39,6 +39,24 @@ function saveRun(key: string, run: Run | null) {
   } catch {}
 }
 
+const skippedKey = (key: string) => `repaso-asi:serie-excluidos:${key}`
+
+/** Se guardan los excluidos, no los elegidos: así un gráfico nuevo entra por defecto. */
+function loadSkipped(key: string): string[] {
+  try {
+    const ids = JSON.parse(localStorage.getItem(skippedKey(key)) ?? '[]')
+    return Array.isArray(ids) ? ids : []
+  } catch {
+    return []
+  }
+}
+
+function saveSkipped(key: string, ids: string[]) {
+  try {
+    localStorage.setItem(skippedKey(key), JSON.stringify(ids))
+  } catch {}
+}
+
 /** Gráficos que entran en la serie y cuántos huecos tiene cada uno según el filtro. */
 function blanksFor(d: Diagram, scope: Scope, p?: DiagramProgress) {
   if (scope === 'todo') return d.config.blanks.length
@@ -81,9 +99,9 @@ export function Series({ group }: { group: Group }) {
         progress={progress}
         saved={saved && saved.index < saved.order.length ? saved : null}
         onResume={() => saved && setRun(saved)}
-        onStart={(mode, scope, order) => {
+        onStart={(mode, scope, order, only) => {
           setSaved(null)
-          begin(mode, scope, order)
+          begin(mode, scope, order, only)
         }}
       />
     )
@@ -135,15 +153,26 @@ function Setup(props: {
   progress: Record<string, DiagramProgress>
   saved: Run | null
   onResume: () => void
-  onStart: (mode: Mode, scope: Scope, order: Order) => void
+  onStart: (mode: Mode, scope: Scope, order: Order, only: string[]) => void
 }) {
   const { group, progress, saved } = props
   const [mode, setMode] = useState<Mode>('practice')
   const [scope, setScope] = useState<Scope>('clave')
   const [order, setOrder] = useState<Order>('orden')
+  const [skipped, setSkipped] = useState(() => loadSkipped(group.key))
+
+  const available = group.diagrams.filter((d) => d.configured)
+  const chosen = available.filter((d) => !skipped.includes(d.id))
+  const only = chosen.map((d) => d.id)
+
+  const updateSkipped = (ids: string[]) => {
+    setSkipped(ids)
+    saveSkipped(group.key, ids)
+  }
+  const toggleDiagram = (id: string) => updateSkipped(skipped.includes(id) ? skipped.filter((x) => x !== id) : [...skipped, id])
 
   const stats = (s: Scope) => {
-    const counts = group.diagrams.filter((d) => d.configured).map((d) => blanksFor(d, s, progress[d.id]))
+    const counts = chosen.map((d) => blanksFor(d, s, progress[d.id]))
     return { diagrams: counts.filter((n) => n > 0).length, blanks: counts.reduce((a, b) => a + b, 0) }
   }
   const current = stats(scope)
@@ -151,11 +180,11 @@ function Setup(props: {
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
-      if (e.key === 'Enter' && !(e.target as HTMLElement).closest('button, a') && current.diagrams > 0) props.onStart(mode, scope, order)
+      if (e.key === 'Enter' && !(e.target as HTMLElement).closest('button, a') && current.diagrams > 0) props.onStart(mode, scope, order, only)
     }
     window.addEventListener('keydown', onKey)
     return () => window.removeEventListener('keydown', onKey)
-  }, [props, mode, scope, order, current.diagrams])
+  })
 
   return (
     <main className="page">
@@ -215,6 +244,31 @@ function Setup(props: {
             Mezclado
           </button>
         </SetupRow>
+        <div className="setup-row">
+          <span className="setup-label">Gráficos</span>
+          <div className="setup-control">
+            <div className="qz-chips">
+              {available.map((d) => {
+                const on = !skipped.includes(d.id)
+                return (
+                  <button key={d.id} className={`chip-toggle pick-chip ${on ? 'on' : ''}`} onClick={() => toggleDiagram(d.id)} aria-pressed={on}>
+                    {d.title}
+                  </button>
+                )
+              })}
+            </div>
+            <p className="muted small">
+              {chosen.length} de {available.length} elegidos. Tocá los que no quieras practicar; la selección queda guardada ·{' '}
+              <button className="pick-all" onClick={() => updateSkipped([])}>
+                Todos
+              </button>{' '}
+              ·{' '}
+              <button className="pick-all" onClick={() => updateSkipped(available.map((d) => d.id))}>
+                Ninguno
+              </button>
+            </p>
+          </div>
+        </div>
       </section>
 
       <div className="setup-foot">
@@ -227,7 +281,7 @@ function Setup(props: {
               Seguir donde quedaste · {String(saved.index + 1).padStart(2, '0')}/{String(saved.order.length).padStart(2, '0')}
             </button>
           )}
-          <button className="btn primary big" disabled={current.diagrams === 0} onClick={() => props.onStart(mode, scope, order)}>
+          <button className="btn primary big" disabled={current.diagrams === 0} onClick={() => props.onStart(mode, scope, order, only)}>
             Empezar →
           </button>
         </div>

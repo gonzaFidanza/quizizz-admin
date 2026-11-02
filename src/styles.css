@@ -627,6 +627,24 @@ code {
   border-color: transparent;
   color: var(--accent);
 }
+.pick-chip {
+  height: auto;
+  min-height: 34px;
+  padding: 6px 14px;
+  text-align: left;
+}
+.pick-all {
+  padding: 0;
+  border: 0;
+  border-bottom: 1px solid var(--line-strong);
+  background: none;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+}
+.pick-all:hover {
+  color: var(--ink);
+}
 
 kbd {
   display: inline-block;

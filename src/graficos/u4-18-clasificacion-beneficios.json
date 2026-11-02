@@ -1,0 +1,19 @@
+{
+  "title": "Clasificación de los beneficios sociales",
+  "topic": "U4 · Desarrollo y mantenimiento",
+  "order": 145,
+  "width": 1414,
+  "height": 720,
+  "blanks": [
+    {"id": "b1", "x": 165, "y": 235, "w": 288, "h": 112, "answer": "Legales", "level": "clave"},
+    {"id": "b2", "x": 165, "y": 392, "w": 288, "h": 113, "answer": "Voluntarios", "level": "clave"},
+    {"id": "b3", "x": 625, "y": 235, "w": 288, "h": 112, "answer": "Monetarios", "level": "clave"},
+    {"id": "b4", "x": 628, "y": 392, "w": 287, "h": 113, "answer": "No monetarios", "level": "clave"},
+    {"id": "b5", "x": 1063, "y": 235, "w": 288, "h": 112, "answer": "Asistenciales", "level": "clave"},
+    {"id": "b6", "x": 1063, "y": 392, "w": 288, "h": 113, "answer": "Recreativos", "level": "clave"},
+    {"id": "b7", "x": 1063, "y": 549, "w": 288, "h": 113, "answer": "Supletorios", "level": "clave"},
+    {"id": "b8", "x": 94, "y": 10, "w": 362, "h": 180, "answer": "Según la exigencia legal", "level": "extra"},
+    {"id": "b9", "x": 570, "y": 12, "w": 362, "h": 182, "answer": "Según su naturaleza", "level": "extra"},
+    {"id": "b10", "x": 990, "y": 10, "w": 362, "h": 180, "answer": "Según sus objetivos", "level": "extra"}
+  ]
+}

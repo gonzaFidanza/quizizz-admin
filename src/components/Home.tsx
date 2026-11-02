@@ -45,7 +45,7 @@ export function Home() {
         <section className="series">
           <div className="section-head">
             <h2 className="h2">Practicar en serie</h2>
-            <span className="muted small">Un gráfico atrás del otro, sin volver al inicio</span>
+            <span className="muted small">Un gráfico atrás del otro, y elegís cuáles entran</span>
           </div>
           <div className="series-grid">
             {[...groups, allGroup].map((g) => (
