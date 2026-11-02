@@ -23,14 +23,17 @@ npm run dev
    - Con ← y → pasás de concepto en concepto, y con Esc cerrás.
    - Los datos están en `src/mapas/mapas.json` (cada concepto lista en `refs` los párrafos del apunte) y `src/mapas/apunte.json`.
 3. **Crucigramas:** uno por mapa mental.
-4. **Multiple choice:** próximamente.
+4. **Cuestionarios.** Dos modalidades, por unidad, tema y formato (choice, selección múltiple, verdadero o falso, relacionar, completar, completar cuadro y desarrollo).
+   - **Parciales reales:** las consignas de U4, U5 y U6 de los compilados, en `src/cuestionarios/parciales-u*.ts`, con su fuente. Si una clave no está confirmada por una corrección, la pregunta lo avisa.
+   - **Preguntas nuevas:** en `src/cuestionarios/propias-u*.ts`, con el estilo y la dificultad de la cátedra.
+   - **Práctica:** corrección y explicación al instante. **Simulacro:** resultado al entregar, por tema. Selección múltiple es todo o nada, como en el parcial, y el desarrollo se autocorrige contra una respuesta modelo.
 
 ## Dónde poner el material
 
 | Qué | Dónde |
 | --- | --- |
 | PDFs o fotos crudas de gráficos | `material/graficos/` |
-| PDFs o fotos de modelos de parcial (multiple choice) | `material/multiple-choice/` |
+| PDFs o fotos de modelos de parcial | `material/multiple-choice/` |
 | Gráfico ya recortado (PNG/JPG/WEBP) | `src/graficos/` |
 
 Cada imagen de `src/graficos/` aparece sola en la app. Sus huecos se definen en un `.json` con el mismo nombre, por ejemplo `proceso-entrenamiento-rrhh.png` y `proceso-entrenamiento-rrhh.json`.

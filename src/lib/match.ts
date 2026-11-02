@@ -40,7 +40,7 @@ export interface GradeResult {
  * Corrige sin importar mayúsculas, tildes, puntuación ni artículos/preposiciones.
  * Errores de tipeo chicos cuentan como "casi" (válido, pero se avisa).
  */
-export function grade(input: string, blank: Blank): GradeResult {
+export function grade(input: string, blank: Pick<Blank, 'answer' | 'accept'>): GradeResult {
   if (!normalize(input)) return { grade: 'bad', near: false }
   const given = core(input)
   let best = 0

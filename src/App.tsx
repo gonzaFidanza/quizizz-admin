@@ -10,6 +10,7 @@ import { findPuzzle } from './crucigramas'
 import { MindMaps } from './components/MindMaps'
 import { MindMap } from './components/MindMap'
 import { findMindMap } from './mapas'
+import { Quizzes } from './components/Quizzes'
 
 const readRoute = () => window.location.hash.replace(/^#\/?/, '').split('/').filter(Boolean)
 
@@ -52,8 +53,8 @@ export function App() {
         <MindMap key={mindMap.id} map={mindMap} />
       ) : section === 'mapas' ? (
         <MindMaps />
-      ) : section === 'mc' ? (
-        <ComingSoon />
+      ) : section === 'cuestionarios' ? (
+        <Quizzes />
       ) : (
         <Home />
       )}
@@ -69,7 +70,7 @@ function TopBar({ section }: { section?: string }) {
         repaso<span className="muted">/asi</span>
       </a>
       <nav className="topnav">
-        <a href="#/" className={!['mc', 'cruci', 'mapas'].includes(section ?? '') ? 'active' : ''}>
+        <a href="#/" className={!['cuestionarios', 'cruci', 'mapas'].includes(section ?? '') ? 'active' : ''}>
           Gráficos
         </a>
         <a href="#/mapas" className={section === 'mapas' ? 'active' : ''}>
@@ -78,8 +79,8 @@ function TopBar({ section }: { section?: string }) {
         <a href="#/cruci" className={section === 'cruci' ? 'active' : ''}>
           Crucigramas
         </a>
-        <a href="#/mc" className={section === 'mc' ? 'active' : ''}>
-          Multiple choice
+        <a href="#/cuestionarios" className={section === 'cuestionarios' ? 'active' : ''}>
+          Cuestionarios
         </a>
       </nav>
       <ThemeToggle />
@@ -105,21 +106,5 @@ function ThemeToggle() {
         <path d="M10 3a7 7 0 0 1 0 14z" fill="currentColor" />
       </svg>
     </button>
-  )
-}
-
-function ComingSoon() {
-  return (
-    <main className="page">
-      <section className="hero hero-small">
-        <p className="eyebrow">Sección 02</p>
-        <h1 className="display">
-          Multiple
-          <br />
-          choice.
-        </h1>
-        <p className="lede">Próximamente: preguntas sacadas de los modelos de parcial viejos.</p>
-      </section>
-    </main>
   )
 }
