@@ -683,6 +683,9 @@ kbd {
 .link-quiet:hover {
   color: var(--ink);
 }
+.qz-externo {
+  margin-top: 14px;
+}
 .head-actions {
   display: flex;
   gap: 10px;

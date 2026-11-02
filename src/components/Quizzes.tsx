@@ -97,6 +97,13 @@ export function Quizzes() {
             Las preguntas que tomaron de verdad en U4, U5 y U6, y preguntas nuevas con el mismo estilo, formato y dificultad
             para repasar todo el apunte.
           </p>
+          <p className="muted small qz-externo">
+            ¿Querés seguir practicando? En{' '}
+            <a className="link-quiet" href="https://quizzis-utn.vercel.app/subjects/asi/2do-parcial/" target="_blank" rel="noreferrer">
+              Quizzis UTN
+            </a>{' '}
+            hay otras preguntas del 2do parcial de ASI.
+          </p>
         </div>
         <QuizArt />
       </section>
