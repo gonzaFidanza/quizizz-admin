@@ -5,6 +5,9 @@ import { parcialesU6 } from './parciales-u6'
 import { propiasU4 } from './propias-u4'
 import { propiasU5 } from './propias-u5'
 import { propiasU6 } from './propias-u6'
+import { cuestionarioU4 } from './cuestionario-u4'
+import { cuestionarioU5 } from './cuestionario-u5'
+import { cuestionarioU6 } from './cuestionario-u6'
 
 export { casos } from './casos'
 
@@ -26,9 +29,10 @@ export const questions: Question[] = [
   ...armar('u4', 'parcial', parcialesU4),
   ...armar('u5', 'parcial', parcialesU5),
   ...armar('u6', 'parcial', parcialesU6),
-  ...armar('u4', 'propia', propiasU4),
-  ...armar('u5', 'propia', propiasU5),
-  ...armar('u6', 'propia', propiasU6),
+  // El cuestionario de estudio va después de las propias para no cambiar los ids existentes.
+  ...armar('u4', 'propia', [...propiasU4, ...cuestionarioU4]),
+  ...armar('u5', 'propia', [...propiasU5, ...cuestionarioU5]),
+  ...armar('u6', 'propia', [...propiasU6, ...cuestionarioU6]),
 ]
 
 const porId = new Map(questions.map((q) => [q.id, q]))
