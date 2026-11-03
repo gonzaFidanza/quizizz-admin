@@ -160,6 +160,7 @@ function Setup(props: {
   const [scope, setScope] = useState<Scope>('clave')
   const [order, setOrder] = useState<Order>('orden')
   const [skipped, setSkipped] = useState(() => loadSkipped(group.key))
+  const [preview, setPreview] = useState<number | null>(null)
 
   const available = group.diagrams.filter((d) => d.configured)
   const chosen = available.filter((d) => !skipped.includes(d.id))
@@ -180,6 +181,7 @@ function Setup(props: {
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
+      if (preview !== null) return
       if (e.key === 'Enter' && !(e.target as HTMLElement).closest('button, a') && current.diagrams > 0) props.onStart(mode, scope, order, only)
     }
     window.addEventListener('keydown', onKey)
@@ -247,18 +249,35 @@ function Setup(props: {
         <div className="setup-row">
           <span className="setup-label">Gráficos</span>
           <div className="setup-control">
-            <div className="qz-chips">
-              {available.map((d) => {
+            <div className="pick-grid">
+              {available.map((d, i) => {
                 const on = !skipped.includes(d.id)
                 return (
-                  <button key={d.id} className={`chip-toggle pick-chip ${on ? 'on' : ''}`} onClick={() => toggleDiagram(d.id)} aria-pressed={on}>
-                    {d.title}
-                  </button>
+                  <div key={d.id} className={`pick-card ${on ? 'on' : ''}`}>
+                    <button className="pick-card-main" onClick={() => toggleDiagram(d.id)} aria-pressed={on} title={on ? 'Quitar de la serie' : 'Agregar a la serie'}>
+                      <span className="pick-thumb">
+                        <img src={d.image} alt="" loading="lazy" />
+                      </span>
+                      <span className="pick-card-foot">
+                        <span className="pick-check" aria-hidden="true">
+                          {on ? '✓' : ''}
+                        </span>
+                        <span>{d.title}</span>
+                      </span>
+                    </button>
+                    <button className="pick-zoom" onClick={() => setPreview(i)} aria-label={`Ver ${d.title} en grande`} title="Ver en grande">
+                      <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" aria-hidden="true">
+                        <circle cx="11" cy="11" r="7" />
+                        <path d="M20 20l-4-4M11 8v6M8 11h6" />
+                      </svg>
+                    </button>
+                  </div>
                 )
               })}
             </div>
             <p className="muted small">
-              {chosen.length} de {available.length} elegidos. Tocá los que no quieras practicar; la selección queda guardada ·{' '}
+              {chosen.length} de {available.length} elegidos. Tocá un gráfico para sacarlo o agregarlo, o la lupa para verlo en grande; la selección
+              queda guardada ·{' '}
               <button className="pick-all" onClick={() => updateSkipped([])}>
                 Todos
               </button>{' '}
@@ -286,7 +305,72 @@ function Setup(props: {
           </button>
         </div>
       </div>
+
+      {preview !== null && available[preview] && (
+        <Preview diagrams={available} index={preview} skipped={skipped} onToggle={toggleDiagram} onGo={setPreview} onClose={() => setPreview(null)} />
+      )}
     </main>
+  )
+}
+
+function Preview(props: {
+  diagrams: Diagram[]
+  index: number
+  skipped: string[]
+  onToggle: (id: string) => void
+  onGo: (index: number) => void
+  onClose: () => void
+}) {
+  const { diagrams, index } = props
+  const d = diagrams[index]
+  const on = !props.skipped.includes(d.id)
+  const go = (i: number) => props.onGo((i + diagrams.length) % diagrams.length)
+
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') props.onClose()
+      else if (e.key === 'ArrowRight') go(index + 1)
+      else if (e.key === 'ArrowLeft') go(index - 1)
+      else if (e.key === ' ' || e.key === 'Enter') {
+        e.preventDefault()
+        props.onToggle(d.id)
+      }
+    }
+    window.addEventListener('keydown', onKey)
+    return () => window.removeEventListener('keydown', onKey)
+  })
+
+  return (
+    <div className="overlay" onClick={props.onClose}>
+      <div className="preview-sheet" role="dialog" aria-modal="true" aria-label={d.title} onClick={(e) => e.stopPropagation()}>
+        <div className="preview-head">
+          <div>
+            <p className="eyebrow">
+              {String(index + 1).padStart(2, '0')} / {String(diagrams.length).padStart(2, '0')} · {on ? 'En la serie' : 'Fuera de la serie'}
+            </p>
+            <h2 className="preview-title">{d.title}</h2>
+          </div>
+          <button className="btn ghost" onClick={props.onClose} aria-label="Cerrar">
+            ✕
+          </button>
+        </div>
+        <div className="preview-img">
+          <img src={d.image} alt={d.title} />
+        </div>
+        <div className="preview-foot">
+          <button className="btn ghost" onClick={() => go(index - 1)} aria-label="Anterior">
+            ←
+          </button>
+          <button className={`btn ${on ? 'ghost' : 'primary'}`} onClick={() => props.onToggle(d.id)}>
+            {on ? 'Quitar de la serie' : 'Agregar a la serie'}
+          </button>
+          <button className="btn ghost" onClick={() => go(index + 1)} aria-label="Siguiente">
+            →
+          </button>
+        </div>
+        <p className="muted small preview-hint">← → para moverte · Espacio para agregar o quitar · Esc para cerrar</p>
+      </div>
+    </div>
   )
 }
 
